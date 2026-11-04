@@ -1,0 +1,635 @@
+[
+  {
+    "bvid": "BV1ys411472E",
+    "tags": [
+      "线性代数",
+      "向量",
+      "矩阵",
+      "双语"
+    ],
+    "summary": "从向量、矩阵与空间变换理解线性代数，适合和大学课程一起学习。",
+    "audience": "高中数学；作为直观理解的入口，不替代习题训练",
+    "category": "world",
+    "topic": "math",
+    "collection": "math",
+    "kind": "course",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "高中数学；作为直观理解的入口，不替代习题训练",
+    "sourceProvenance": "原作者中文官方账号"
+  },
+  {
+    "bvid": "BV13z421U7cs",
+    "tags": [
+      "大模型",
+      "Transformer",
+      "词向量"
+    ],
+    "summary": "把词向量、预测下一个词与 Transformer 放在一张直观的图景里。",
+    "audience": "建议先看神经网络结构与线性代数的向量章节",
+    "category": "ai",
+    "topic": "",
+    "collection": "ai-start",
+    "kind": "explainer",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "建议先看神经网络结构与线性代数的向量章节",
+    "sourceProvenance": "原作者中文官方账号",
+    "originalSource": "https://www.youtube.com/watch?v=wjZofJX0v4M"
+  },
+  {
+    "bvid": "BV1c4411e77t",
+    "tags": [
+      "Python",
+      "编程入门",
+      "系列课程"
+    ],
+    "summary": "用 Python 建立变量、控制流程、函数与程序练习的基础。",
+    "audience": "零基础；建议边看边运行示例",
+    "category": "code",
+    "topic": "",
+    "collection": "code-start",
+    "kind": "course",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "零基础；建议边看边运行示例",
+    "sourceProvenance": "创作者本人账号"
+  },
+  {
+    "bvid": "BV1iW42197dP",
+    "category": "world",
+    "collection": "economics",
+    "tags": [
+      "外汇",
+      "宏观经济",
+      "入门"
+    ],
+    "summary": "从汇率的变化出发，梳理外汇市场的参与者与运行机制。",
+    "reason": "适合建立宏观财经知识框架，先理解机制，再读市场新闻。",
+    "kind": "explainer",
+    "level": "beginner",
+    "topic": "finance",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1XY411J7aG",
+    "tags": [
+      "英语语法",
+      "英语基础",
+      "系列课程"
+    ],
+    "summary": "按语法结构梳理英语句子，补齐阅读与表达时容易混淆的基础。",
+    "audience": "适合希望系统补基础的学习者",
+    "category": "english",
+    "topic": "",
+    "collection": "language",
+    "kind": "course",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "适合希望系统补基础的学习者",
+    "sourceProvenance": "创作者本人账号"
+  },
+  {
+    "bvid": "BV1jk4y117eK",
+    "tags": [
+      "热身",
+      "无器械",
+      "运动入门"
+    ],
+    "summary": "无需器械的简短热身示范，作为建立运动习惯的参考入口。",
+    "audience": "按自身活动能力选择；动作示范不等同个体运动处方",
+    "category": "sports",
+    "topic": "",
+    "collection": "body",
+    "kind": "practice",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "按自身活动能力选择；动作示范不等同个体运动处方",
+    "sourceProvenance": "创作者本人账号"
+  },
+  {
+    "bvid": "BV1iZXcYqEYt",
+    "tags": [
+      "睡眠",
+      "健康科普",
+      "专家访谈"
+    ],
+    "summary": "健康中国对话陆林，围绕睡眠质量与常见睡眠问题做基础科普。",
+    "audience": "一般健康知识；不用于自我诊断或个体用药",
+    "category": "health",
+    "topic": "",
+    "collection": "body",
+    "kind": "explainer",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "一般健康知识；不用于自我诊断或个体用药",
+    "sourceProvenance": "国家卫生健康委健康中国官方账号"
+  },
+  {
+    "bvid": "BV1darmBcE4A",
+    "category": "ai",
+    "collection": "frontier",
+    "tags": [
+      "强化学习",
+      "后训练",
+      "工程实践"
+    ],
+    "summary": "从开源工具到大模型后训练，把研究、工程与基础设施放进同一张图景。",
+    "reason": "适合想理解模型背后工程体系的人，保留完整访谈的上下文。",
+    "kind": "interview",
+    "level": "curious",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1bx411M7Zx",
+    "tags": [
+      "神经网络",
+      "直观入门",
+      "双语"
+    ],
+    "summary": "先用手写数字识别理解神经网络的层、权重与输出，再进入大模型。",
+    "audience": "无需机器学习经验；配合线性代数入门",
+    "category": "ai",
+    "topic": "",
+    "collection": "ai-start",
+    "kind": "explainer",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "无需机器学习经验；配合线性代数入门",
+    "sourceProvenance": "原作者中文官方账号",
+    "originalSource": "https://youtu.be/aircAruvnKk"
+  },
+  {
+    "bvid": "BV1EW411u7th",
+    "tags": [
+      "计算机基础",
+      "CS 入门",
+      "系列课程"
+    ],
+    "summary": "从计算机如何工作开始，建立硬件、算法与软件之间的知识框架。",
+    "audience": "零基础；可按主题分集观看",
+    "category": "code",
+    "topic": "",
+    "collection": "code-start",
+    "kind": "course",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "零基础；可按主题分集观看",
+    "sourceProvenance": "社区字幕组翻译；未核实授权声明",
+    "originalSource": "https://github.com/1c7/crash-course-computer-science-chinese"
+  },
+  {
+    "bvid": "BV1tDx56REKt",
+    "tags": [
+      "学习方法",
+      "AI时代",
+      "学科选择"
+    ],
+    "summary": "围绕 AI 时代学什么展开讨论，可用来建立大学阶段学习取舍的问题意识。",
+    "reason": "用户提名；把它作为观点讨论，与基础课程搭配。",
+    "category": "ai",
+    "collection": "world",
+    "kind": "explainer",
+    "level": "beginner",
+    "sourceType": "用户提名",
+    "note": ""
+  },
+  {
+    "bvid": "BV1ww41177kU",
+    "tags": [
+      "雅思",
+      "英语学习",
+      "入门"
+    ],
+    "summary": "介绍雅思题型与备考思路，作为了解考试结构的第一站。",
+    "reason": "较系统的公开入门视频，不依赖当季口语题库。",
+    "category": "english",
+    "collection": "language",
+    "kind": "explainer",
+    "level": "beginner",
+    "sourceType": "用户提名",
+    "note": "先了解题型与备考框架；考试安排与现行规则以官方说明为准。"
+  },
+  {
+    "bvid": "BV1KP4y1678m",
+    "category": "world",
+    "collection": "economics",
+    "tags": [
+      "通货膨胀",
+      "经济学",
+      "入门"
+    ],
+    "summary": "理解价格为什么会上涨，以及通胀与经济运行之间的联系。",
+    "reason": "用一个基础主题连接货币、供给与需求。",
+    "kind": "explainer",
+    "level": "beginner",
+    "topic": "finance",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1CzjY6kE4x",
+    "tags": [
+      "运动营养",
+      "补剂识读",
+      "BCAA"
+    ],
+    "summary": "辨析 BCAA 的营养角色与 BCAA 补剂的实际用途。",
+    "reason": "用户提名；适合先理解运动营养概念，再判断补剂宣传。",
+    "category": "health",
+    "collection": "body",
+    "kind": "explainer",
+    "level": "beginner",
+    "sourceType": "用户提名",
+    "note": "运动营养概念科普，适合用来识别补剂宣传中的问题。"
+  },
+  {
+    "bvid": "BV1tk4y117yz",
+    "tags": [
+      "篮球",
+      "技术训练",
+      "实战讲解"
+    ],
+    "summary": "通过篮球实战与技术训练讲解，观察动作在场上的使用。",
+    "reason": "作者简介明确说明有技术训练讲解，比纯比赛剪辑更适合学习。",
+    "category": "sports",
+    "collection": "body",
+    "kind": "practice",
+    "level": "beginner",
+    "sourceType": "用户提名",
+    "note": ""
+  },
+  {
+    "bvid": "BV1iVoVBgERD",
+    "category": "ai",
+    "collection": "frontier",
+    "tags": [
+      "Agent",
+      "后训练",
+      "模型架构"
+    ],
+    "summary": "围绕智能体、后训练与算力分配，展开一次对 AI 范式变化的长谈。",
+    "reason": "适合关心 Agent 如何影响模型研发与组织方式的观众。",
+    "kind": "interview",
+    "level": "curious",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1qW411N7FU",
+    "tags": [
+      "微积分",
+      "导数",
+      "积分",
+      "双语"
+    ],
+    "summary": "通过图形建立导数与积分的直觉，把公式和变化联系起来。",
+    "audience": "高中函数基础；适合配合高数课程",
+    "category": "world",
+    "topic": "math",
+    "collection": "math",
+    "kind": "course",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "高中函数基础；适合配合高数课程",
+    "sourceProvenance": "原作者中文官方账号"
+  },
+  {
+    "bvid": "BV1iV411z7Nj",
+    "tags": [
+      "音标",
+      "发音",
+      "英语基础"
+    ],
+    "summary": "从发音位置和音标体系入手，为查词、听辨与跟读打底。",
+    "audience": "零基础；按需要挑选音素练习",
+    "category": "english",
+    "topic": "",
+    "collection": "language",
+    "kind": "course",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "零基础；按需要挑选音素练习",
+    "sourceProvenance": "创作者本人账号"
+  },
+  {
+    "bvid": "BV1hE411V77S",
+    "tags": [
+      "跑步",
+      "拉伸",
+      "运动入门"
+    ],
+    "summary": "用站立拉伸动作认识跑步后的整理活动，可与跑步基础内容搭配。",
+    "audience": "入门动作参考；原题含跑前跑后适用表述，本站不作普遍有效性背书",
+    "category": "sports",
+    "topic": "",
+    "collection": "body",
+    "kind": "practice",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "入门动作参考；原题含跑前跑后适用表述，本站不作普遍有效性背书",
+    "sourceProvenance": "创作者本人账号"
+  },
+  {
+    "bvid": "BV14Z421N7Cc",
+    "tags": [
+      "跑步",
+      "奥运会",
+      "运动纪录"
+    ],
+    "summary": "从运动员视角记录巴黎奥运会马拉松的参赛经历。",
+    "reason": "适合培养对跑步与运动生活的兴趣。",
+    "category": "sports",
+    "collection": "body",
+    "kind": "documentary",
+    "level": "curious",
+    "sourceType": "用户提名",
+    "note": "职业运动员的参赛纪录，用于了解赛事经历与运动生活。"
+  },
+  {
+    "bvid": "BV1usRgBEESe",
+    "category": "ai",
+    "collection": "frontier",
+    "tags": [
+      "具身智能",
+      "机器人",
+      "人类数据"
+    ],
+    "summary": "人类的日常行为，怎样变成机器人的学习材料？从行为克隆聊到数据与系统。",
+    "reason": "用一场深入对话，理解具身智能中的数据问题。",
+    "kind": "interview",
+    "level": "curious",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1fmgj66EtD",
+    "category": "ai",
+    "collection": "frontier",
+    "tags": [
+      "世界模型",
+      "英伟达",
+      "研究"
+    ],
+    "summary": "围绕 Cosmos、世界模型与研究组织，听技术实践者谈长期探索。",
+    "reason": "把模型研究与团队实践放在一起看，适合完整收听。",
+    "kind": "interview",
+    "level": "curious",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1YR5E6EE9o",
+    "category": "ai",
+    "collection": "frontier",
+    "tags": [
+      "大模型",
+      "训练",
+      "研究组织"
+    ],
+    "summary": "围绕大模型训练、技术预测与研究组织，谈个人判断与团队协作。",
+    "reason": "一手访谈提供研究经历与判断的背景，不只留下结论。",
+    "kind": "interview",
+    "level": "curious",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1XmtyzKEzQ",
+    "category": "ai",
+    "collection": "frontier",
+    "tags": [
+      "图形学",
+      "创业",
+      "开源"
+    ],
+    "summary": "从图形学和物理仿真，到开源工具与 Meshy，把技术理想带进真实产品。",
+    "reason": "连接研究、工程和商业化三个视角。",
+    "kind": "interview",
+    "level": "curious",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1uC4y1q79G",
+    "category": "world",
+    "collection": "economics",
+    "tags": [
+      "美联储",
+      "货币政策",
+      "宏观经济"
+    ],
+    "summary": "从美联储的历史和运作，认识中央银行的政策工具与取舍。",
+    "reason": "适合把零散的加息、降息新闻放回制度背景。",
+    "kind": "explainer",
+    "level": "beginner",
+    "topic": "finance",
+    "sourceType": "用户选题"
+  },
+  {
+    "aid": 114505220624919,
+    "category": "world",
+    "collection": "economics",
+    "tags": [
+      "商业模式",
+      "创作者经济",
+      "访谈"
+    ],
+    "summary": "通过对 MrBeast 的采访，观察大规模内容生产背后的商业逻辑。",
+    "reason": "从具体创作者理解内容、成本与商业模式。",
+    "kind": "interview",
+    "level": "curious",
+    "topic": "finance",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1cQYYzYEDX",
+    "category": "world",
+    "collection": "slowtalk",
+    "tags": [
+      "人物访谈",
+      "表达",
+      "人生选择"
+    ],
+    "summary": "两位采访者坐到一起，谈表达、被理解，以及各自走过的路。",
+    "reason": "在技术与财经之外，留一点时间给人的经验。",
+    "kind": "interview",
+    "level": "curious",
+    "topic": "humanities",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1zNoVB1EWb",
+    "category": "world",
+    "collection": "slowtalk",
+    "tags": [
+      "人物访谈",
+      "人生选择",
+      "罗翔"
+    ],
+    "summary": "关于命运、努力与个人选择，一场保留复杂性的人生长谈。",
+    "reason": "适合在持续追逐新知之后，重新思考自己的位置。",
+    "kind": "interview",
+    "level": "curious",
+    "topic": "humanities",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1dd7r6oEpf",
+    "category": "world",
+    "collection": "slowtalk",
+    "tags": [
+      "人物访谈",
+      "表达",
+      "张泉灵"
+    ],
+    "summary": "两位媒体人对谈，从各自走过的时代，聊到彼此眼中的变化。",
+    "reason": "让不同阶段的经历与判断，放在一段完整对话里。",
+    "kind": "interview",
+    "level": "curious",
+    "topic": "humanities",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1jCpizuEPg",
+    "category": "world",
+    "collection": "slowtalk",
+    "tags": [
+      "人物访谈",
+      "窦文涛",
+      "三十年"
+    ],
+    "summary": "聊聊相识三十年的经历，也聊变化中的表达与生活。",
+    "reason": "熟悉的谈话者之间，有值得慢下来听的细节。",
+    "kind": "interview",
+    "level": "curious",
+    "topic": "humanities",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV12gmuBWEJY",
+    "category": "world",
+    "collection": "slowtalk",
+    "tags": [
+      "人物访谈",
+      "吴越",
+      "自我"
+    ],
+    "summary": "从演员、女儿到自己，谈角色与生活之间的真实经验。",
+    "reason": "关注公共角色之外，一个人的具体生活与选择。",
+    "kind": "interview",
+    "level": "curious",
+    "topic": "humanities",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1wZJD6NEku",
+    "category": "world",
+    "collection": "slowtalk",
+    "tags": [
+      "人物访谈",
+      "王凯",
+      "长期主义"
+    ],
+    "summary": "围绕二十年的演艺经历，谈职业选择和坚持。",
+    "reason": "从长期职业实践中理解选择与取舍。",
+    "kind": "interview",
+    "level": "curious",
+    "topic": "humanities",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1CAHV6PEPM",
+    "category": "ai",
+    "collection": "frontier",
+    "tags": [
+      "PhD",
+      "研究方法",
+      "后训练"
+    ],
+    "summary": "与小米 MiMo 研究员李磊一起，讨论 AI 时代读博与研究中的关键问题。",
+    "reason": "适合正在选择研究方向、读博路径与产业机会的人。",
+    "kind": "interview",
+    "level": "curious",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV18j411S7ST",
+    "category": "world",
+    "collection": "economics",
+    "tags": [
+      "英伟达",
+      "芯片",
+      "商业分析"
+    ],
+    "summary": "从黄仁勋和英伟达的成长，理解芯片产业与 AI 商业生态的关系。",
+    "reason": "把技术演进和商业选择放在一起，观察一家科技公司的发展。",
+    "kind": "explainer",
+    "level": "beginner",
+    "topic": "finance",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV16s7b68EwG",
+    "category": "world",
+    "collection": "slowtalk",
+    "tags": [
+      "papi酱",
+      "窦文涛",
+      "创作与生活"
+    ],
+    "summary": "从创作与流量聊到自律和生活，在公众形象之外寻找自己的支点。",
+    "reason": "为忙碌的技术与商业世界，补上一场关于日常生活的长谈。",
+    "kind": "interview",
+    "level": "curious",
+    "topic": "humanities",
+    "sourceType": "用户选题"
+  },
+  {
+    "bvid": "BV1W5411V7No",
+    "tags": [
+      "篮球",
+      "跳投",
+      "热身"
+    ],
+    "summary": "以跳投训练中的热身片段为入口，观察训练准备过程。",
+    "reason": "主题具体、篇幅短，可与实战讲解搭配。",
+    "category": "sports",
+    "collection": "body",
+    "kind": "practice",
+    "level": "beginner",
+    "sourceType": "用户提名",
+    "note": "作者训练计划中的公开片段；此处不是完整训练课程。"
+  },
+  {
+    "bvid": "BV1pW411J7s8",
+    "tags": [
+      "傅里叶变换",
+      "数学可视化",
+      "信号"
+    ],
+    "summary": "用旋转与图像理解频率分解，连接数学和声音、信号。",
+    "audience": "建议已有函数与积分的直观认识",
+    "category": "world",
+    "topic": "math",
+    "collection": "math",
+    "kind": "explainer",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "建议已有函数与积分的直观认识",
+    "sourceProvenance": "原作者中文官方账号",
+    "originalSource": "https://youtu.be/spUNpyF58BY"
+  },
+  {
+    "bvid": "BV1LHev6yEs8",
+    "tags": [
+      "口腔健康",
+      "健康科普",
+      "短课"
+    ],
+    "summary": "CGTN 采访北大口腔专家，介绍日常护牙与常见口腔问题。",
+    "audience": "日常健康知识；具体检查与治疗由专业人员判断",
+    "category": "health",
+    "topic": "",
+    "collection": "body",
+    "kind": "explainer",
+    "level": "beginner",
+    "sourceType": "编辑补充",
+    "reason": "日常健康知识；具体检查与治疗由专业人员判断",
+    "sourceProvenance": "CGTN 官方账号；采访北京大学口腔医院胡文杰"
+  }
+]

@@ -1,0 +1,3229 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-11-04T02:09:31.206369+00:00",
+  "videos": [
+    {
+      "bvid": "BV1ys411472E",
+      "tags": [
+        "线性代数",
+        "向量",
+        "矩阵",
+        "双语"
+      ],
+      "summary": "从向量、矩阵与空间变换理解线性代数，适合和大学课程一起学习。",
+      "audience": "高中数学；作为直观理解的入口，不替代习题训练",
+      "category": "world",
+      "topic": "math",
+      "collection": "math",
+      "kind": "course",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "高中数学；作为直观理解的入口，不替代习题训练",
+      "sourceProvenance": "原作者中文官方账号",
+      "id": "BV1ys411472E",
+      "title": "【官方双语/合集】线性代数的本质 - 系列合集",
+      "creator": "3Blue1Brown",
+      "aid": 6731067,
+      "cid": 10959711,
+      "creatorMid": 88461692,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 10959711,
+          "title": "00 - 序言",
+          "duration": 309
+        },
+        {
+          "page": 2,
+          "cid": 10959712,
+          "title": "01 - 向量究竟是什么？",
+          "duration": 592
+        },
+        {
+          "page": 3,
+          "cid": 10959713,
+          "title": "02 - 线性组合、张成的空间与基",
+          "duration": 599
+        },
+        {
+          "page": 4,
+          "cid": 10959714,
+          "title": "03 - 矩阵与线性变换",
+          "duration": 658
+        },
+        {
+          "page": 5,
+          "cid": 10959715,
+          "title": "04 - 矩阵乘法与线性变换复合",
+          "duration": 603
+        },
+        {
+          "page": 6,
+          "cid": 10959716,
+          "title": "附注1 - 三维空间中的线性变换",
+          "duration": 285
+        },
+        {
+          "page": 7,
+          "cid": 10959717,
+          "title": "05 - 行列式",
+          "duration": 603
+        },
+        {
+          "page": 8,
+          "cid": 10959718,
+          "title": "06 - 逆矩阵、列空间与零空间",
+          "duration": 729
+        },
+        {
+          "page": 9,
+          "cid": 10959719,
+          "title": "附注2 - 非方阵",
+          "duration": 266
+        },
+        {
+          "page": 10,
+          "cid": 10959720,
+          "title": "07 - 点积与对偶性",
+          "duration": 851
+        },
+        {
+          "page": 11,
+          "cid": 10959721,
+          "title": "08第一部分 - 叉积的标准介绍",
+          "duration": 533
+        },
+        {
+          "page": 12,
+          "cid": 10959722,
+          "title": "08第二部分 - 以线性变换的眼光看叉积",
+          "duration": 790
+        },
+        {
+          "page": 13,
+          "cid": 10959723,
+          "title": "09 - 基变换",
+          "duration": 771
+        },
+        {
+          "page": 14,
+          "cid": 10959724,
+          "title": "10 - 特征向量与特征值",
+          "duration": 1035
+        },
+        {
+          "page": 15,
+          "cid": 10959725,
+          "title": "11 - 抽象向量空间",
+          "duration": 1006
+        },
+        {
+          "page": 16,
+          "cid": 85333484,
+          "title": "12 - 克莱姆法则，几何解释",
+          "duration": 733
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/88461692",
+      "cover": "https://i2.hdslb.com/bfs/archive/c81a8eb032f3eaa1afd604272a410ac6896f281e.jpg",
+      "duration": 10363,
+      "publishedAt": "2016-10-18",
+      "url": "https://www.bilibili.com/video/BV1ys411472E/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV13z421U7cs",
+      "tags": [
+        "大模型",
+        "Transformer",
+        "词向量"
+      ],
+      "summary": "把词向量、预测下一个词与 Transformer 放在一张直观的图景里。",
+      "audience": "建议先看神经网络结构与线性代数的向量章节",
+      "category": "ai",
+      "topic": "",
+      "collection": "ai-start",
+      "kind": "explainer",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "建议先看神经网络结构与线性代数的向量章节",
+      "sourceProvenance": "原作者中文官方账号",
+      "originalSource": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+      "id": "BV13z421U7cs",
+      "title": "【官方双语】GPT是什么？直观解释Transformer | 深度学习第5章",
+      "creator": "3Blue1Brown",
+      "aid": 1353986541,
+      "cid": 1525102356,
+      "creatorMid": 88461692,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 1525102356,
+          "title": "【官方双语】GPT是什么？直观解释Transformer | 深度学习第5章",
+          "duration": 1634
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/88461692",
+      "cover": "https://i0.hdslb.com/bfs/archive/f2b59e2ba81081f22640102d542b01a8bb0c41f0.jpg",
+      "duration": 1634,
+      "publishedAt": "2024-04-30",
+      "url": "https://www.bilibili.com/video/BV13z421U7cs/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1c4411e77t",
+      "tags": [
+        "Python",
+        "编程入门",
+        "系列课程"
+      ],
+      "summary": "用 Python 建立变量、控制流程、函数与程序练习的基础。",
+      "audience": "零基础；建议边看边运行示例",
+      "category": "code",
+      "topic": "",
+      "collection": "code-start",
+      "kind": "course",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "零基础；建议边看边运行示例",
+      "sourceProvenance": "创作者本人账号",
+      "id": "BV1c4411e77t",
+      "title": "【Python教程】《零基础入门学习Python》最新版（完结撒花🎉）",
+      "creator": "鱼C-小甲鱼",
+      "aid": 52080698,
+      "cid": 91171282,
+      "creatorMid": 314076440,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/4543ce186f9b74e60a85e66c010187bd3be3d0e1.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 91171282,
+          "title": "序章",
+          "duration": 427
+        },
+        {
+          "page": 2,
+          "cid": 99021275,
+          "title": "环境搭建和课程介绍",
+          "duration": 555
+        },
+        {
+          "page": 3,
+          "cid": 103216626,
+          "title": "用Python设计第一个游戏",
+          "duration": 488
+        },
+        {
+          "page": 4,
+          "cid": 106750375,
+          "title": "变量和字符串（上）",
+          "duration": 703
+        },
+        {
+          "page": 5,
+          "cid": 109459262,
+          "title": "变量和字符串（下）",
+          "duration": 558
+        },
+        {
+          "page": 6,
+          "cid": 112094099,
+          "title": "是时候讲讲代码了",
+          "duration": 501
+        },
+        {
+          "page": 7,
+          "cid": 114858655,
+          "title": "改进我们的小游戏（上）",
+          "duration": 731
+        },
+        {
+          "page": 8,
+          "cid": 116568143,
+          "title": "改进我们的小游戏（下）",
+          "duration": 506
+        },
+        {
+          "page": 9,
+          "cid": 122383463,
+          "title": "数字类型（上）",
+          "duration": 521
+        },
+        {
+          "page": 10,
+          "cid": 124659940,
+          "title": "数字类型（下）",
+          "duration": 683
+        },
+        {
+          "page": 11,
+          "cid": 126281993,
+          "title": "布尔类型",
+          "duration": 699
+        },
+        {
+          "page": 12,
+          "cid": 129162944,
+          "title": "短路逻辑和运算符优先级",
+          "duration": 637
+        },
+        {
+          "page": 13,
+          "cid": 132324070,
+          "title": "谋定而后动，知止而有得（上）",
+          "duration": 557
+        },
+        {
+          "page": 14,
+          "cid": 139831368,
+          "title": "谋定而后动，知止而有得（下）",
+          "duration": 1044
+        },
+        {
+          "page": 15,
+          "cid": 149424671,
+          "title": "了不起的分支和循环（I）",
+          "duration": 561
+        },
+        {
+          "page": 16,
+          "cid": 154494526,
+          "title": "了不起的分支和循环（II）",
+          "duration": 593
+        },
+        {
+          "page": 17,
+          "cid": 160570581,
+          "title": "了不起的分支和循环（III）",
+          "duration": 527
+        },
+        {
+          "page": 18,
+          "cid": 166883220,
+          "title": "了不起的分支和循环（IV）",
+          "duration": 741
+        },
+        {
+          "page": 19,
+          "cid": 174499958,
+          "title": "了不起的分支和循环（V）",
+          "duration": 584
+        },
+        {
+          "page": 20,
+          "cid": 178048824,
+          "title": "列表（I）",
+          "duration": 547
+        },
+        {
+          "page": 21,
+          "cid": 186686141,
+          "title": "列表（II）",
+          "duration": 505
+        },
+        {
+          "page": 22,
+          "cid": 202152889,
+          "title": "列表（III）",
+          "duration": 587
+        },
+        {
+          "page": 23,
+          "cid": 350647395,
+          "title": "列表（IV）",
+          "duration": 717
+        },
+        {
+          "page": 24,
+          "cid": 216800090,
+          "title": "列表（V）",
+          "duration": 477
+        },
+        {
+          "page": 25,
+          "cid": 218186450,
+          "title": "列表（VI）",
+          "duration": 618
+        },
+        {
+          "page": 26,
+          "cid": 226655043,
+          "title": "列表（VII）",
+          "duration": 726
+        },
+        {
+          "page": 27,
+          "cid": 249981844,
+          "title": "元组",
+          "duration": 757
+        },
+        {
+          "page": 28,
+          "cid": 257626197,
+          "title": "字符串（I）",
+          "duration": 581
+        },
+        {
+          "page": 29,
+          "cid": 262917186,
+          "title": "字符串（II）",
+          "duration": 618
+        },
+        {
+          "page": 30,
+          "cid": 267504682,
+          "title": "字符串（III）",
+          "duration": 837
+        },
+        {
+          "page": 31,
+          "cid": 280383104,
+          "title": "字符串（IV）",
+          "duration": 946
+        },
+        {
+          "page": 32,
+          "cid": 286254085,
+          "title": "字符串（V）",
+          "duration": 732
+        },
+        {
+          "page": 33,
+          "cid": 299469695,
+          "title": "字符串（VI）",
+          "duration": 998
+        },
+        {
+          "page": 34,
+          "cid": 326779796,
+          "title": "序列（上）",
+          "duration": 688
+        },
+        {
+          "page": 35,
+          "cid": 366056058,
+          "title": "序列（中）",
+          "duration": 858
+        },
+        {
+          "page": 36,
+          "cid": 378708528,
+          "title": "序列（下）",
+          "duration": 1067
+        },
+        {
+          "page": 37,
+          "cid": 394430081,
+          "title": "字典（上）",
+          "duration": 537
+        },
+        {
+          "page": 38,
+          "cid": 412181324,
+          "title": "字典（中）",
+          "duration": 859
+        },
+        {
+          "page": 39,
+          "cid": 416190350,
+          "title": "字典（下）",
+          "duration": 879
+        },
+        {
+          "page": 40,
+          "cid": 434310837,
+          "title": "集合（上）",
+          "duration": 794
+        },
+        {
+          "page": 41,
+          "cid": 440073557,
+          "title": "集合（下）",
+          "duration": 899
+        },
+        {
+          "page": 42,
+          "cid": 453536113,
+          "title": "函数（I）",
+          "duration": 611
+        },
+        {
+          "page": 43,
+          "cid": 458167815,
+          "title": "函数（II）",
+          "duration": 672
+        },
+        {
+          "page": 44,
+          "cid": 465174616,
+          "title": "函数（III）",
+          "duration": 748
+        },
+        {
+          "page": 45,
+          "cid": 467241986,
+          "title": "函数（IV）",
+          "duration": 784
+        },
+        {
+          "page": 46,
+          "cid": 474377396,
+          "title": "闭包 -- 函数（V）",
+          "duration": 940
+        },
+        {
+          "page": 47,
+          "cid": 479001270,
+          "title": "装饰器 -- 函数（VI）",
+          "duration": 963
+        },
+        {
+          "page": 48,
+          "cid": 483809930,
+          "title": "lambda表达式 -- 函数（VII）",
+          "duration": 553
+        },
+        {
+          "page": 49,
+          "cid": 495809467,
+          "title": "生成器 -- 函数（VIII）",
+          "duration": 540
+        },
+        {
+          "page": 50,
+          "cid": 508200389,
+          "title": "递归 -- 函数（IX）",
+          "duration": 746
+        },
+        {
+          "page": 51,
+          "cid": 541512521,
+          "title": "汉诺塔 -- 函数（X）",
+          "duration": 824
+        },
+        {
+          "page": 52,
+          "cid": 546862364,
+          "title": "函数文档、类型注释、内省 -- 函数（XI）",
+          "duration": 689
+        },
+        {
+          "page": 53,
+          "cid": 553243345,
+          "title": "高阶函数 -- 函数（XII）",
+          "duration": 689
+        },
+        {
+          "page": 54,
+          "cid": 560714057,
+          "title": "永久存储（上）",
+          "duration": 735
+        },
+        {
+          "page": 55,
+          "cid": 568259466,
+          "title": "永久存储（中）",
+          "duration": 1166
+        },
+        {
+          "page": 56,
+          "cid": 570434376,
+          "title": "永久存储（下）",
+          "duration": 672
+        },
+        {
+          "page": 57,
+          "cid": 578652876,
+          "title": "异常（上）",
+          "duration": 647
+        },
+        {
+          "page": 58,
+          "cid": 582475235,
+          "title": "异常（下）",
+          "duration": 717
+        },
+        {
+          "page": 59,
+          "cid": 714492956,
+          "title": "是时候让大家拥有对象了 -- 类和对象（I）",
+          "duration": 726
+        },
+        {
+          "page": 60,
+          "cid": 717973391,
+          "title": "继承、多重继承、组合 -- 类和对象（II）",
+          "duration": 672
+        },
+        {
+          "page": 61,
+          "cid": 723722093,
+          "title": "绑定 -- 类和对象（III）",
+          "duration": 767
+        },
+        {
+          "page": 62,
+          "cid": 734720495,
+          "title": "构造函数、重写、钻石继承 -- 类和对象（IV）",
+          "duration": 811
+        },
+        {
+          "page": 63,
+          "cid": 736699038,
+          "title": "Mixin及案例源码剖析 -- 类和对象（V）",
+          "duration": 557
+        },
+        {
+          "page": 64,
+          "cid": 739839144,
+          "title": "多态和鸭子类型 -- 类和对象（VI）",
+          "duration": 889
+        },
+        {
+          "page": 65,
+          "cid": 749036265,
+          "title": "私有变量和__slots__ -- 类和对象（VII）",
+          "duration": 916
+        },
+        {
+          "page": 66,
+          "cid": 756837552,
+          "title": "原来Python懂魔法 -- 类和对象（VIII）",
+          "duration": 961
+        },
+        {
+          "page": 67,
+          "cid": 767375374,
+          "title": "运算相关的魔法方法（上）-- 类和对象（IX）",
+          "duration": 770
+        },
+        {
+          "page": 68,
+          "cid": 776358714,
+          "title": "运算相关的魔法方法（下）-- 类和对象（X）",
+          "duration": 891
+        },
+        {
+          "page": 69,
+          "cid": 783177578,
+          "title": "属性访问相关的魔法方法 -- 类和对象（XI）",
+          "duration": 716
+        },
+        {
+          "page": 70,
+          "cid": 791143899,
+          "title": "索引、切片、迭代协议 -- 类和对象（XII）",
+          "duration": 746
+        },
+        {
+          "page": 71,
+          "cid": 798777035,
+          "title": "代偿 -- 类和对象（XIII）",
+          "duration": 857
+        },
+        {
+          "page": 72,
+          "cid": 805838708,
+          "title": "对象调用相关的魔法方法 -- 类和对象（XIV）",
+          "duration": 755
+        },
+        {
+          "page": 73,
+          "cid": 814613012,
+          "title": "property() -- 类和对象（XV）",
+          "duration": 663
+        },
+        {
+          "page": 74,
+          "cid": 824151577,
+          "title": "类方法和静态方法 -- 类和对象（XVI）",
+          "duration": 687
+        },
+        {
+          "page": 75,
+          "cid": 834772267,
+          "title": "【困难预警，选修】描述符及property()实现原理 -- 类和对象（XVII）",
+          "duration": 960
+        },
+        {
+          "page": 76,
+          "cid": 846299630,
+          "title": "【困难预警，选修】数据描述符、非数据描述符、优雅编程 -- 类和对象（XVIII）",
+          "duration": 821
+        },
+        {
+          "page": 77,
+          "cid": 860121858,
+          "title": "【困难预警，选修】函数、方法、静态方法、类方法的底层实现原理 -- 类和对象（XIX）",
+          "duration": 946
+        },
+        {
+          "page": 78,
+          "cid": 873886096,
+          "title": "【困难预警，选修】类装饰器 -- 类和对象（XX）",
+          "duration": 1023
+        },
+        {
+          "page": 79,
+          "cid": 888055091,
+          "title": "type()函数和__init_subclass__ -- 类和对象（XXI）",
+          "duration": 991
+        },
+        {
+          "page": 80,
+          "cid": 909296339,
+          "title": "元类 -- 类和对象（XXII）",
+          "duration": 765
+        },
+        {
+          "page": 81,
+          "cid": 937068689,
+          "title": "元类的应用 -- 类和对象（XXIII）",
+          "duration": 1054
+        },
+        {
+          "page": 82,
+          "cid": 984901031,
+          "title": "抽象基类 -- 类和对象（XXIV）",
+          "duration": 706
+        },
+        {
+          "page": 83,
+          "cid": 1005441933,
+          "title": "死磕成就非凡 -- 类和对象（XXV）",
+          "duration": 563
+        },
+        {
+          "page": 84,
+          "cid": 1041080059,
+          "title": "模块和包（上）",
+          "duration": 767
+        },
+        {
+          "page": 85,
+          "cid": 1061028372,
+          "title": "模块和包（中）",
+          "duration": 1086
+        },
+        {
+          "page": 86,
+          "cid": 1081646276,
+          "title": "模块和包（下）",
+          "duration": 723
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/314076440",
+      "cover": "https://i2.hdslb.com/bfs/archive/383c952565090276d1908c1f50d416d0b43c8429.jpg",
+      "duration": 63328,
+      "publishedAt": "2019-05-11",
+      "url": "https://www.bilibili.com/video/BV1c4411e77t/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1iW42197dP",
+      "category": "world",
+      "collection": "economics",
+      "tags": [
+        "外汇",
+        "宏观经济",
+        "入门"
+      ],
+      "summary": "从汇率的变化出发，梳理外汇市场的参与者与运行机制。",
+      "reason": "适合建立宏观财经知识框架，先理解机制，再读市场新闻。",
+      "kind": "explainer",
+      "level": "beginner",
+      "topic": "finance",
+      "sourceType": "用户选题",
+      "id": "BV1iW42197dP",
+      "title": "【硬核】一口气了解外汇",
+      "creator": "小Lin说",
+      "aid": 1856425863,
+      "cid": 1631370545,
+      "creatorMid": 520819684,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 1631370545,
+          "title": "【硬核】一口气了解外汇",
+          "duration": 1672
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/520819684",
+      "cover": "https://i2.hdslb.com/bfs/archive/36496babeed22dc2f0e4e160ee9500415655dc45.jpg",
+      "duration": 1672,
+      "publishedAt": "2024-07-29",
+      "url": "https://www.bilibili.com/video/BV1iW42197dP/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1XY411J7aG",
+      "tags": [
+        "英语语法",
+        "英语基础",
+        "系列课程"
+      ],
+      "summary": "按语法结构梳理英语句子，补齐阅读与表达时容易混淆的基础。",
+      "audience": "适合希望系统补基础的学习者",
+      "category": "english",
+      "topic": "",
+      "collection": "language",
+      "kind": "course",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "适合希望系统补基础的学习者",
+      "sourceProvenance": "创作者本人账号",
+      "id": "BV1XY411J7aG",
+      "title": "英语语法精讲合集 (全面, 通俗, 有趣 | 从零打造系统语法体系)",
+      "creator": "英语兔",
+      "aid": 255311341,
+      "cid": 564348808,
+      "creatorMid": 483162496,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/1dd70a5905e9715b261d36d3f403eb477adbfe59.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 564348808,
+          "title": "请先看这里",
+          "duration": 412
+        },
+        {
+          "page": 2,
+          "cid": 564356171,
+          "title": "英语语法综述",
+          "duration": 1604
+        },
+        {
+          "page": 3,
+          "cid": 564357279,
+          "title": "动词分类",
+          "duration": 259
+        },
+        {
+          "page": 4,
+          "cid": 569640353,
+          "title": "动词时态",
+          "duration": 3568
+        },
+        {
+          "page": 5,
+          "cid": 564359877,
+          "title": "动词语气(虚拟语气)",
+          "duration": 1477
+        },
+        {
+          "page": 6,
+          "cid": 586135037,
+          "title": "非谓语动词",
+          "duration": 2265
+        },
+        {
+          "page": 7,
+          "cid": 564360936,
+          "title": "独立主格",
+          "duration": 515
+        },
+        {
+          "page": 8,
+          "cid": 564361112,
+          "title": "助动词&情态动词",
+          "duration": 1393
+        },
+        {
+          "page": 9,
+          "cid": 564361521,
+          "title": "系动词",
+          "duration": 182
+        },
+        {
+          "page": 10,
+          "cid": 564361625,
+          "title": "使役动词",
+          "duration": 530
+        },
+        {
+          "page": 11,
+          "cid": 564362023,
+          "title": "从句",
+          "duration": 4808
+        },
+        {
+          "page": 12,
+          "cid": 564363245,
+          "title": "冠词",
+          "duration": 1101
+        },
+        {
+          "page": 13,
+          "cid": 573640195,
+          "title": "介词",
+          "duration": 2751
+        },
+        {
+          "page": 14,
+          "cid": 564364506,
+          "title": "名词",
+          "duration": 854
+        },
+        {
+          "page": 15,
+          "cid": 564364639,
+          "title": "代词",
+          "duration": 1207
+        },
+        {
+          "page": 16,
+          "cid": 564365044,
+          "title": "数词",
+          "duration": 947
+        },
+        {
+          "page": 17,
+          "cid": 564365330,
+          "title": "形容词",
+          "duration": 1069
+        },
+        {
+          "page": 18,
+          "cid": 564365629,
+          "title": "副词",
+          "duration": 785
+        },
+        {
+          "page": 19,
+          "cid": 719093062,
+          "title": "连词",
+          "duration": 465
+        },
+        {
+          "page": 20,
+          "cid": 564365940,
+          "title": "叹词",
+          "duration": 231
+        },
+        {
+          "page": 21,
+          "cid": 564366201,
+          "title": "限定词",
+          "duration": 149
+        },
+        {
+          "page": 22,
+          "cid": 564366221,
+          "title": "构词法",
+          "duration": 1234
+        },
+        {
+          "page": 23,
+          "cid": 564366440,
+          "title": "句子成分&分类",
+          "duration": 273
+        },
+        {
+          "page": 24,
+          "cid": 564366713,
+          "title": "被动",
+          "duration": 535
+        },
+        {
+          "page": 25,
+          "cid": 564367020,
+          "title": "倒装",
+          "duration": 572
+        },
+        {
+          "page": 26,
+          "cid": 564367126,
+          "title": "强调",
+          "duration": 680
+        },
+        {
+          "page": 27,
+          "cid": 564367352,
+          "title": "省略",
+          "duration": 556
+        },
+        {
+          "page": 28,
+          "cid": 564367440,
+          "title": "主谓一致",
+          "duration": 843
+        },
+        {
+          "page": 29,
+          "cid": 564367680,
+          "title": "英文标点",
+          "duration": 644
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/483162496",
+      "cover": "https://i2.hdslb.com/bfs/archive/2f68c61bb7c4a05dc707e41c1c97560594a5a53a.jpg",
+      "duration": 31909,
+      "publishedAt": "2022-04-01",
+      "url": "https://www.bilibili.com/video/BV1XY411J7aG/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1jk4y117eK",
+      "tags": [
+        "热身",
+        "无器械",
+        "运动入门"
+      ],
+      "summary": "无需器械的简短热身示范，作为建立运动习惯的参考入口。",
+      "audience": "按自身活动能力选择；动作示范不等同个体运动处方",
+      "category": "sports",
+      "topic": "",
+      "collection": "body",
+      "kind": "practice",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "按自身活动能力选择；动作示范不等同个体运动处方",
+      "sourceProvenance": "创作者本人账号",
+      "id": "BV1jk4y117eK",
+      "title": "5分钟快速热身运动｜运动前必做｜全身简易无工具【周六野Zoey】",
+      "creator": "周六野Zoey",
+      "aid": 754663243,
+      "cid": 238556123,
+      "creatorMid": 62540916,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/3343a1a609d95c669671b0b4e57484708fb6760c.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 238556123,
+          "title": "热身完整有logo",
+          "duration": 392
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/62540916",
+      "cover": "https://i2.hdslb.com/bfs/archive/56220cb3915d5ce76951e486e6e4feb6a5741981.jpg",
+      "duration": 392,
+      "publishedAt": "2020-09-24",
+      "url": "https://www.bilibili.com/video/BV1jk4y117eK/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1iZXcYqEYt",
+      "tags": [
+        "睡眠",
+        "健康科普",
+        "专家访谈"
+      ],
+      "summary": "健康中国对话陆林，围绕睡眠质量与常见睡眠问题做基础科普。",
+      "audience": "一般健康知识；不用于自我诊断或个体用药",
+      "category": "health",
+      "topic": "",
+      "collection": "body",
+      "kind": "explainer",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "一般健康知识；不用于自我诊断或个体用药",
+      "sourceProvenance": "国家卫生健康委健康中国官方账号",
+      "id": "BV1iZXcYqEYt",
+      "title": "名家健康谈丨世界睡眠日，听陆林院士谈：好梦启程 梦想成真",
+      "creator": "健康中国官方账号",
+      "aid": 114192392658460,
+      "cid": 28961407083,
+      "creatorMid": 210954454,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/c3ff0df88d8c1985e2bbdc97caea0edd0147f928.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 28961407083,
+          "title": "名家健康谈丨世界睡眠日，听陆林院士谈：好梦启程 梦想成真",
+          "duration": 1652
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/210954454",
+      "cover": "https://i1.hdslb.com/bfs/archive/09b250ead912acab73d351964a623d01d3bea0ef.jpg",
+      "duration": 1652,
+      "publishedAt": "2025-03-21",
+      "url": "https://www.bilibili.com/video/BV1iZXcYqEYt/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1darmBcE4A",
+      "category": "ai",
+      "collection": "frontier",
+      "tags": [
+        "强化学习",
+        "后训练",
+        "工程实践"
+      ],
+      "summary": "从开源工具到大模型后训练，把研究、工程与基础设施放进同一张图景。",
+      "reason": "适合想理解模型背后工程体系的人，保留完整访谈的上下文。",
+      "kind": "interview",
+      "level": "curious",
+      "sourceType": "用户选题",
+      "id": "BV1darmBcE4A",
+      "title": "翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4",
+      "creator": "WhynotTV",
+      "aid": 115909138055436,
+      "cid": 35438791242,
+      "creatorMid": 14145636,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/6918bc3b2c8d65a709a1402f6248061c1a8793a8.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 35438791242,
+          "title": "翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4",
+          "duration": 7365
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/14145636",
+      "cover": "https://i2.hdslb.com/bfs/archive/54724e4aece32efd308fa76c613597182e54e32e.jpg",
+      "duration": 7365,
+      "publishedAt": "2026-01-17",
+      "url": "https://www.bilibili.com/video/BV1darmBcE4A/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1bx411M7Zx",
+      "tags": [
+        "神经网络",
+        "直观入门",
+        "双语"
+      ],
+      "summary": "先用手写数字识别理解神经网络的层、权重与输出，再进入大模型。",
+      "audience": "无需机器学习经验；配合线性代数入门",
+      "category": "ai",
+      "topic": "",
+      "collection": "ai-start",
+      "kind": "explainer",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "无需机器学习经验；配合线性代数入门",
+      "sourceProvenance": "原作者中文官方账号",
+      "originalSource": "https://youtu.be/aircAruvnKk",
+      "id": "BV1bx411M7Zx",
+      "title": "【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0",
+      "creator": "3Blue1Brown",
+      "aid": 15532370,
+      "cid": 25368631,
+      "creatorMid": 88461692,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 25368631,
+          "title": "【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0",
+          "duration": 1153
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/88461692",
+      "cover": "https://i2.hdslb.com/bfs/archive/3fddf427ddef5a78105deb60180727a7ad47c4d8.jpg",
+      "duration": 1153,
+      "publishedAt": "2017-10-19",
+      "url": "https://www.bilibili.com/video/BV1bx411M7Zx/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1EW411u7th",
+      "tags": [
+        "计算机基础",
+        "CS 入门",
+        "系列课程"
+      ],
+      "summary": "从计算机如何工作开始，建立硬件、算法与软件之间的知识框架。",
+      "audience": "零基础；可按主题分集观看",
+      "category": "code",
+      "topic": "",
+      "collection": "code-start",
+      "kind": "course",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "零基础；可按主题分集观看",
+      "sourceProvenance": "社区字幕组翻译；未核实授权声明",
+      "originalSource": "https://github.com/1c7/crash-course-computer-science-chinese",
+      "id": "BV1EW411u7th",
+      "title": "【计算机科学速成课】[40集全/精校] - Crash Course Computer Science",
+      "creator": "CrashCourse字幕组",
+      "aid": 21376839,
+      "cid": 38442945,
+      "creatorMid": 290704043,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/52974f53aa7f1e40c2633324a2760f3afe499b24.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 38442945,
+          "title": "1. 计算机早期历史-Early Computing",
+          "duration": 713
+        },
+        {
+          "page": 2,
+          "cid": 35533224,
+          "title": "2. 电子计算机-Electronic Computing",
+          "duration": 644
+        },
+        {
+          "page": 3,
+          "cid": 35626789,
+          "title": "3. 布尔逻辑 和 逻辑门-Boolean Logic & Logic Gates",
+          "duration": 607
+        },
+        {
+          "page": 4,
+          "cid": 39828298,
+          "title": "4. 二进制-Representing Numbers and Letters with Binary_BiliBili",
+          "duration": 645
+        },
+        {
+          "page": 5,
+          "cid": 37401231,
+          "title": "5. 算术逻辑单元-How Computers Calculate-the ALU",
+          "duration": 669
+        },
+        {
+          "page": 6,
+          "cid": 153474218,
+          "title": "6. 寄存器 & 内存-Registers and RAM_BiliBili",
+          "duration": 737
+        },
+        {
+          "page": 7,
+          "cid": 35624740,
+          "title": "7. 中央处理器(CPU)-The Central Processing Unit",
+          "duration": 698
+        },
+        {
+          "page": 8,
+          "cid": 35625389,
+          "title": "8. 指令和程序-Instructions & Programs",
+          "duration": 636
+        },
+        {
+          "page": 9,
+          "cid": 153470410,
+          "title": "9. 高级CPU设计-Advanced CPU Designs_BiliBili",
+          "duration": 743
+        },
+        {
+          "page": 10,
+          "cid": 36380407,
+          "title": "10. 早期的编程方式-Early Programming",
+          "duration": 566
+        },
+        {
+          "page": 11,
+          "cid": 36394036,
+          "title": "11. 编程语言发展史-The First Programming Languages",
+          "duration": 712
+        },
+        {
+          "page": 12,
+          "cid": 36505062,
+          "title": "12. 编程原理-语句和函数-Programming Basics - Statements & Functions",
+          "duration": 717
+        },
+        {
+          "page": 13,
+          "cid": 36519060,
+          "title": "13. 算法入门 - Intro to Algorithms",
+          "duration": 704
+        },
+        {
+          "page": 14,
+          "cid": 36536835,
+          "title": "14. 数据结构-Data Structures",
+          "duration": 606
+        },
+        {
+          "page": 15,
+          "cid": 51388939,
+          "title": "15. 阿兰·图灵-Alan Turing_BiliBili",
+          "duration": 785
+        },
+        {
+          "page": 16,
+          "cid": 36634935,
+          "title": "16. 软件工程-Software Engineering",
+          "duration": 635
+        },
+        {
+          "page": 17,
+          "cid": 37928785,
+          "title": "17. 集成电路&摩尔定律-Integrated Circuits & Moore's Law",
+          "duration": 830
+        },
+        {
+          "page": 18,
+          "cid": 36649021,
+          "title": "18. 操作系统-Operating Systems",
+          "duration": 815
+        },
+        {
+          "page": 19,
+          "cid": 36649023,
+          "title": "19. 内存&储存介质-Memory & Storage",
+          "duration": 737
+        },
+        {
+          "page": 20,
+          "cid": 153472320,
+          "title": "20. 文件系统-Files & File Systems_BiliBili",
+          "duration": 723
+        },
+        {
+          "page": 21,
+          "cid": 37264555,
+          "title": "21. 压缩-Compression",
+          "duration": 767
+        },
+        {
+          "page": 22,
+          "cid": 37288394,
+          "title": "22. 命令行界面-Keyboards & Command Line Interfaces",
+          "duration": 683
+        },
+        {
+          "page": 23,
+          "cid": 38442947,
+          "title": "23. 屏幕&2D 图形显示-Screens&2D Graphics",
+          "duration": 691
+        },
+        {
+          "page": 24,
+          "cid": 38871848,
+          "title": "24. 冷战和消费主义-The Cold War and Consumerism_BiliBili",
+          "duration": 679
+        },
+        {
+          "page": 25,
+          "cid": 51388953,
+          "title": "25. 个人计算机革命-The Personal Computer Revolution_BiliBili",
+          "duration": 615
+        },
+        {
+          "page": 26,
+          "cid": 37297559,
+          "title": "26. 图形用户界面-Graphical User Interfaces",
+          "duration": 779
+        },
+        {
+          "page": 27,
+          "cid": 37305860,
+          "title": "27. 3D 图形-3D Graphics",
+          "duration": 761
+        },
+        {
+          "page": 28,
+          "cid": 37330156,
+          "title": "28. 计算机网络-Computer Networks",
+          "duration": 740
+        },
+        {
+          "page": 29,
+          "cid": 153469824,
+          "title": "29. 互联网-The Internet_BiliBili",
+          "duration": 719
+        },
+        {
+          "page": 30,
+          "cid": 37405466,
+          "title": "30. 万维网-The World Wide Web",
+          "duration": 696
+        },
+        {
+          "page": 31,
+          "cid": 153473255,
+          "title": "31. 计算机安全-Cybersecurity_BiliBili",
+          "duration": 750
+        },
+        {
+          "page": 32,
+          "cid": 38443502,
+          "title": "32. 黑客&攻击-Hackers & Cyber Attacks",
+          "duration": 712
+        },
+        {
+          "page": 33,
+          "cid": 37331299,
+          "title": "33. 加密-Cryptography",
+          "duration": 753
+        },
+        {
+          "page": 34,
+          "cid": 38703535,
+          "title": "34. 机器学习&人工智能-Machine Learning & Artificial Intelligence_BiliBili",
+          "duration": 711
+        },
+        {
+          "page": 35,
+          "cid": 37402492,
+          "title": "35. 计算机视觉-Computer Vision",
+          "duration": 669
+        },
+        {
+          "page": 36,
+          "cid": 37344625,
+          "title": "36. 自然语言处理-Natural Language Processing",
+          "duration": 709
+        },
+        {
+          "page": 37,
+          "cid": 38444089,
+          "title": "37. 机器人-Robots",
+          "duration": 746
+        },
+        {
+          "page": 38,
+          "cid": 37402587,
+          "title": "38. 计算机心理学 - Psychology of Computing",
+          "duration": 758
+        },
+        {
+          "page": 39,
+          "cid": 153471056,
+          "title": "39. 教育科技-Educational Technology_BiliBili",
+          "duration": 712
+        },
+        {
+          "page": 40,
+          "cid": 37469516,
+          "title": "40. 奇点,天网,计算机的未来-The Singularity, Skynet, and the Future of Computing",
+          "duration": 749
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/290704043",
+      "cover": "https://i2.hdslb.com/bfs/archive/3d37686d1cb53309504f5f35955257a44b4e28fb.jpg",
+      "duration": 28321,
+      "publishedAt": "2018-03-29",
+      "url": "https://www.bilibili.com/video/BV1EW411u7th/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1tDx56REKt",
+      "tags": [
+        "学习方法",
+        "AI时代",
+        "学科选择"
+      ],
+      "summary": "围绕 AI 时代学什么展开讨论，可用来建立大学阶段学习取舍的问题意识。",
+      "reason": "用户提名；把它作为观点讨论，与基础课程搭配。",
+      "category": "ai",
+      "collection": "world",
+      "kind": "explainer",
+      "level": "beginner",
+      "sourceType": "用户提名",
+      "note": "",
+      "id": "BV1tDx56REKt",
+      "title": "AI时代，最值得学习的三个学科?",
+      "creator": "巫师后期",
+      "aid": 117515975920064,
+      "cid": 43112858649,
+      "creatorMid": 105686205,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/523bc903d256ab473cc78e934f4bad5db9c2ff9b.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 43112858649,
+          "title": "AI时代，最值得学习的三个学科?",
+          "duration": 1209
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/105686205",
+      "cover": "https://i2.hdslb.com/bfs/archive/a81b57107053ce64dde914e832bcbd66b79c9071.jpg",
+      "duration": 1209,
+      "publishedAt": "2026-10-28",
+      "url": "https://www.bilibili.com/video/BV1tDx56REKt/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1ww41177kU",
+      "tags": [
+        "雅思",
+        "英语学习",
+        "入门"
+      ],
+      "summary": "介绍雅思题型与备考思路，作为了解考试结构的第一站。",
+      "reason": "较系统的公开入门视频，不依赖当季口语题库。",
+      "category": "english",
+      "collection": "language",
+      "kind": "explainer",
+      "level": "beginner",
+      "sourceType": "用户提名",
+      "note": "先了解题型与备考框架；考试安排与现行规则以官方说明为准。",
+      "id": "BV1ww41177kU",
+      "title": "雅思新手入门 | 全题型介绍+备考技巧（口语8.5的技巧在最后）",
+      "creator": "薛麦Max",
+      "aid": 326860626,
+      "cid": 1421932107,
+      "creatorMid": 86241799,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/6508d615d4bb252f8e3cea2b4df7b6ebbdde4e0c.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 1421932107,
+          "title": "雅思新手入门 | 全题型介绍+备考技巧（口语8.5的技巧在最后）",
+          "duration": 1597
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/86241799",
+      "cover": "https://i2.hdslb.com/bfs/archive/fda548bda6b6cbe334d5392aadcd021857e1a16d.jpg",
+      "duration": 1597,
+      "publishedAt": "2024-01-28",
+      "url": "https://www.bilibili.com/video/BV1ww41177kU/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1KP4y1678m",
+      "category": "world",
+      "collection": "economics",
+      "tags": [
+        "通货膨胀",
+        "经济学",
+        "入门"
+      ],
+      "summary": "理解价格为什么会上涨，以及通胀与经济运行之间的联系。",
+      "reason": "用一个基础主题连接货币、供给与需求。",
+      "kind": "explainer",
+      "level": "beginner",
+      "topic": "finance",
+      "sourceType": "用户选题",
+      "id": "BV1KP4y1678m",
+      "title": "【硬核】一口气了解通货膨胀",
+      "creator": "小Lin说",
+      "aid": 905921931,
+      "cid": 983771277,
+      "creatorMid": 520819684,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 983771277,
+          "title": "【硬核】一口气了解通货膨胀",
+          "duration": 1505
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/520819684",
+      "cover": "https://i0.hdslb.com/bfs/archive/0d8cf8002c9492d96f7973e236321ce0da675c25.jpg",
+      "duration": 1505,
+      "publishedAt": "2023-01-29",
+      "url": "https://www.bilibili.com/video/BV1KP4y1678m/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1CzjY6kE4x",
+      "tags": [
+        "运动营养",
+        "补剂识读",
+        "BCAA"
+      ],
+      "summary": "辨析 BCAA 的营养角色与 BCAA 补剂的实际用途。",
+      "reason": "用户提名；适合先理解运动营养概念，再判断补剂宣传。",
+      "category": "health",
+      "collection": "body",
+      "kind": "explainer",
+      "level": "beginner",
+      "sourceType": "用户提名",
+      "note": "运动营养概念科普，适合用来识别补剂宣传中的问题。",
+      "id": "BV1CzjY6kE4x",
+      "title": "BCAA很重要，但BCAA补剂不重要！",
+      "creator": "陈石-营养-运动",
+      "aid": 116773433122550,
+      "cid": 39227296308,
+      "creatorMid": 364281292,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/f1b8394e6338c496360cb5fe975f31ca744cd7c3.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 39227296308,
+          "title": "BCAA很重要，但BCAA补剂不重要！",
+          "duration": 360
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/364281292",
+      "cover": "https://i0.hdslb.com/bfs/archive/e7aa62aea7f8b8a48ef27db7d4ec231764b21d41.jpg",
+      "duration": 360,
+      "publishedAt": "2026-06-19",
+      "url": "https://www.bilibili.com/video/BV1CzjY6kE4x/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1tk4y117yz",
+      "tags": [
+        "篮球",
+        "技术训练",
+        "实战讲解"
+      ],
+      "summary": "通过篮球实战与技术训练讲解，观察动作在场上的使用。",
+      "reason": "作者简介明确说明有技术训练讲解，比纯比赛剪辑更适合学习。",
+      "category": "sports",
+      "collection": "body",
+      "kind": "practice",
+      "level": "beginner",
+      "sourceType": "用户提名",
+      "note": "",
+      "id": "BV1tk4y117yz",
+      "title": "【实战篮球】第三集 - 徐远征Oliver",
+      "creator": "徐远征Oliver",
+      "aid": 754207323,
+      "cid": 224437974,
+      "creatorMid": 525873105,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/5aa7285dcf327493561443e295a11b87b089c86d.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 224437974,
+          "title": "bz3_skill_07092020_v2",
+          "duration": 324
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/525873105",
+      "cover": "https://i1.hdslb.com/bfs/archive/5f26400a734fa20d98bc574c7a1b9b4c75f8f15a.jpg",
+      "duration": 324,
+      "publishedAt": "2020-08-14",
+      "url": "https://www.bilibili.com/video/BV1tk4y117yz/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1iVoVBgERD",
+      "category": "ai",
+      "collection": "frontier",
+      "tags": [
+        "Agent",
+        "后训练",
+        "模型架构"
+      ],
+      "summary": "围绕智能体、后训练与算力分配，展开一次对 AI 范式变化的长谈。",
+      "reason": "适合关心 Agent 如何影响模型研发与组织方式的观众。",
+      "kind": "interview",
+      "level": "curious",
+      "sourceType": "用户选题",
+      "id": "BV1iVoVBgERD",
+      "title": "对罗福莉的3.5小时访谈：AI范式已然巨变！OpenClaw、智能体框架、Agent范式很吃Post-train、卡的分配比例、巨变下的组织",
+      "creator": "张小珺商业访谈录",
+      "aid": 116457333588484,
+      "cid": 37760077818,
+      "creatorMid": 280780745,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/d8d2df2874ca62e2f53dc690eff38549ce6cb8e1.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 37760077818,
+          "title": "对罗福莉的3.5小时访谈：AI范式已然巨变！OpenClaw、智能体框架、Agent范式很吃Post-train、卡的分配比例、巨变下的组织",
+          "duration": 12879
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/280780745",
+      "cover": "https://i1.hdslb.com/bfs/archive/d9c8cb358259ceb896a07e588506abee526dbc6f.jpg",
+      "duration": 12879,
+      "publishedAt": "2026-04-24",
+      "url": "https://www.bilibili.com/video/BV1iVoVBgERD/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1qW411N7FU",
+      "tags": [
+        "微积分",
+        "导数",
+        "积分",
+        "双语"
+      ],
+      "summary": "通过图形建立导数与积分的直觉，把公式和变化联系起来。",
+      "audience": "高中函数基础；适合配合高数课程",
+      "category": "world",
+      "topic": "math",
+      "collection": "math",
+      "kind": "course",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "高中函数基础；适合配合高数课程",
+      "sourceProvenance": "原作者中文官方账号",
+      "id": "BV1qW411N7FU",
+      "title": "【官方双语/合集】微积分的本质 - 系列合集",
+      "creator": "3Blue1Brown",
+      "aid": 24325548,
+      "cid": 40809259,
+      "creatorMid": 88461692,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 40809259,
+          "title": "01",
+          "duration": 1025
+        },
+        {
+          "page": 2,
+          "cid": 40809285,
+          "title": "02 - 导数的悖论",
+          "duration": 1118
+        },
+        {
+          "page": 3,
+          "cid": 40809303,
+          "title": "03 - 用几何来求导",
+          "duration": 1123
+        },
+        {
+          "page": 4,
+          "cid": 40809348,
+          "title": "04 - 直观理解链式法则和乘积法则",
+          "duration": 1012
+        },
+        {
+          "page": 5,
+          "cid": 40809389,
+          "title": "05 - 指数函数求导",
+          "duration": 830
+        },
+        {
+          "page": 6,
+          "cid": 40809425,
+          "title": "06 - 隐函数求导是怎么回事？",
+          "duration": 933
+        },
+        {
+          "page": 7,
+          "cid": 40809443,
+          "title": "07 - 极限",
+          "duration": 1106
+        },
+        {
+          "page": 8,
+          "cid": 40809489,
+          "title": "08 - 积分与微积分基本定理",
+          "duration": 1246
+        },
+        {
+          "page": 9,
+          "cid": 40809531,
+          "title": "09 - 面积和斜率有什么联系？",
+          "duration": 759
+        },
+        {
+          "page": 10,
+          "cid": 40809563,
+          "title": "09脚注 - 高阶导数",
+          "duration": 338
+        },
+        {
+          "page": 11,
+          "cid": 40809588,
+          "title": "10 - 泰勒级数",
+          "duration": 1339
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/88461692",
+      "cover": "https://i0.hdslb.com/bfs/archive/8bd673f27eb8b8b9a348dc2809e296d8d37bd30b.jpg",
+      "duration": 10829,
+      "publishedAt": "2018-06-03",
+      "url": "https://www.bilibili.com/video/BV1qW411N7FU/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1iV411z7Nj",
+      "tags": [
+        "音标",
+        "发音",
+        "英语基础"
+      ],
+      "summary": "从发音位置和音标体系入手，为查词、听辨与跟读打底。",
+      "audience": "零基础；按需要挑选音素练习",
+      "category": "english",
+      "topic": "",
+      "collection": "language",
+      "kind": "course",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "零基础；按需要挑选音素练习",
+      "sourceProvenance": "创作者本人账号",
+      "id": "BV1iV411z7Nj",
+      "title": "全网最适合中国人的免费音标课(纯干货, 超详细!)",
+      "creator": "英语兔",
+      "aid": 414096645,
+      "cid": 546437486,
+      "creatorMid": 483162496,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/1dd70a5905e9715b261d36d3f403eb477adbfe59.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 546437486,
+          "title": "请先看这里",
+          "duration": 531
+        },
+        {
+          "page": 2,
+          "cid": 546437559,
+          "title": "主要音标体系",
+          "duration": 528
+        },
+        {
+          "page": 3,
+          "cid": 547486551,
+          "title": "极简版(全部音标)",
+          "duration": 959
+        },
+        {
+          "page": 4,
+          "cid": 546438009,
+          "title": "人类发音过程",
+          "duration": 305
+        },
+        {
+          "page": 5,
+          "cid": 546438050,
+          "title": "元音三要素",
+          "duration": 285
+        },
+        {
+          "page": 6,
+          "cid": 546438223,
+          "title": "元音图",
+          "duration": 207
+        },
+        {
+          "page": 7,
+          "cid": 546425104,
+          "title": "iː 和 i",
+          "duration": 236
+        },
+        {
+          "page": 8,
+          "cid": 546425077,
+          "title": "ɪ",
+          "duration": 235
+        },
+        {
+          "page": 9,
+          "cid": 546425226,
+          "title": "uː 和 u",
+          "duration": 260
+        },
+        {
+          "page": 10,
+          "cid": 546425336,
+          "title": "ʊ",
+          "duration": 217
+        },
+        {
+          "page": 11,
+          "cid": 546425401,
+          "title": "e",
+          "duration": 201
+        },
+        {
+          "page": 12,
+          "cid": 546425533,
+          "title": "ɜː",
+          "duration": 212
+        },
+        {
+          "page": 13,
+          "cid": 546425447,
+          "title": "ə",
+          "duration": 320
+        },
+        {
+          "page": 14,
+          "cid": 569627260,
+          "title": "ʌ",
+          "duration": 209
+        },
+        {
+          "page": 15,
+          "cid": 546425599,
+          "title": "ɔː",
+          "duration": 271
+        },
+        {
+          "page": 16,
+          "cid": 546425732,
+          "title": "æ",
+          "duration": 286
+        },
+        {
+          "page": 17,
+          "cid": 546426795,
+          "title": "ɑː",
+          "duration": 272
+        },
+        {
+          "page": 18,
+          "cid": 546426943,
+          "title": "ɒ",
+          "duration": 292
+        },
+        {
+          "page": 19,
+          "cid": 546426987,
+          "title": "eɪ",
+          "duration": 260
+        },
+        {
+          "page": 20,
+          "cid": 546427301,
+          "title": "ɔɪ",
+          "duration": 136
+        },
+        {
+          "page": 21,
+          "cid": 546427248,
+          "title": "aɪ",
+          "duration": 215
+        },
+        {
+          "page": 22,
+          "cid": 546427278,
+          "title": "aʊ",
+          "duration": 196
+        },
+        {
+          "page": 23,
+          "cid": 546427342,
+          "title": "əʊ 和 oʊ",
+          "duration": 225
+        },
+        {
+          "page": 24,
+          "cid": 546427387,
+          "title": "ʊə",
+          "duration": 246
+        },
+        {
+          "page": 25,
+          "cid": 546427479,
+          "title": "eə",
+          "duration": 160
+        },
+        {
+          "page": 26,
+          "cid": 546427499,
+          "title": "ɪə",
+          "duration": 191
+        },
+        {
+          "page": 27,
+          "cid": 546439897,
+          "title": "辅音三要素",
+          "duration": 368
+        },
+        {
+          "page": 28,
+          "cid": 569627465,
+          "title": "p b",
+          "duration": 686
+        },
+        {
+          "page": 29,
+          "cid": 546427781,
+          "title": "t d",
+          "duration": 497
+        },
+        {
+          "page": 30,
+          "cid": 546427986,
+          "title": "k g",
+          "duration": 240
+        },
+        {
+          "page": 31,
+          "cid": 546427222,
+          "title": "m n ŋ",
+          "duration": 465
+        },
+        {
+          "page": 32,
+          "cid": 546428272,
+          "title": "f v",
+          "duration": 150
+        },
+        {
+          "page": 33,
+          "cid": 546428449,
+          "title": "s z",
+          "duration": 297
+        },
+        {
+          "page": 34,
+          "cid": 546428391,
+          "title": "θ ð",
+          "duration": 185
+        },
+        {
+          "page": 35,
+          "cid": 548088770,
+          "title": "ʃ ʒ",
+          "duration": 260
+        },
+        {
+          "page": 36,
+          "cid": 573068041,
+          "title": "tʃ dʒ",
+          "duration": 244
+        },
+        {
+          "page": 37,
+          "cid": 546428691,
+          "title": "h",
+          "duration": 112
+        },
+        {
+          "page": 38,
+          "cid": 546857506,
+          "title": "w",
+          "duration": 198
+        },
+        {
+          "page": 39,
+          "cid": 569627762,
+          "title": "r",
+          "duration": 359
+        },
+        {
+          "page": 40,
+          "cid": 546429023,
+          "title": "j",
+          "duration": 282
+        },
+        {
+          "page": 41,
+          "cid": 546429153,
+          "title": "l",
+          "duration": 446
+        },
+        {
+          "page": 42,
+          "cid": 546429310,
+          "title": "ts dz",
+          "duration": 263
+        },
+        {
+          "page": 43,
+          "cid": 569627916,
+          "title": "tr dr",
+          "duration": 214
+        },
+        {
+          "page": 44,
+          "cid": 546438259,
+          "title": "DJ音标示范",
+          "duration": 309
+        },
+        {
+          "page": 45,
+          "cid": 546438412,
+          "title": "KK音标示范",
+          "duration": 321
+        },
+        {
+          "page": 46,
+          "cid": 546438705,
+          "title": "国际音标IPA示范",
+          "duration": 324
+        },
+        {
+          "page": 47,
+          "cid": 546438905,
+          "title": "完结撒花",
+          "duration": 20
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/483162496",
+      "cover": "https://i2.hdslb.com/bfs/archive/580ac5793b817e07114492e909261653df5645c7.jpg",
+      "duration": 13695,
+      "publishedAt": "2020-07-29",
+      "url": "https://www.bilibili.com/video/BV1iV411z7Nj/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1hE411V77S",
+      "tags": [
+        "跑步",
+        "拉伸",
+        "运动入门"
+      ],
+      "summary": "用站立拉伸动作认识跑步后的整理活动，可与跑步基础内容搭配。",
+      "audience": "入门动作参考；原题含跑前跑后适用表述，本站不作普遍有效性背书",
+      "category": "sports",
+      "topic": "",
+      "collection": "body",
+      "kind": "practice",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "入门动作参考；原题含跑前跑后适用表述，本站不作普遍有效性背书",
+      "sourceProvenance": "创作者本人账号",
+      "id": "BV1hE411V77S",
+      "title": "5 分钟拉伸，跑步前后都能用，养成跑步好习惯【子章老师跑步基础课】",
+      "creator": "跑步的子章老师",
+      "aid": 96193201,
+      "cid": 164201240,
+      "creatorMid": 451645162,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/7578096a896bd0c13db75984668c0a4d7f2a7253.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 164201240,
+          "title": "跑步拉伸-bili",
+          "duration": 365
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/451645162",
+      "cover": "https://i1.hdslb.com/bfs/archive/570734ad222d3ae47acd83ef545cdddfa030ebb3.jpg",
+      "duration": 365,
+      "publishedAt": "2020-03-15",
+      "url": "https://www.bilibili.com/video/BV1hE411V77S/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV14Z421N7Cc",
+      "tags": [
+        "跑步",
+        "奥运会",
+        "运动纪录"
+      ],
+      "summary": "从运动员视角记录巴黎奥运会马拉松的参赛经历。",
+      "reason": "适合培养对跑步与运动生活的兴趣。",
+      "category": "sports",
+      "collection": "body",
+      "kind": "documentary",
+      "level": "curious",
+      "sourceType": "用户提名",
+      "note": "职业运动员的参赛纪录，用于了解赛事经历与运动生活。",
+      "id": "BV14Z421N7Cc",
+      "title": "巴黎奥运会Vlog",
+      "creator": "马拉松吴向东",
+      "aid": 1156325582,
+      "cid": 25601248707,
+      "creatorMid": 2266021,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/91904fc984c395eb9594ab2dc010bdab1a85ce56.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 25601248707,
+          "title": "巴黎奥运会Vlog",
+          "duration": 3002
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/2266021",
+      "cover": "https://i2.hdslb.com/bfs/archive/027679bf7e7bea7fc1ccd8c6181da29f7fd46170.jpg",
+      "duration": 3002,
+      "publishedAt": "2024-08-18",
+      "url": "https://www.bilibili.com/video/BV14Z421N7Cc/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1usRgBEESe",
+      "category": "ai",
+      "collection": "frontier",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "人类数据"
+      ],
+      "summary": "人类的日常行为，怎样变成机器人的学习材料？从行为克隆聊到数据与系统。",
+      "reason": "用一场深入对话，理解具身智能中的数据问题。",
+      "kind": "interview",
+      "level": "curious",
+      "sourceType": "用户选题",
+      "id": "BV1usRgBEESe",
+      "title": "Danfei Xu：人类数据，行为克隆，机器人GPT-3，全栈，EgoMimic，遥操作，UMI，斯坦福 | WhynotTV Podcast #5",
+      "creator": "WhynotTV",
+      "aid": 116499075303246,
+      "cid": 38008982505,
+      "creatorMid": 14145636,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/6918bc3b2c8d65a709a1402f6248061c1a8793a8.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 38008982505,
+          "title": "Danfei Xu：人类数据，行为克隆，机器人GPT-3，全栈，EgoMimic，遥操作，UMI，斯坦福 | WhynotTV Podcast #5",
+          "duration": 8244
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/14145636",
+      "cover": "https://i2.hdslb.com/bfs/archive/329d9c95e5b7715bbbdca7ed867923071f284d08.jpg",
+      "duration": 8244,
+      "publishedAt": "2026-05-01",
+      "url": "https://www.bilibili.com/video/BV1usRgBEESe/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1fmgj66EtD",
+      "category": "ai",
+      "collection": "frontier",
+      "tags": [
+        "世界模型",
+        "英伟达",
+        "研究"
+      ],
+      "summary": "围绕 Cosmos、世界模型与研究组织，听技术实践者谈长期探索。",
+      "reason": "把模型研究与团队实践放在一起看，适合完整收听。",
+      "kind": "interview",
+      "level": "curious",
+      "sourceType": "用户选题",
+      "id": "BV1fmgj66EtD",
+      "title": "对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手",
+      "creator": "张小珺商业访谈录",
+      "aid": 117083123744912,
+      "cid": 40822047496,
+      "creatorMid": 280780745,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/d8d2df2874ca62e2f53dc690eff38549ce6cb8e1.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 40822047496,
+          "title": "对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手",
+          "duration": 12973
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/280780745",
+      "cover": "https://i0.hdslb.com/bfs/archive/a453c103223d8530efe58d1f44c106d42eaa6ae7.jpg",
+      "duration": 12973,
+      "publishedAt": "2026-08-13",
+      "url": "https://www.bilibili.com/video/BV1fmgj66EtD/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1YR5E6EE9o",
+      "category": "ai",
+      "collection": "frontier",
+      "tags": [
+        "大模型",
+        "训练",
+        "研究组织"
+      ],
+      "summary": "围绕大模型训练、技术预测与研究组织，谈个人判断与团队协作。",
+      "reason": "一手访谈提供研究经历与判断的背景，不只留下结论。",
+      "kind": "interview",
+      "level": "curious",
+      "sourceType": "用户选题",
+      "id": "BV1YR5E6EE9o",
+      "title": "对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去",
+      "creator": "张小珺商业访谈录",
+      "aid": 116551235669764,
+      "cid": 38242946885,
+      "creatorMid": 280780745,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/d8d2df2874ca62e2f53dc690eff38549ce6cb8e1.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 38242946885,
+          "title": "对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去",
+          "duration": 13681
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/280780745",
+      "cover": "https://i0.hdslb.com/bfs/archive/72e478e6353621d08b32d644a5e58378a68058e6.jpg",
+      "duration": 13681,
+      "publishedAt": "2026-05-11",
+      "url": "https://www.bilibili.com/video/BV1YR5E6EE9o/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1XmtyzKEzQ",
+      "category": "ai",
+      "collection": "frontier",
+      "tags": [
+        "图形学",
+        "创业",
+        "开源"
+      ],
+      "summary": "从图形学和物理仿真，到开源工具与 Meshy，把技术理想带进真实产品。",
+      "reason": "连接研究、工程和商业化三个视角。",
+      "kind": "interview",
+      "level": "curious",
+      "sourceType": "用户选题",
+      "id": "BV1XmtyzKEzQ",
+      "title": "胡渊鸣：Meshy AI，太极，MIT，清华姚班，图形学，物理仿真模拟，开源，商业化，勇气 ，智慧 ｜ WhynotTV Podcast #2",
+      "creator": "WhynotTV",
+      "aid": 114990266713265,
+      "cid": 31555325057,
+      "creatorMid": 14145636,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/6918bc3b2c8d65a709a1402f6248061c1a8793a8.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 31555325057,
+          "title": "胡渊鸣：Meshy AI，太极，MIT，清华姚班，图形学，物理仿真模拟，开源，商业化，勇气 ，智慧 ｜ WhynotTV Podcast #2",
+          "duration": 11060
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/14145636",
+      "cover": "https://i2.hdslb.com/bfs/archive/ba0b6dcbe1d7fe10de12ce34794fa6c6c69eb56c.jpg",
+      "duration": 11060,
+      "publishedAt": "2025-08-08",
+      "url": "https://www.bilibili.com/video/BV1XmtyzKEzQ/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1uC4y1q79G",
+      "category": "world",
+      "collection": "economics",
+      "tags": [
+        "美联储",
+        "货币政策",
+        "宏观经济"
+      ],
+      "summary": "从美联储的历史和运作，认识中央银行的政策工具与取舍。",
+      "reason": "适合把零散的加息、降息新闻放回制度背景。",
+      "kind": "explainer",
+      "level": "beginner",
+      "topic": "finance",
+      "sourceType": "用户选题",
+      "id": "BV1uC4y1q79G",
+      "title": "【硬核】一口气了解美联储 | 全球权力最大的金融机构",
+      "creator": "小Lin说",
+      "aid": 793230179,
+      "cid": 1389872626,
+      "creatorMid": 520819684,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 1389872626,
+          "title": "一口气了解美联储 | 全球权力最大的金融机构",
+          "duration": 1463
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/520819684",
+      "cover": "https://i1.hdslb.com/bfs/archive/9ac7edc74640a7fd50fecafd410cc71145fc2f2b.jpg",
+      "duration": 1463,
+      "publishedAt": "2024-01-01",
+      "url": "https://www.bilibili.com/video/BV1uC4y1q79G/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "aid": 114505220624919,
+      "category": "world",
+      "collection": "economics",
+      "tags": [
+        "商业模式",
+        "创作者经济",
+        "访谈"
+      ],
+      "summary": "通过对 MrBeast 的采访，观察大规模内容生产背后的商业逻辑。",
+      "reason": "从具体创作者理解内容、成本与商业模式。",
+      "kind": "interview",
+      "level": "curious",
+      "topic": "finance",
+      "sourceType": "用户选题",
+      "id": "BV19EEizDEc4",
+      "bvid": "BV19EEizDEc4",
+      "title": "全球第一网红，一边撒钱，一边赚钱，how？",
+      "creator": "小Lin说",
+      "cid": 29954280092,
+      "creatorMid": 520819684,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 29954280092,
+          "title": "全球第一网红，一边撒钱，一边赚钱，how？",
+          "duration": 1153
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/520819684",
+      "cover": "https://i1.hdslb.com/bfs/archive/4051455e2a78c9592280531017a10550a5c25d6a.jpg",
+      "duration": 1153,
+      "publishedAt": "2025-05-14",
+      "url": "https://www.bilibili.com/video/BV19EEizDEc4/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1cQYYzYEDX",
+      "category": "world",
+      "collection": "slowtalk",
+      "tags": [
+        "人物访谈",
+        "表达",
+        "人生选择"
+      ],
+      "summary": "两位采访者坐到一起，谈表达、被理解，以及各自走过的路。",
+      "reason": "在技术与财经之外，留一点时间给人的经验。",
+      "kind": "interview",
+      "level": "curious",
+      "topic": "humanities",
+      "sourceType": "用户选题",
+      "id": "BV1cQYYzYEDX",
+      "title": "陈鲁豫首次对谈易立竞｜陈鲁豫·慢谈EP01 【视频播客】",
+      "creator": "陈鲁豫-慢谈",
+      "aid": 115037075213130,
+      "cid": 31785420299,
+      "creatorMid": 1479442448,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 31785420299,
+          "title": "陈鲁豫首次对谈易立竞｜陈鲁豫·慢谈EP01 【视频播客】",
+          "duration": 7398
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/1479442448",
+      "cover": "https://i0.hdslb.com/bfs/archive/d41f3d374c7b96a76b6e758ce0b4242a28d40845.jpg",
+      "duration": 7398,
+      "publishedAt": "2025-08-18",
+      "url": "https://www.bilibili.com/video/BV1cQYYzYEDX/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1zNoVB1EWb",
+      "category": "world",
+      "collection": "slowtalk",
+      "tags": [
+        "人物访谈",
+        "人生选择",
+        "罗翔"
+      ],
+      "summary": "关于命运、努力与个人选择，一场保留复杂性的人生长谈。",
+      "reason": "适合在持续追逐新知之后，重新思考自己的位置。",
+      "kind": "interview",
+      "level": "curious",
+      "topic": "humanities",
+      "sourceType": "用户选题",
+      "id": "BV1zNoVB1EWb",
+      "title": "鲁豫对话罗翔：在命运的剧本揭晓前，尽力扮演好自己的角色 | 陈鲁豫·慢谈EP16【视频播客】",
+      "creator": "陈鲁豫-慢谈",
+      "aid": 116457685912801,
+      "cid": 37854118297,
+      "creatorMid": 1479442448,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 37854118297,
+          "title": "慢谈-罗翔上线版-0426",
+          "duration": 11151
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/1479442448",
+      "cover": "https://i0.hdslb.com/bfs/archive/7ca7413420ad96404e0a947ef957c44a98625f68.jpg",
+      "duration": 11151,
+      "publishedAt": "2026-04-27",
+      "url": "https://www.bilibili.com/video/BV1zNoVB1EWb/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1dd7r6oEpf",
+      "category": "world",
+      "collection": "slowtalk",
+      "tags": [
+        "人物访谈",
+        "表达",
+        "张泉灵"
+      ],
+      "summary": "两位媒体人对谈，从各自走过的时代，聊到彼此眼中的变化。",
+      "reason": "让不同阶段的经历与判断，放在一段完整对话里。",
+      "kind": "interview",
+      "level": "curious",
+      "topic": "humanities",
+      "sourceType": "用户选题",
+      "id": "BV1dd7r6oEpf",
+      "title": "鲁豫对话张泉灵：从时代的同窗，到彼此的镜像，聊聊那些彼此望见过的时刻 | 陈鲁豫·慢谈EP19【视频播客】",
+      "creator": "陈鲁豫-慢谈",
+      "aid": 116695570124126,
+      "cid": 39092358352,
+      "creatorMid": 1479442448,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 39092358352,
+          "title": "慢谈-张泉灵-上线版-0613",
+          "duration": 11554
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/1479442448",
+      "cover": "https://i0.hdslb.com/bfs/archive/dc52829fc6fb91004200d440bcec4d5a49e40fc9.jpg",
+      "duration": 11554,
+      "publishedAt": "2026-06-08",
+      "url": "https://www.bilibili.com/video/BV1dd7r6oEpf/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1jCpizuEPg",
+      "category": "world",
+      "collection": "slowtalk",
+      "tags": [
+        "人物访谈",
+        "窦文涛",
+        "三十年"
+      ],
+      "summary": "聊聊相识三十年的经历，也聊变化中的表达与生活。",
+      "reason": "熟悉的谈话者之间，有值得慢下来听的细节。",
+      "kind": "interview",
+      "level": "curious",
+      "topic": "humanities",
+      "sourceType": "用户选题",
+      "id": "BV1jCpizuEPg",
+      "title": "对话窦文涛，聊聊我们的30年 ｜陈鲁豫·慢谈EP03【视频播客】",
+      "creator": "陈鲁豫-慢谈",
+      "aid": 115224828972609,
+      "cid": 32644141010,
+      "creatorMid": 1479442448,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 32644141010,
+          "title": "对话窦文涛，聊聊我们的30年 ｜陈鲁豫·慢谈EP03【视频播客】",
+          "duration": 10343
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/1479442448",
+      "cover": "https://i0.hdslb.com/bfs/archive/46877752a8f17fb3cf4b996b452b006d8f9babe4.jpg",
+      "duration": 10343,
+      "publishedAt": "2025-09-22",
+      "url": "https://www.bilibili.com/video/BV1jCpizuEPg/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV12gmuBWEJY",
+      "category": "world",
+      "collection": "slowtalk",
+      "tags": [
+        "人物访谈",
+        "吴越",
+        "自我"
+      ],
+      "summary": "从演员、女儿到自己，谈角色与生活之间的真实经验。",
+      "reason": "关注公共角色之外，一个人的具体生活与选择。",
+      "kind": "interview",
+      "level": "curious",
+      "topic": "humanities",
+      "sourceType": "用户选题",
+      "id": "BV12gmuBWEJY",
+      "title": "鲁豫对话吴越：是演员、是女儿、亦是自己｜陈鲁豫·慢谈EP09【视频播客】",
+      "creator": "陈鲁豫-慢谈",
+      "aid": 115699070600257,
+      "cid": 34708787002,
+      "creatorMid": 1479442448,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 34708787002,
+          "title": "20251212鲁豫-吴越-10G",
+          "duration": 9351
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/1479442448",
+      "cover": "https://i0.hdslb.com/bfs/archive/68e671558d5155320aa180d969e0d0851b8d7657.jpg",
+      "duration": 9351,
+      "publishedAt": "2025-12-15",
+      "url": "https://www.bilibili.com/video/BV12gmuBWEJY/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1wZJD6NEku",
+      "category": "world",
+      "collection": "slowtalk",
+      "tags": [
+        "人物访谈",
+        "王凯",
+        "长期主义"
+      ],
+      "summary": "围绕二十年的演艺经历，谈职业选择和坚持。",
+      "reason": "从长期职业实践中理解选择与取舍。",
+      "kind": "interview",
+      "level": "curious",
+      "topic": "humanities",
+      "sourceType": "用户选题",
+      "id": "BV1wZJD6NEku",
+      "title": "鲁豫对话王凯：出道20年，一个演员的「不妥协」| 陈鲁豫·慢谈EP27【视频播客】",
+      "creator": "陈鲁豫-慢谈",
+      "aid": 117448615398168,
+      "cid": 42859498730,
+      "creatorMid": 1479442448,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 42859498730,
+          "title": "鲁豫慢谈X王凯20261019成片10g",
+          "duration": 11021
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/1479442448",
+      "cover": "https://i1.hdslb.com/bfs/archive/5ce94b3ef3466e7e0598a2b39f8579a80200b614.jpg",
+      "duration": 11021,
+      "publishedAt": "2026-10-19",
+      "url": "https://www.bilibili.com/video/BV1wZJD6NEku/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1CAHV6PEPM",
+      "category": "ai",
+      "collection": "frontier",
+      "tags": [
+        "PhD",
+        "研究方法",
+        "后训练"
+      ],
+      "summary": "与小米 MiMo 研究员李磊一起，讨论 AI 时代读博与研究中的关键问题。",
+      "reason": "适合正在选择研究方向、读博路径与产业机会的人。",
+      "kind": "interview",
+      "level": "curious",
+      "sourceType": "用户选题",
+      "id": "BV1CAHV6PEPM",
+      "title": "【十字路口】AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员【视频播客】",
+      "creator": "Koji杨远骋at十字路口",
+      "aid": 117499987233875,
+      "cid": 43035066657,
+      "creatorMid": 505301413,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/6ded85b1fdda7a1c131de6220f21caaac06f02d3.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 43035066657,
+          "title": "【十字路口】AI 时代，PhD 怎么拿大结果？｜对谈李磊：港大 PhD、小米 MiMo 研究员【视频播客】",
+          "duration": 3105
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/505301413",
+      "cover": "https://i2.hdslb.com/bfs/archive/d71eae70576687ac4628bff87afa2c6fe2279ac9.jpg",
+      "duration": 3105,
+      "publishedAt": "2026-10-26",
+      "url": "https://www.bilibili.com/video/BV1CAHV6PEPM/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV18j411S7ST",
+      "category": "world",
+      "collection": "economics",
+      "tags": [
+        "英伟达",
+        "芯片",
+        "商业分析"
+      ],
+      "summary": "从黄仁勋和英伟达的成长，理解芯片产业与 AI 商业生态的关系。",
+      "reason": "把技术演进和商业选择放在一起，观察一家科技公司的发展。",
+      "kind": "explainer",
+      "level": "beginner",
+      "topic": "finance",
+      "sourceType": "用户选题",
+      "id": "BV18j411S7ST",
+      "title": "一口气了解英伟达，芯片新王凭什么是他？",
+      "creator": "小Lin说",
+      "aid": 445257120,
+      "cid": 1180329943,
+      "creatorMid": 520819684,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 1180329943,
+          "title": "一口气了解英伟达，芯片新王凭什么是他？",
+          "duration": 1638
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/520819684",
+      "cover": "https://i2.hdslb.com/bfs/archive/d4159ec2886c3d59a2d37f42110c11f18f00beba.jpg",
+      "duration": 1638,
+      "publishedAt": "2023-06-30",
+      "url": "https://www.bilibili.com/video/BV18j411S7ST/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV16s7b68EwG",
+      "category": "world",
+      "collection": "slowtalk",
+      "tags": [
+        "papi酱",
+        "窦文涛",
+        "创作与生活"
+      ],
+      "summary": "从创作与流量聊到自律和生活，在公众形象之外寻找自己的支点。",
+      "reason": "为忙碌的技术与商业世界，补上一场关于日常生活的长谈。",
+      "kind": "interview",
+      "level": "curious",
+      "topic": "humanities",
+      "sourceType": "用户选题",
+      "id": "BV16s7b68EwG",
+      "title": "自然光｜papi酱&窦文涛：驴与跑步机",
+      "creator": "窦文涛的聊客",
+      "aid": 116808682047647,
+      "cid": 39386222500,
+      "creatorMid": 3706971419052108,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/2177958be970698fe54a666ae67c3f0210c5103a.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 39386222500,
+          "title": "自然光｜第二集：papi酱&窦文涛",
+          "duration": 9306
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/3706971419052108",
+      "cover": "https://i2.hdslb.com/bfs/archive/aea154c3d0661a226e360a75c430b470f5792316.jpg",
+      "duration": 9306,
+      "publishedAt": "2026-06-26",
+      "url": "https://www.bilibili.com/video/BV16s7b68EwG/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1W5411V7No",
+      "tags": [
+        "篮球",
+        "跳投",
+        "热身"
+      ],
+      "summary": "以跳投训练中的热身片段为入口，观察训练准备过程。",
+      "reason": "主题具体、篇幅短，可与实战讲解搭配。",
+      "category": "sports",
+      "collection": "body",
+      "kind": "practice",
+      "level": "beginner",
+      "sourceType": "用户提名",
+      "note": "作者训练计划中的公开片段；此处不是完整训练课程。",
+      "id": "BV1W5411V7No",
+      "title": "跳投热身？- 线上培训 - 徐远征Oliver",
+      "creator": "徐远征Oliver",
+      "aid": 457719718,
+      "cid": 251209724,
+      "creatorMid": 525873105,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/5aa7285dcf327493561443e295a11b87b089c86d.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 251209724,
+          "title": "JSP_3_BottomBouncePre",
+          "duration": 68
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/525873105",
+      "cover": "https://i2.hdslb.com/bfs/archive/d3d2ca95529d708d6e1d2a69cc2754604f2124f5.jpg",
+      "duration": 68,
+      "publishedAt": "2020-10-31",
+      "url": "https://www.bilibili.com/video/BV1W5411V7No/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1pW411J7s8",
+      "tags": [
+        "傅里叶变换",
+        "数学可视化",
+        "信号"
+      ],
+      "summary": "用旋转与图像理解频率分解，连接数学和声音、信号。",
+      "audience": "建议已有函数与积分的直观认识",
+      "category": "world",
+      "topic": "math",
+      "collection": "math",
+      "kind": "explainer",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "建议已有函数与积分的直观认识",
+      "sourceProvenance": "原作者中文官方账号",
+      "originalSource": "https://youtu.be/spUNpyF58BY",
+      "id": "BV1pW411J7s8",
+      "title": "【官方双语】形象展示傅里叶变换",
+      "creator": "3Blue1Brown",
+      "aid": 19141078,
+      "cid": 31220967,
+      "creatorMid": 88461692,
+      "creatorAvatar": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 31220967,
+          "title": "【官方双语】形象展示傅里叶变换",
+          "duration": 1256
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/88461692",
+      "cover": "https://i0.hdslb.com/bfs/archive/7d1bc9947033318be1ad000a6089486554035e12.jpg",
+      "duration": 1256,
+      "publishedAt": "2018-02-04",
+      "url": "https://www.bilibili.com/video/BV1pW411J7s8/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1LHev6yEs8",
+      "tags": [
+        "口腔健康",
+        "健康科普",
+        "短课"
+      ],
+      "summary": "CGTN 采访北大口腔专家，介绍日常护牙与常见口腔问题。",
+      "audience": "日常健康知识；具体检查与治疗由专业人员判断",
+      "category": "health",
+      "topic": "",
+      "collection": "body",
+      "kind": "explainer",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "日常健康知识；具体检查与治疗由专业人员判断",
+      "sourceProvenance": "CGTN 官方账号；采访北京大学口腔医院胡文杰",
+      "id": "BV1LHev6yEs8",
+      "title": "全国爱牙日：北大口腔专家提示科学护牙关键点",
+      "creator": "CGTN",
+      "aid": 117301965756010,
+      "cid": 42048685339,
+      "creatorMid": 569956690,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/24b35627c273d033b204a1d14818682523967eb9.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 42048685339,
+          "title": "全国爱牙日：北大口腔专家提示科学护牙关键点",
+          "duration": 169
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/569956690",
+      "cover": "https://i1.hdslb.com/bfs/archive/ff1e7c1de42bc63d5c8aca4cea36ce11fa654086.jpg",
+      "duration": 169,
+      "publishedAt": "2026-09-20",
+      "url": "https://www.bilibili.com/video/BV1LHev6yEs8/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    }
+  ],
+  "refreshFailures": 0,
+  "collections": [
+    {
+      "id": "math",
+      "title": "数理直觉，从图像开始",
+      "description": "先看线性代数，再看微积分。每次学一集，给理解留一点时间。",
+      "category": "world",
+      "videos": [
+        "BV1ys411472E",
+        "BV1qW411N7FU",
+        "BV1pW411J7s8"
+      ]
+    },
+    {
+      "id": "ai-start",
+      "title": "先理解 AI，再追新模型",
+      "description": "从神经网络与 Transformer 的直观解释，走向研究者的真实工作。",
+      "category": "ai",
+      "videos": [
+        "BV1bx411M7Zx",
+        "BV13z421U7cs",
+        "BV1tDx56REKt",
+        "BV1darmBcE4A",
+        "BV1iVoVBgERD"
+      ]
+    },
+    {
+      "id": "code-start",
+      "title": "编程的第一门课",
+      "description": "计算机科学建立全景，Python 带你动手。课程之间可以交替学习。",
+      "category": "code",
+      "videos": [
+        "BV1EW411u7th",
+        "BV1c4411e77t"
+      ]
+    },
+    {
+      "id": "economics",
+      "title": "看懂财经新闻之前",
+      "description": "先认识通胀、汇率与央行，再把它们放回具体的公司与产业。",
+      "category": "world",
+      "videos": [
+        "BV1KP4y1678m",
+        "BV1iW42197dP",
+        "BV1uC4y1q79G",
+        "BV18j411S7ST"
+      ]
+    },
+    {
+      "id": "language",
+      "title": "英语，从声音到表达",
+      "description": "音标、语法与考试导览。按自己的薄弱环节选一门开始。",
+      "category": "english",
+      "videos": [
+        "BV1iV411z7Nj",
+        "BV1XY411J7aG",
+        "BV1ww41177kU"
+      ]
+    },
+    {
+      "id": "body",
+      "title": "把身体照顾好",
+      "description": "从睡眠和日常健康开始，再为喜欢的运动留出固定时间。",
+      "category": "health",
+      "videos": [
+        "BV1iZXcYqEYt",
+        "BV1LHev6yEs8",
+        "BV1jk4y117eK",
+        "BV1hE411V77S",
+        "BV1CzjY6kE4x",
+        "BV1tk4y117yz",
+        "BV1W5411V7No",
+        "BV14Z421N7Cc"
+      ]
+    },
+    {
+      "id": "frontier",
+      "title": "AI 一线，完整地聊一聊",
+      "description": "保留你提名的长访谈。适合已经有基础、想了解行业与研究经历的时候。",
+      "category": "ai",
+      "videos": [
+        "BV1darmBcE4A",
+        "BV1usRgBEESe",
+        "BV1fmgj66EtD",
+        "BV1YR5E6EE9o",
+        "BV1iVoVBgERD",
+        "BV1XmtyzKEzQ",
+        "BV1CAHV6PEPM"
+      ]
+    },
+    {
+      "id": "slowtalk",
+      "title": "常看常新：人与选择",
+      "description": "世界通识也包括人的经验。听不同的人谈职业、表达与生活。",
+      "category": "world",
+      "videos": [
+        "BV1cQYYzYEDX",
+        "BV1zNoVB1EWb",
+        "BV1dd7r6oEpf",
+        "BV1jCpizuEPg",
+        "BV12gmuBWEJY",
+        "BV1wZJD6NEku",
+        "BV16s7b68EwG"
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "title": "HowToLiveBetter",
+      "description": "把睡眠、运动、时间、消费与学习放回日常生活。可继续查阅项目中的参考来源。",
+      "url": "https://eternity4719.github.io/HowToLiveBetter/",
+      "label": "项目全文",
+      "source": "eternity4719 · 正文 CC BY 4.0"
+    },
+    {
+      "title": "健康习惯与慢性风险",
+      "description": "睡眠、饮食、运动与口腔健康等问题的延伸阅读。",
+      "url": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/02-不要慢慢死.md",
+      "label": "健康与运动",
+      "source": "HowToLiveBetter"
+    },
+    {
+      "title": "精力与时间",
+      "description": "了解精力管理，再安排自己的学习节奏。",
+      "url": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/03-不要浪费精力.md",
+      "label": "大学生活",
+      "source": "HowToLiveBetter"
+    },
+    {
+      "title": "消费与金钱",
+      "description": "从日常消费决策进入财经基础。",
+      "url": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/05-不要浪费钱.md",
+      "label": "世界通识",
+      "source": "HowToLiveBetter"
+    },
+    {
+      "title": "学什么技能划算",
+      "description": "把技能选择与自己的目标、时间和实践放在一起考虑。",
+      "url": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/23-学什么技能划算.md",
+      "label": "学习与技能",
+      "source": "HowToLiveBetter"
+    },
+    {
+      "title": "账号与信息安全",
+      "description": "开始使用新工具时，也照顾好自己的账号与信息。",
+      "url": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/14-账号与信息安全.md",
+      "label": "数字生活",
+      "source": "HowToLiveBetter"
+    }
+  ]
+}

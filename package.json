@@ -1,0 +1,11 @@
+{
+  "name": "reabili",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/core.test.js && python3 -m unittest discover -s tests -v",
+    "serve": "python3 -m http.server 8876 --bind 127.0.0.1 --directory dist",
+    "refresh": "python3 scripts/refresh-catalog.py"
+  }
+}

@@ -1,0 +1,4764 @@
+{
+  "BV1darmBcE4A": {
+    "bvid": "BV1darmBcE4A",
+    "aid": 115909138055436,
+    "cid": 35438791242,
+    "pages": [
+      {
+        "cid": 35438791242,
+        "page": 1,
+        "from": "vupload",
+        "part": "翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4",
+        "duration": 7365,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002q7olgw75c4ct29r971z8jgcdxb_firsti.jpg",
+        "ctime": 1768633779
+      }
+    ],
+    "title": "翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4",
+    "owner": {
+      "mid": 14145636,
+      "name": "WhynotTV",
+      "face": "https://i0.hdslb.com/bfs/face/6918bc3b2c8d65a709a1402f6248061c1a8793a8.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/54724e4aece32efd308fa76c613597182e54e32e.jpg",
+    "duration": 7365,
+    "pubdate": 1768633779,
+    "desc": "本期嘉宾翁家翌。他在 2022 年加入 OpenAI，并且是 OpenAI 一系列核心模型背后的核心贡献者之一——从 GPT-3.5、GPT-4、再到 GPT-5，你能看到的那些关键跃迁里，都有他的身影；而他最主要的贡献，你可以先记住三个词：强化学习、post-training、infra。 \n\n但对我来说，翁家翌不只是“把模型做得更强的人”。在成为 OpenAI 研究员之前，他就已经用开源和产品影响过无数人：把知识与资料公开、试图打破信息差；把做工具称作一种“慈善”——在他的价值观里，开源不是履历装饰，而是一种对世界的投入方式：追求的不是掌声，而是 impact。 \n\n在这期节目里，我们会从翁家翌的童年经历聊起，走到他在清华与 CMU 的求学与成长，再到他在 2022 年加入 OpenAI 后的亲历：站在 AI 风暴中心的人，到底看见了什么？ 这里是 WhynotTV Podcast。现在请和我一起，走进翁家翌的世界。 \n\n\n2:33 - 小时候的翁家翌是什么样的小孩 \n5:56 - 成长过程中的投资未来的意识 \n8:10 - 高中计算机竞赛与升学 \n16:02 - 在清华开源作业与信息差 \n19:23 - 在本科与强化学习结缘 \n28:00 - 在Yoshua Bengio组暑研做NLP的经 \n30:38 - 对前ChatGPT时代的NLP and RL有什么反思 \n32:47 - 留学申请季受挫的经历 \n35:28 - 对固有评价体系的挣脱 \n41:08 - 天授Tianshou强化学习框架的前世今生 \n48:07 - tuixue online签证查询系统 \n49:54 - 追求影响力impact的底层逻辑是什么 \n56:21 - CMU读研与加入OpenAI的经历 \n59:46 - 和John Schulman的面试故事 \n61:54 - 为什么没有考虑读PhD \n63:16 - 研究能力和工程能力谁更重要 \n66:31 - infra的重要性 \n69:28 - 还会鼓励今天的学生读AI PhD吗 \n73:13 - 什么是强化学习和post-training（后训练） \n74:22 - 加入OpenAI的时候ChatGPT是主线吗 \n76:01 - 发布ChatGPT前可以想象这样大规模的成功吗 \n79:18 - 2022年加入OpenAI的初印象是什么 \n80:52 - OpenAI的人才密度与组织架构 \n84:09 - GPT强化学习Post-training的前世今生 \n85:10 - 在2022年做RLHF有什么关键的挑战与突破 \n87:01 - 大模型工业级RL infra 的挑战 \n92:08 - 未来5-10年大语言模型的挑战和瓶颈会是是什么 \n96:30 - 现在的预训练和后训练可以达到AGI吗 \n98:34 - OpenAI还Open吗 \n103:30 - OpenAI实现AGI使命的最大挑战是什么 \n104:02 - 内部视角看Sam Altman被开除的经历 \n106:37 - 如何看待OpenAI的人才流失 \n107:43 - OpenAI面对AI竞赛的内部视角 \n112:48 - 未来与宿命论 \n118:35 - 考虑过创业吗 \n120:01 - 希望十年后的自己是什么样的",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1usRgBEESe": {
+    "bvid": "BV1usRgBEESe",
+    "aid": 116499075303246,
+    "cid": 38008982505,
+    "pages": [
+      {
+        "cid": 38008982505,
+        "page": 1,
+        "from": "vupload",
+        "part": "Danfei Xu：人类数据，行为克隆，机器人GPT-3，全栈，EgoMimic，遥操作，UMI，斯坦福 | WhynotTV Podcast #5",
+        "duration": 8244,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001djhm319um9wt24uurr0cip4hlb_firsti.jpg",
+        "ctime": 1777636019,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "Danfei Xu：人类数据，行为克隆，机器人GPT-3，全栈，EgoMimic，遥操作，UMI，斯坦福 | WhynotTV Podcast #5",
+    "owner": {
+      "mid": 14145636,
+      "name": "WhynotTV",
+      "face": "https://i0.hdslb.com/bfs/face/6918bc3b2c8d65a709a1402f6248061c1a8793a8.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/329d9c95e5b7715bbbdca7ed867923071f284d08.jpg",
+    "duration": 8244,
+    "pubdate": 1777636019,
+    "desc": "如果说大语言模型的跃迁，来自互联网沉淀下来的海量人类语言数据；那么在机器人世界里，是否也存在一种同样关键的数据？不是文字，不是图片，而是人拿起杯子、打开抽屉、穿过房间、和另一个人互动时，身体在物理世界里留下的痕迹。这个问题，正是我们这期节目最重要的关键词：human data，人类数据。 \n\n\n本期嘉宾 Danfei Xu: \n\nDanfei 一直把自己定义成一个 roboticist，机器人学家，不是只在屏幕上训练模型的人，而是那个愿意坐在机器人旁边，看它动、看它坏、再把它修好的人。从早年折腾单片机小车，到斯坦福几乎从零搭建 robot learning 系统；从不被看好的 behavior cloning，到今天思考 human data 如何成为机器人学习的底层燃料，他的技术主线始终不是单点算法，而是一个完整全栈问题。\n\n\n在这期节目里，我们会聊徐丹飞如何走上机器人这条路，human data 会不会成为 robot learning 的 GPT moment的基石？人形机器人和人类数据究竟是谁成就谁？当机器人开始学习人的操作、人的身体、甚至人和人之间的互动，它的智能上限是什么？ \n\n这里是 WhynotTV Podcast。现在，请和我一起，走进Danfei Xu的世界。\n\n---\n\n2:00 - Danfei 为什么一直把自己定义为 roboticist\n\n3:27 - 小时候的 Danfei 是什么样的小孩\n\n5:34 - 为什么高中时决定去美国读本科\n\n11:40 - 18岁前的经历如何塑造了对不确定性的适应力\n\n13:47 - 大一大二 cold call 机器人公司做 research\n\n24:00 - 为什么 PhD 选择了当时“机器人荒漠”的 Stanford\n\n30:18 - 2016-2017 年 robot learning 领域是什么样的\n\n36:12 - 在 DeepMind 暑研如何看到 behavior cloning actually works\n\n38:57 - 什么是机器人里的 behavior cloning\n\n40:16 - 为什么当时整个领域看不上 behavior cloning\n\n42:27 - RSS 2020 behavior cloning paper 的前世今生\n\n49:45 - Behavior cloning 最难的为什么不是模型而是系统\n\n57:17 - 为什么最后决定去找教职\n\n59:24 - 什么是 robot learning，它和传统 robotics 的区别是什么\n\n61:53 - 什么是机器人数据，什么是人类数据\n\n63:52 - EgoMimic 的起点：为什么相信第一人称 human data\n\n69:24 - 为什么从 teleoperation 转向 human data\n\n71:40 - 从 ego video 里机器人到底能学到什么\n\n75:20 - 为什么强调第一人称视频，而不是 YouTube 第三人称视频\n\n80:17 - 为什么 SLAM / VIO 对 human data 如此重要\n\n87:02 - 触觉 tactile 会在人类数据中扮演什么角色\n\n90:16 - Human data 各种模态的重要性排序\n\n92:27 - 什么是 UMI data，它到底是人类数据还是机器人数据\n\n96:35 - 五指灵巧手和人类数据 transfer 的关键瓶颈\n\n98:21 - Human data 和人形机器人是一荣俱荣吗\n\n102:51 - 如果数据、算力、硬件无限，human data 的智能上限是什么\n\n104:16 - 机器人如何获得类似互联网之于 LLM 的数据基础设施\n\n107:22 - 要 behavior clone human 需要多少小时数据\n\n109:08 - 为什么“不经意的人类数据”比任务采集数据更重要\n\n115:03 - EgoVerse 与 open collective efforts for academia\n\n119:39 - 为什么 full-stack robotics 如此重要\n\n121:25 - 一个 robotics 团队哪些东西必须 in-house\n\n124:33 - 今天的机器人离 Betty the Crow 的智能还差多远\n\n133:47 - 徐丹飞的 career goal 与 robotics 的 GPT-3 moment\n\n137:11 - 勇敢做自己想做的事：What's to lose?",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1fmgj66EtD": {
+    "bvid": "BV1fmgj66EtD",
+    "aid": 117083123744912,
+    "cid": 40822047496,
+    "pages": [
+      {
+        "cid": 40822047496,
+        "page": 1,
+        "from": "vupload",
+        "part": "对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手",
+        "duration": 12973,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002ppapkw3apcl420nd1y2qxlyhjb_firsti.jpg",
+        "ctime": 1786547039,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手",
+    "owner": {
+      "mid": 280780745,
+      "name": "张小珺商业访谈录",
+      "face": "https://i2.hdslb.com/bfs/face/d8d2df2874ca62e2f53dc690eff38549ce6cb8e1.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/a453c103223d8530efe58d1f44c106d42eaa6ae7.jpg",
+    "duration": 12973,
+    "pubdate": 1786579200,
+    "desc": "每次见到刘洺堉，他都穿一件黑色夹克，背着一个有点旧的斜挎包。\n\n现任英伟达研究副总裁的刘洺堉，是英伟达第一位从研究员擢升至副总裁之位的管理者，他领导英伟达最重要的模型项目之一——世界基座模型Cosmos。\n\n刘出生于中国台湾，是金庸小说爱好者。18岁起，刘洺堉就师从著名的武术家徐纪（神枪李书文一脉传人），练习中国功夫，一直至今。最近他又有了一个ice plunge（冰水浴）的新嗜好。凌晨4点多，刘洺堉起床后会依惯例进行武术训练：一个人蹲桩、打拳。做完全套后，再只身跳进冰桶，帮助身体修复。\n\n这种锻炼习惯与我对刘洺堉的印象截然不同——他看起来谦和，说话音量也不大。“中国武术最重要的是控制自己。”刘洺堉说，“我并不是为了展现强大的破坏能力。”\n\n某种程度上，这反映了他以及他所代表的英伟达这样巨型的基础设施型企业的竞争观。\n\n访谈中，他反复强调，他没有任何竞争对手，他没有和任何人竞争，所有人都可以是合作伙伴。\n\n“什么叫战争呢？我没有打算把别人杀死。”刘洺堉说，“我们的心态不是说想把别人给杀死，我们的心态是我们要怎么去造市场。你懂我意思吗？”\n\n“Jensen（英伟达创始人兼CEO黄仁勋）经常说，要造市场，而不是存量竞争。他讲我们就要做zero-billion-dollar business（从零到十亿美元的业务）——你可以不赚钱，但当这个生意成功的时候，必须是很influential（有影响力）的。不能说满足每年赚100个million（1个亿）——这种scale（规模）对很多公司都很大，但对英伟达而言，这是一个distraction（分心）。”刘接着说，“你要去解最重要的问题，产生最大的贡献。”\n\n英伟达正在“造”的市场，即面向物理世界的人工智能（Physical AI），世界基座模型Cosmos被寄予厚望。这个项目从2024年立项，经过两年多已发布至Cosmos 3。Cosmos直属团队不到100人，虚线汇报的规模是200至300人。黄仁勋对刘洺堉表达战略决心，称：“你就做到Cosmos 97。”\n\n如今，刘洺堉已在美国生活20年，在英伟达工作10年，他仍然用一些朴素的东方智慧进行技术表达——比如，他把大模型比作中医，时常援引《孙子兵法》“备多则力寡”来思考世界模型的技术趋势。\n\n本次访谈，我们详细地聊了聊Cosmos系列（尤其是前不久发布的Cosmos 3）、世界模型、物理世界的人工智能、英伟达的竞争观、组织哲学，当然还有绕不开的黄仁勋。\n\n接下来，就是我对刘洺堉的访谈。\n\nOUTLINE:\n00:02:35 英伟达的赌注与边界 \n00:29:57 意外、顿悟、转变 \n01:02:46 如何在英伟达拿到GPU \n01:21:57 从研究员到英伟达VP：“我可能是第一个吧”\n01:37:00 Cosmos的诞生\n01:51:39 从Cosmos 1到Cosmos 3的演变 \n02:36:33 “黑客帝国”\n02:44:20 下一个CUDA?\n02:47:04 关于黄仁勋：Mission is the boss \n03:12:20 模型竞争不是鱿鱼游戏\n\nLINKS：\n如果你想服用文字版，请搜索我们工作室的公众号：语言即世界language is world。\n\nDISCLAIMER: 本内容不作为投资建议。\nCONTACT: xiaojunzhang@lisw.ai\nJump into the new world-and explore with us!😉",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1YR5E6EE9o": {
+    "bvid": "BV1YR5E6EE9o",
+    "aid": 116551235669764,
+    "cid": 38242946885,
+    "pages": [
+      {
+        "cid": 38242946885,
+        "page": 1,
+        "from": "vupload",
+        "part": "对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去",
+        "duration": 13681,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002v3hcs6p9ilkc2h5sz84iz97cbb_firsti.jpg",
+        "ctime": 1778431820,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去",
+    "owner": {
+      "mid": 280780745,
+      "name": "张小珺商业访谈录",
+      "face": "https://i2.hdslb.com/bfs/face/d8d2df2874ca62e2f53dc690eff38549ce6cb8e1.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/72e478e6353621d08b32d644a5e58378a68058e6.jpg",
+    "duration": 13681,
+    "pubdate": 1778457600,
+    "desc": "姚顺宇戴了一副茶色眼镜走过来，这副眼镜会随光线变化而改变颜色。\n\n硅谷AI业界有两位Yao Shunyu，他们曾是清华同一届毕业生，这让姚顺雨与姚顺宇时常成为话题人物。\n\n前一位姚顺雨2025年从OpenAI跳槽到腾讯，他去年来过我们节目（第115集）；后一位姚顺宇也于同年跳槽，从Anthropic来到Google DeepMind。\n\n今天的嘉宾姚顺宇，毕业于清华和斯坦福大学，曾经的研究方向是理论物理——非厄米系统、量子物理与高能物理。他的人生奋斗姿态是——“总想挑战一些自己不太会的事”。\n\n他人生最大的一次跨步是博士毕业，毅然决然离开深造9年的物理，来到崭新的AI行业。过去两年，他先后在Anthropic和Google DeepMind出任研究科学家，参与了Claude 3.7、4.5、Gemini 3等关键模型的开发过程。\n\n姚顺宇一点也不nerd。有时，他会令你猝不及防，突然发表一点“小疯”言论。\n\n第一次见面，他就对我说：“我在这个行业又没有什么导师，又没有什么旧友，我当然想喷谁喷谁。”\n\n转行AI的两年，他变得越来越直接，越来越不害怕得罪人。访谈中，他也说了一些直白言论：\n“AI个人英雄主义时代已经过去了，所以也没有什么英雄，有时候甚至觉得旧时代英雄有点蠢。”\n“没有哪个老登是你的亲属，所以你觉得他傻，他就是傻，就可以直接说他傻。无所谓的啊。（笑）”\n“现在大家都是冲浪的人，本质上是那个浪，而不是你那个冲浪的人”；\n“AI这个事，本来也不太需要脑子——真的不太需要脑子。这个行业最重要的特质，就是靠谱，就是做事细，对自己做的事情负责任。”\n“你不用太担心因为自己的观点而惹到什么人。只要你的观点是自洽的，不是说随便喷人，你是有一套自己的理解。最终你在这个领域做的怎样，是有客观评价标准的——大家是会尊重你的。”\n\n不过，在描述自己的研究时，姚顺宇又显得异常审慎。\n\n他对于这些工作的描述是：“我自己对那个事没那么重要，更多的是，我很幸运，有机会在那个时候加入了一个重要的项目，做了一些事。”\n\n他反复强调，AI个人英雄主义的时代已经过去了，现在都是集体主义的故事，要对神话个体的一切叙事充满警惕。\n\n我们的节目录制于2026年3月，距离我们这次节目录制完，世界又发生了许多意想不到的变化：Meta对Manus的收购被撤销、Cursor可能被SpaceX收购、xAI将终止独立运营并入SpaceX，并更名为SpaceXAI等等。如果我们的谈话内容有一定滞后性，请大家多包涵——AI的世界实在变化太快、太出乎意料了。\n\n可能还要特别说明的一点是，技术细节会涉及企业机密，有一些嘉宾是不方便分享的，也请大家能够包容。\n\n在访谈中，我们尽最大可能和大家一起学习AI。你会收获姚顺宇在Anthroic和Google Gemini的技术探索历程与思考洞察。\n\n而对于那些离经叛道的微小片刻，还请允许我们小疯一下。\n\n接下来，就是我对顺宇的访谈。\n\nOUTLINE:\n00:01:26 两个Shunyu Yao \n00:07:15 竞争与逃逸 \n00:25:22 “Pre-train没有到头”\n00:35:08 Coding的爆发\n00:50:10 Seedance\n00:54:30 “硬蒸”和“软蒸”\n01:04:07 机器人 \n01:08:45 在Underdog之地赌一把 \n01:19:44 非厄米系统与量子物理 \n01:36:27 高能物理 \n01:43:09 物理与AI \n01:52:32 在Anthropic训练Claude 3.7和4.5 \n02:35:03 “AI本质是简单的” \n02:41:10 在Google DeepMind训练Gemini 3 \n03:01:28 技术预测和组织搭建\n03:23:33 集体主义胜利\n\nLINKS：\n我们的视频播客在全视频平台播出，播客在等全音频平台播出。\n如果你想服用文字版，请搜索我们工作室：语言即世界language is world。\n本集的文字版：《独家对话姚顺宇：请允许我小疯一下！》\n\nDISCLAIMER: 本内容不作为投资建议。\nCONTACT: xiaojunzhang@lisw.ai\nJump into the new world-and explore with us!😉",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1iVoVBgERD": {
+    "bvid": "BV1iVoVBgERD",
+    "aid": 116457333588484,
+    "cid": 37760077818,
+    "pages": [
+      {
+        "cid": 37760077818,
+        "page": 1,
+        "from": "vupload",
+        "part": "对罗福莉的3.5小时访谈：AI范式已然巨变！OpenClaw、智能体框架、Agent范式很吃Post-train、卡的分配比例、巨变下的组织",
+        "duration": 12879,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003t6zlnu6r5cta2p5jdc0mktftbb_firsti.jpg",
+        "ctime": 1776997963,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "对罗福莉的3.5小时访谈：AI范式已然巨变！OpenClaw、智能体框架、Agent范式很吃Post-train、卡的分配比例、巨变下的组织",
+    "owner": {
+      "mid": 280780745,
+      "name": "张小珺商业访谈录",
+      "face": "https://i2.hdslb.com/bfs/face/d8d2df2874ca62e2f53dc690eff38549ce6cb8e1.jpg"
+    },
+    "pic": "http://i1.hdslb.com/bfs/archive/d9c8cb358259ceb896a07e588506abee526dbc6f.jpg",
+    "duration": 12879,
+    "pubdate": 1777001400,
+    "desc": "2026年，大模型战争全面升级，掀开了第二幕——从Pre-train（预训练）主导的Chat时代，转向Post-train（后训练）主导的Agent时代。\n\n在AI范式巨变之际，我访谈了人工智能研究员罗福莉。罗福莉曾供职阿里达摩院、DeepSeek，目前是小米大模型团队负责人，主导研发了MiMo-V2系列模型。她在网络空间有很多标签，例如“AI天才少女”，但她不喜欢这个称呼。\n\n这次是她的第一次访谈，也是她第一次进行长时间的技术访谈。\n\n我们系统性地谈论了，2026年由Claude Opus 4.6、OpenClaw等技术变量所触发的AI巨震，以及后续结构性影响。\n\n在这个生产力大爆炸的时代，人人都有危机感。哪怕是对于亲手训练模型的研究者来说。\n\n“我之前认为我们自己做的工作已经足够有创造力、足够不会被Skill化、不会被Workflow化。但我现在发现，它竟然也能！那它可不可以训出更强的模型？自己左脚踩右脚就提升了？——这是这一两年会发生的事情。”\n\n当人类的知识与智慧内化为模型能力，未来的人类去做什么？我们的社会如何消化这次剧烈的技术变革？——这些宏大的时代命题我们不得而知。\n\n但无论如何，这仍然是一次信息密度极大的访谈——你能从中看见，当面临一次巨大技术范式转折时，一家AI Lab内部，在技术押注、资源调配、组织与人员等诸多方面的系列举措。而它应对巨变的根基是，文化与价值观的成型。\n\n罗福莉对当下有一些关键的技术判断：\nAnthropic的路径是正确的，这是当下共识。\n在路径更清晰的情况下，国内大模型团队进入加速追赶的状态。现在大家在Pre-train上的代差是基本没有的，或者说非常接近。\n现在至少跟23年要去追平Pre-train的差距一样，大家很all in，要去做好Agent的Post-train。更具体说，是在Agent上怎么做好RL的scaling。\n系统从“以Rollout推理引擎为核心”，转变为“以Agent为核心”的一个更复杂系统。这对团队提出了更高的要求：必须具备足够敏捷性，能够快速开发出适配当前时代的RL Infra系统。\n接下来两三个月，大家怎么发生变化，是考验团队整体研究水平、技术敏捷程度，以及怎么拥抱新的范式来做研究的关键。\n一个for更长期的事情：我们不会在1T水平上走太久。如果要拿到下一个阶段的领先，就要寻求更大规模scaling。到底是去scaling模型的参数量，还是去scaling什么东西？以及要在什么样的芯片上去scaling？——这是当下立即需要去决策和判断的，这才决定了大半年过后谁更领先。\n\n在卡的调配上：\n至少在Chat时代，for研究、for Pre-train和for Post-train的用卡比例非常夸张，比如3:5:1，现在一个非常合理的用卡比例可能是3:1:1。\n预训练跟后训练一个比例，这是今年可能发生的很大变化。顶尖团队应该都是1:1了。\n\n在组织的重组上：\n做后训练现在一个重要的范式变化是，需要具备diversity（多样性），让预训练的人做后训练是个很好的补充。\n\n“接下来两三个月会非常精彩。”罗福莉称。\n\n接下来，就是我对罗福莉的访谈。\n\nOUTLINE:\n00:01:31 OpenClaw引发巨变  \n00:23:32 群体智能提升Agent框架  \n00:40:46 2026是生产力变革之年  \n01:01:00 Agent的自进化与自迭代  \n01:18:54 MiMo-V2：觉醒和伏击  \n01:44:39 1T模型是入场券  \n01:51:48 组织平权  \n02:02:11 训练细节和成本  \n02:08:18 另类架构  \n02:21:47 AI没有生存危机  \n02:38:27 每天在否认昨天的自己  \n02:47:49 过去3年的AI进化史  \n03:05:09 当下共识与竞争  \n03:19:00 环境比经验更重要\n\nLINKS：\n我们的视频播客、播客在全平台播出；\n如果你想服用文字版，请搜索我们工作室的公众号：语言即世界language is world。\n本集文字版：《独家对话罗福莉：AI范式已然巨变！》\n\nDISCLAIMER: 本内容不作为投资建议。\nCONTACT: xiaojunzhang@lisw.ai\nJump into the new world-and explore with us!😉",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1XmtyzKEzQ": {
+    "bvid": "BV1XmtyzKEzQ",
+    "aid": 114990266713265,
+    "cid": 31555325057,
+    "pages": [
+      {
+        "cid": 31555325057,
+        "page": 1,
+        "from": "vupload",
+        "part": "胡渊鸣：Meshy AI，太极，MIT，清华姚班，图形学，物理仿真模拟，开源，商业化，勇气 ，智慧 ｜ WhynotTV Podcast #2",
+        "duration": 11060,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n250808ad3hzuqosj8lmek3strn2obcy_firsti.jpg",
+        "ctime": 1754612909
+      }
+    ],
+    "title": "胡渊鸣：Meshy AI，太极，MIT，清华姚班，图形学，物理仿真模拟，开源，商业化，勇气 ，智慧 ｜ WhynotTV Podcast #2",
+    "owner": {
+      "mid": 14145636,
+      "name": "WhynotTV",
+      "face": "https://i0.hdslb.com/bfs/face/6918bc3b2c8d65a709a1402f6248061c1a8793a8.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/ba0b6dcbe1d7fe10de12ce34794fa6c6c69eb56c.jpg",
+    "duration": 11060,
+    "pubdate": 1754612908,
+    "desc": "我非常非常非常享受和胡渊鸣做这三小时的谈话，三个半小时的素材，我在剪辑的过程中反复把素材过了很多遍，每一遍听都有新的收获，完全没有跳过任何片段，我很激动也很感谢渊鸣——我们录制出了这么精彩的一期内容！\n\n以下是我和Meshy AI CEO胡渊鸣的对话，胡渊鸣小学就开始编写物理仿真程序和游戏，本科就读于清华姚班，后赴MIT攻读博士，他是世界上最优秀的计算机图形学专家之一，博士期间独立全栈开发出开源并行计算框架「太极」，突破单GPU十亿粒子的仿真极限。2021年胡渊鸣博士毕业后创立太极图形，经历18个月商业化探索后转型推出生成式AI平台Meshy，现服务超400万用户，年营收增长超十倍。本次对话涵盖他对科技和世界本质的思考、博士期间的自我颠覆、创业生死转型，以及‘每三个月杀死过去自己’的智慧和勇气的进化哲学。\n\n这里是WhynotTV Podcast，现在请和我一起进入胡渊鸣的世界。\n\n------------------------------------------------------------------\n\n「🔗Episode 链接」\nMeshy AI: https://www.meshy.ai/\n胡渊鸣个人主页：https://yuanming.taichi.graphics/\n胡渊鸣知乎文章「当 CEO 重读 PhD：论智慧与勇气」：https://zhuanlan.zhihu.com/p/1893638374646079902\n\n------------------------------------------------------------------\n\n「🔗WhynotTV Podcast 链接」\nWhynotTV 播客主页：https://tairanhe.com/podcast_cn\nWhynotTV Podcast Homepage: https://tairanhe.com/podcast_en\nYouTube: https://www.youtube.com/@whynottv1999\nBilibili: https://space.bilibili.com/14145636\n小红书：WhynotTV\n微博：WhynotTV\n抖音：WhynotTV\n小宇宙：WhynotTV Podcast\nSpotify：WhynotTV Podcast\nApple Podcast: WhynotTV Podcast\nRSS: https://anchor.fm/s/106f6c76c/podcast/rss",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1iW42197dP": {
+    "bvid": "BV1iW42197dP",
+    "aid": 1856425863,
+    "cid": 1631370545,
+    "pages": [
+      {
+        "cid": 1631370545,
+        "page": 1,
+        "from": "vupload",
+        "part": "【硬核】一口气了解外汇",
+        "duration": 1672,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n240729sa1j94meuikninh1jairt9bsw_firsti.jpg",
+        "ctime": 1722248594
+      }
+    ],
+    "title": "【硬核】一口气了解外汇",
+    "owner": {
+      "mid": 520819684,
+      "name": "小Lin说",
+      "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/36496babeed22dc2f0e4e160ee9500415655dc45.jpg",
+    "duration": 1672,
+    "pubdate": 1722249071,
+    "desc": "日元怎么一直贬值啊？有人可以操纵外汇市场吗？\n土耳其里拉怎么崩了？美元和人民币又将何去何从？\n作为全球所有产品中，交易量最大的市场——外汇，主要参与者有谁，都是怎么玩儿的？\n今天，咱们就来一口气了解一下外汇。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1KP4y1678m": {
+    "bvid": "BV1KP4y1678m",
+    "aid": 905921931,
+    "cid": 983771277,
+    "pages": [
+      {
+        "cid": 983771277,
+        "page": 1,
+        "from": "vupload",
+        "part": "【硬核】一口气了解通货膨胀",
+        "duration": 1505,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230129qn281deto3milt3qhaldkc92j_firsti.jpg",
+        "ctime": 1674965261
+      }
+    ],
+    "title": "【硬核】一口气了解通货膨胀",
+    "owner": {
+      "mid": 520819684,
+      "name": "小Lin说",
+      "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/0d8cf8002c9492d96f7973e236321ce0da675c25.jpg",
+    "duration": 1505,
+    "pubdate": 1674984600,
+    "desc": "通胀这个坑确实挖了好几次，又是2022年全球经济的大旋律，今天小Lin填坑咯，一起打通任督二脉，一口气把通胀了解得明明白白！准备好接受知识的洗礼吧啊哈哈哈哈哈哈哈",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1uC4y1q79G": {
+    "bvid": "BV1uC4y1q79G",
+    "aid": 793230179,
+    "cid": 1389872626,
+    "pages": [
+      {
+        "cid": 1389872626,
+        "page": 1,
+        "from": "vupload",
+        "part": "一口气了解美联储 | 全球权力最大的金融机构",
+        "duration": 1463,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n240101sa116j2hfuz859p2f2ei5wrox_firsti.jpg",
+        "ctime": 1704093579
+      }
+    ],
+    "title": "【硬核】一口气了解美联储 | 全球权力最大的金融机构",
+    "owner": {
+      "mid": 520819684,
+      "name": "小Lin说",
+      "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg"
+    },
+    "pic": "http://i1.hdslb.com/bfs/archive/9ac7edc74640a7fd50fecafd410cc71145fc2f2b.jpg",
+    "duration": 1463,
+    "pubdate": 1704101400,
+    "desc": "美联储，可以说是这个星球上对金融市场影响力最大的机构了：政策出点问题就导致了20世纪最严重的全球经济大萧条，一刺激就带来了美国股市十多年的大牛市；稍微监管不严又招来了多次金融海啸。12个人，开个会动动嘴皮子的决策，就影响了全球经济。\n而这么重要的机构居然还有股东，还会每年分红！咱们今天不光聊美联储，我也想借着美国央行来带大家了解一下中央银行的运作机制，它在制定货币政策时候的利弊取舍，和关于美联储我的一些思考。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "114505220624919": {
+    "bvid": "BV19EEizDEc4",
+    "aid": 114505220624919,
+    "cid": 29954280092,
+    "pages": [
+      {
+        "cid": 29954280092,
+        "page": 1,
+        "from": "vupload",
+        "part": "全球第一网红，一边撒钱，一边赚钱，how？",
+        "duration": 1153,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n250514sa3kg3cw25fj0n735lbjdguhu_firsti.jpg",
+        "ctime": 1747211875
+      }
+    ],
+    "title": "全球第一网红，一边撒钱，一边赚钱，how？",
+    "owner": {
+      "mid": 520819684,
+      "name": "小Lin说",
+      "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg"
+    },
+    "pic": "http://i1.hdslb.com/bfs/archive/4051455e2a78c9592280531017a10550a5c25d6a.jpg",
+    "duration": 1153,
+    "pubdate": 1747215919,
+    "desc": "YouTube上订阅最多的频道：Mr Beast野兽先生，每段视频的平均播放量超2亿，每段视频的制作成本达到了惊人的400万美元。\n小Lin这次拿到了独家采访Mr Beast的机会，今天咱们就来一起探究一下世界第一网红的秘密。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1cQYYzYEDX": {
+    "bvid": "BV1cQYYzYEDX",
+    "aid": 115037075213130,
+    "cid": 31785420299,
+    "pages": [
+      {
+        "cid": 31785420299,
+        "page": 1,
+        "from": "vupload",
+        "part": "陈鲁豫首次对谈易立竞｜陈鲁豫·慢谈EP01 【视频播客】",
+        "duration": 7398,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n250818a2p2iq16vf3mhr1vbo473gnv9_firsti.jpg",
+        "ctime": 1755531136
+      }
+    ],
+    "title": "陈鲁豫首次对谈易立竞｜陈鲁豫·慢谈EP01 【视频播客】",
+    "owner": {
+      "mid": 1479442448,
+      "name": "陈鲁豫-慢谈",
+      "face": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/d41f3d374c7b96a76b6e758ce0b4242a28d40845.jpg",
+    "duration": 7398,
+    "pubdate": 1755489600,
+    "desc": "",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1zNoVB1EWb": {
+    "bvid": "BV1zNoVB1EWb",
+    "aid": 116457685912801,
+    "cid": 37854118297,
+    "pages": [
+      {
+        "cid": 37854118297,
+        "page": 1,
+        "from": "vupload",
+        "part": "慢谈-罗翔上线版-0426",
+        "duration": 11151,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002lwve3tkxxwya2c7dskawpawnmb_firsti.jpg",
+        "ctime": 1777216883,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "鲁豫对话罗翔：在命运的剧本揭晓前，尽力扮演好自己的角色 | 陈鲁豫·慢谈EP16【视频播客】",
+    "owner": {
+      "mid": 1479442448,
+      "name": "陈鲁豫-慢谈",
+      "face": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/7ca7413420ad96404e0a947ef957c44a98625f68.jpg",
+    "duration": 11151,
+    "pubdate": 1777262400,
+    "desc": "他是拥有超3200万粉丝的“顶流”老师，从“一夜爆红”到主动收敛锋芒，成名的光环之下，藏着数不尽数的惶恐与紧张。\n本期《陈鲁豫·慢谈》，鲁豫对话罗翔，从年少经历谈到人生底色，从法学思辨聊至内心矛盾。在这场沉静对话里，我们看见撕掉网络标签后，一个更真实、更完整的罗翔。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1dd7r6oEpf": {
+    "bvid": "BV1dd7r6oEpf",
+    "aid": 116695570124126,
+    "cid": 39092358352,
+    "pages": [
+      {
+        "cid": 39092358352,
+        "page": 1,
+        "from": "vupload",
+        "part": "慢谈-张泉灵-上线版-0613",
+        "duration": 11554,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003j2zaav2kuuo62p7bgtn9k4b2wb_firsti.jpg",
+        "ctime": 1781364894,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "鲁豫对话张泉灵：从时代的同窗，到彼此的镜像，聊聊那些彼此望见过的时刻 | 陈鲁豫·慢谈EP19【视频播客】",
+    "owner": {
+      "mid": 1479442448,
+      "name": "陈鲁豫-慢谈",
+      "face": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/dc52829fc6fb91004200d440bcec4d5a49e40fc9.jpg",
+    "duration": 11554,
+    "pubdate": 1780891200,
+    "desc": "从“北大才女”到“央视名嘴”，她是演播厅里家喻户晓的新闻主播。在职业生涯的巅峰期，她选择转身离场，从媒体人跨界成为投资人、教育公司董事长，不断跳出舒适区投入全新赛道。\n本期《陈鲁豫·慢谈》，鲁豫对话跨界者张泉灵。她们从过往的荣誉与沉淀聊起，聊转型中的不舍与挑战，也聊如何在巨变时代中安放自我。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1jCpizuEPg": {
+    "bvid": "BV1jCpizuEPg",
+    "aid": 115224828972609,
+    "cid": 32644141010,
+    "pages": [
+      {
+        "cid": 32644141010,
+        "page": 1,
+        "from": "vupload",
+        "part": "对话窦文涛，聊聊我们的30年 ｜陈鲁豫·慢谈EP03【视频播客】",
+        "duration": 10343,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002zl0v3ckzxnow28b4rb8tc8ij0b_firsti.jpg",
+        "ctime": 1758872417
+      }
+    ],
+    "title": "对话窦文涛，聊聊我们的30年 ｜陈鲁豫·慢谈EP03【视频播客】",
+    "owner": {
+      "mid": 1479442448,
+      "name": "陈鲁豫-慢谈",
+      "face": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/46877752a8f17fb3cf4b996b452b006d8f9babe4.jpg",
+    "duration": 10343,
+    "pubdate": 1758513600,
+    "desc": "",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV12gmuBWEJY": {
+    "bvid": "BV12gmuBWEJY",
+    "aid": 115699070600257,
+    "cid": 34708787002,
+    "pages": [
+      {
+        "cid": 34708787002,
+        "page": 1,
+        "from": "vupload",
+        "part": "20251212鲁豫-吴越-10G",
+        "duration": 9351,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003lbu5butf2bpw28oozcu3n071xb_firsti.jpg",
+        "ctime": 1765604869
+      }
+    ],
+    "title": "鲁豫对话吴越：是演员、是女儿、亦是自己｜陈鲁豫·慢谈EP09【视频播客】",
+    "owner": {
+      "mid": 1479442448,
+      "name": "陈鲁豫-慢谈",
+      "face": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/68e671558d5155320aa180d969e0d0851b8d7657.jpg",
+    "duration": 9351,
+    "pubdate": 1765771200,
+    "desc": "她是观众眼中“连头发丝都是戏”的实力演员，从《我的前半生》到《沉默的荣耀》，留下了多个深入人心的角色。但角色之外，真实的吴越是怎样的？她如何看待角色带来的非议与荣誉？如何在自己的“中女时代”找准事业和生活的方向？《陈鲁豫·慢谈》本期对话吴越，聊聊她这些年的变化与感悟。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1wZJD6NEku": {
+    "bvid": "BV1wZJD6NEku",
+    "aid": 117448615398168,
+    "cid": 42859498730,
+    "pages": [
+      {
+        "cid": 42859498730,
+        "page": 1,
+        "from": "vupload",
+        "part": "鲁豫慢谈X王凯20261019成片10g",
+        "duration": 11021,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00001dr8l2h449bjv2kvtzi7kyoupbb_firsti.jpg",
+        "ctime": 1792373783
+      }
+    ],
+    "title": "鲁豫对话王凯：出道20年，一个演员的「不妥协」| 陈鲁豫·慢谈EP27【视频播客】",
+    "owner": {
+      "mid": 1479442448,
+      "name": "陈鲁豫-慢谈",
+      "face": "https://i2.hdslb.com/bfs/face/780c6eb8e8ef01eeb2ff5c346896d113fda04d19.jpg"
+    },
+    "pic": "http://i1.hdslb.com/bfs/archive/5ce94b3ef3466e7e0598a2b39f8579a80200b614.jpg",
+    "duration": 11021,
+    "pubdate": 1792382400,
+    "desc": "从新华书店库管员到中戏科班生，他是手握多部热剧的实力派演员。从《丑女无敌》到《伪装者》、《琅琊榜》、《大江大河》，再到《交锋》，人生的不同阶段，他总能带来令人印象深刻的角色和作品。出道20年，他习惯藏在角色背后，带要拍好戏的使命，一头扎进生活和表演中。\n本期《陈鲁豫·慢谈》，鲁豫对话王凯。他们聊角色演绎的幕后故事，聊14岁萌生表演梦想的准备，也谈迈入40岁之后的状态变化。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1CAHV6PEPM": {
+    "bvid": "BV1CAHV6PEPM",
+    "aid": 117499987233875,
+    "cid": 43035066657,
+    "pages": [
+      {
+        "cid": 43035066657,
+        "page": 1,
+        "from": "vupload",
+        "part": "【十字路口】AI 时代，PhD 怎么拿大结果？｜对谈李磊：港大 PhD、小米 MiMo 研究员【视频播客】",
+        "duration": 3105,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000vuv5krzcc3li2h7pe75s972dzb_firsti.jpg",
+        "ctime": 1792907645
+      }
+    ],
+    "title": "【十字路口】AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员【视频播客】",
+    "owner": {
+      "mid": 505301413,
+      "name": "Koji杨远骋at十字路口",
+      "face": "https://i1.hdslb.com/bfs/face/6ded85b1fdda7a1c131de6220f21caaac06f02d3.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/d71eae70576687ac4628bff87afa2c6fe2279ac9.jpg",
+    "duration": 3105,
+    "pubdate": 1792944000,
+    "desc": "➤ 本周「十字路口」的嘉宾是李磊，小米 MiMo 大模型后训练研究员、香港大学在读博士。一边参与大模型训练，一边读 PhD，他和许多同学一样，面对着 AI 带来的巨大机会，也置身于飞速变化的节奏中：既兴奋，也焦虑。\n\n这期播客，我们聊的主题是：在 AI 时代，PhD 怎么拿到一个理想的结果？\n\n我们聊了 PhD 路上的 10 个关键问题：慢科研，还是快科研？学校和导师怎么选？内地、香港、美国如何选？怎样争取研究机会与实习机会？论文发表之后，如何通过开源和社交媒体，让研究被更多人看见，产生真正的影响？如果本科就能进入 AI Labs，读 PhD 还值得吗？\n\n我们也聊到了 PhD 圈里的“大粉理论”：小红书的粉丝量超过论文引用数。这个说法背后，是研究成果传播方式的变化。\n\n最后，我们还聊了 RSI、数商、Benchmark 等近期受到关注的话题。\n\n如果你正准备读 PhD，或正在为研究、毕业和求职感到焦虑，希望这场对话能帮你想清楚：下一步，什么值得投入，又该从哪里开始。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV18j411S7ST": {
+    "bvid": "BV18j411S7ST",
+    "aid": 445257120,
+    "cid": 1180329943,
+    "pages": [
+      {
+        "cid": 1180329943,
+        "page": 1,
+        "from": "vupload",
+        "part": "一口气了解英伟达，芯片新王凭什么是他？",
+        "duration": 1638,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230630a213cd1vjuee9z33ko6bpqxjt_firsti.jpg",
+        "ctime": 1688113486
+      }
+    ],
+    "title": "一口气了解英伟达，芯片新王凭什么是他？",
+    "owner": {
+      "mid": 520819684,
+      "name": "小Lin说",
+      "face": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/d4159ec2886c3d59a2d37f42110c11f18f00beba.jpg",
+    "duration": 1638,
+    "pubdate": 1688120100,
+    "desc": "在AI领域还处在一片混战当中时，一个亚洲人穿着皮夹克从乱军丛中杀出重围，靠卖\"铲子\"成了2023上半场的最大赢家。\n这是怎么回事儿？\n咱们来看看黄仁勋和英伟达的崛起之路，当然也少不了硬核的商业分析~",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV16s7b68EwG": {
+    "bvid": "BV16s7b68EwG",
+    "aid": 116808682047647,
+    "cid": 39386222500,
+    "pages": [
+      {
+        "cid": 39386222500,
+        "page": 1,
+        "from": "vupload",
+        "part": "自然光｜第二集：papi酱&窦文涛",
+        "duration": 9306,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000wogq10wytpiz2vvh141z4pvdbb_firsti.jpg",
+        "ctime": 1782359283,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "自然光｜papi酱&窦文涛：驴与跑步机",
+    "owner": {
+      "mid": 3706971419052108,
+      "name": "窦文涛的聊客",
+      "face": "https://i0.hdslb.com/bfs/face/2177958be970698fe54a666ae67c3f0210c5103a.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/aea154c3d0661a226e360a75c430b470f5792316.jpg",
+    "duration": 9306,
+    "pubdate": 1782446400,
+    "desc": "在这个万物皆可被定义的时代 ，我们往往在 “公众形象 ”与“自我内核 ”之间，不断地拉扯、妥协，甚至自我重构 。\n\n「自然光」第二集，我们邀请到 @papi酱，与主持人窦文涛 ，展开一场关于成年人底色的坦诚对谈 。从短视频时代的流量焦虑出发 ，穿过“被动自律 ”的创作困境 ，深入探讨在复杂的家庭关系与工作重压之下 ，一个人如何保持清醒的 “解离”与真实的感知 。最终在对所谓“原则”与“荒诞”的拆解中 ，找寻那个能够接纳不完美 ，与自我平和相处的 “支点”。\n\n「自然光」是由@鄂尔多斯 1980 推出的一档播客节目 ，主持人@窦文涛 称之为“聊客”。与有意思 、有内容的朋友 ，在私人客厅里自然聊天 ，促膝长谈 ，我们称之为 “思想现场”。文涛将以其 “真聊天”的初心，“文涛问学 ”的夙愿，与鄂尔多斯 1980共同出品五集节目。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1tDx56REKt": {
+    "bvid": "BV1tDx56REKt",
+    "aid": 117515975920064,
+    "cid": 43112858649,
+    "pages": [
+      {
+        "cid": 43112858649,
+        "page": 1,
+        "from": "vupload",
+        "part": "AI时代，最值得学习的三个学科?",
+        "duration": 1209,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_000007vbrdngnmcid2nd9dqv76ue7ob_firsti.jpg",
+        "ctime": 1793151924,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "AI时代，最值得学习的三个学科?",
+    "owner": {
+      "mid": 105686205,
+      "name": "巫师后期",
+      "face": "https://i0.hdslb.com/bfs/face/523bc903d256ab473cc78e934f4bad5db9c2ff9b.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/a81b57107053ce64dde914e832bcbd66b79c9071.jpg",
+    "duration": 1209,
+    "pubdate": 1793151924,
+    "desc": "",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1CzjY6kE4x": {
+    "bvid": "BV1CzjY6kE4x",
+    "aid": 116773433122550,
+    "cid": 39227296308,
+    "pages": [
+      {
+        "cid": 39227296308,
+        "page": 1,
+        "from": "vupload",
+        "part": "BCAA很重要，但BCAA补剂不重要！",
+        "duration": 360,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1080,
+          "height": 1920,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_000017y9oza6ng8ze2ramr31wlva10b_firsti.jpg",
+        "ctime": 1781821512,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "BCAA很重要，但BCAA补剂不重要！",
+    "owner": {
+      "mid": 364281292,
+      "name": "陈石-营养-运动",
+      "face": "https://i1.hdslb.com/bfs/face/f1b8394e6338c496360cb5fe975f31ca744cd7c3.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/e7aa62aea7f8b8a48ef27db7d4ec231764b21d41.jpg",
+    "duration": 360,
+    "pubdate": 1781821512,
+    "desc": "-",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1tk4y117yz": {
+    "bvid": "BV1tk4y117yz",
+    "aid": 754207323,
+    "cid": 224437974,
+    "pages": [
+      {
+        "cid": 224437974,
+        "page": 1,
+        "from": "vupload",
+        "part": "bz3_skill_07092020_v2",
+        "duration": 324,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1597415351
+      }
+    ],
+    "title": "【实战篮球】第三集 - 徐远征Oliver",
+    "owner": {
+      "mid": 525873105,
+      "name": "徐远征Oliver",
+      "face": "https://i0.hdslb.com/bfs/face/5aa7285dcf327493561443e295a11b87b089c86d.jpg"
+    },
+    "pic": "http://i1.hdslb.com/bfs/archive/5f26400a734fa20d98bc574c7a1b9b4c75f8f15a.jpg",
+    "duration": 324,
+    "pubdate": 1597415351,
+    "desc": "第一次这种模式陪着你讲解技术训练。喜欢吗？有什么内容主意？请留言！\n\n加入线上付费培训请查看\n公众号：征途篮球\n\n抖音：howtomakethenba\nIns：howtomakethenba\n微博：徐远征Oliver",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1W5411V7No": {
+    "bvid": "BV1W5411V7No",
+    "aid": 457719718,
+    "cid": 251209724,
+    "pages": [
+      {
+        "cid": 251209724,
+        "page": 1,
+        "from": "vupload",
+        "part": "JSP_3_BottomBouncePre",
+        "duration": 68,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1604129886
+      }
+    ],
+    "title": "跳投热身？- 线上培训 - 徐远征Oliver",
+    "owner": {
+      "mid": 525873105,
+      "name": "徐远征Oliver",
+      "face": "https://i0.hdslb.com/bfs/face/5aa7285dcf327493561443e295a11b87b089c86d.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/d3d2ca95529d708d6e1d2a69cc2754604f2124f5.jpg",
+    "duration": 68,
+    "pubdate": 1604129886,
+    "desc": "线上培训公众号：征途篮球\n问题请联络微信服务号：ztu881\n\n这是跳投计划里其中一个视频（总共23个）完整计划包括投篮技巧和力量训练。\n\n线上培训我才能更各别帮你进步！加入培训计划以后，会添加私人微信、帮你拉进培训群，解答你的问题。\n\n抖音：howtomakethenba\nIns：howtomakethenba\n微博：徐远征Oliver",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV14Z421N7Cc": {
+    "bvid": "BV14Z421N7Cc",
+    "aid": 1156325582,
+    "cid": 25601248707,
+    "pages": [
+      {
+        "cid": 25601248707,
+        "page": 1,
+        "from": "vupload",
+        "part": "巴黎奥运会Vlog",
+        "duration": 3002,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n240827sa1clze0jndcc1523gvvvrudy_firsti.jpg",
+        "ctime": 1724750013
+      }
+    ],
+    "title": "巴黎奥运会Vlog",
+    "owner": {
+      "mid": 2266021,
+      "name": "马拉松吴向东",
+      "face": "https://i1.hdslb.com/bfs/face/91904fc984c395eb9594ab2dc010bdab1a85ce56.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/027679bf7e7bea7fc1ccd8c6181da29f7fd46170.jpg",
+    "duration": 3002,
+    "pubdate": 1723973400,
+    "desc": "我不是社牛",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1ww41177kU": {
+    "bvid": "BV1ww41177kU",
+    "aid": 326860626,
+    "cid": 1421932107,
+    "pages": [
+      {
+        "cid": 1421932107,
+        "page": 1,
+        "from": "vupload",
+        "part": "雅思新手入门 | 全题型介绍+备考技巧（口语8.5的技巧在最后）",
+        "duration": 1597,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n240128a21j6doj1g12cmw75xgoasw9i_firsti.jpg",
+        "ctime": 1706422132
+      }
+    ],
+    "title": "雅思新手入门 | 全题型介绍+备考技巧（口语8.5的技巧在最后）",
+    "owner": {
+      "mid": 86241799,
+      "name": "薛麦Max",
+      "face": "https://i1.hdslb.com/bfs/face/6508d615d4bb252f8e3cea2b4df7b6ebbdde4e0c.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/fda548bda6b6cbe334d5392aadcd021857e1a16d.jpg",
+    "duration": 1597,
+    "pubdate": 1706422132,
+    "desc": "",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1ys411472E": {
+    "bvid": "BV1ys411472E",
+    "aid": 6731067,
+    "cid": 10959711,
+    "pages": [
+      {
+        "cid": 10959711,
+        "page": 1,
+        "from": "vupload",
+        "part": "00 - 序言",
+        "duration": 309,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959712,
+        "page": 2,
+        "from": "vupload",
+        "part": "01 - 向量究竟是什么？",
+        "duration": 592,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959713,
+        "page": 3,
+        "from": "vupload",
+        "part": "02 - 线性组合、张成的空间与基",
+        "duration": 599,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959714,
+        "page": 4,
+        "from": "vupload",
+        "part": "03 - 矩阵与线性变换",
+        "duration": 658,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959715,
+        "page": 5,
+        "from": "vupload",
+        "part": "04 - 矩阵乘法与线性变换复合",
+        "duration": 603,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959716,
+        "page": 6,
+        "from": "vupload",
+        "part": "附注1 - 三维空间中的线性变换",
+        "duration": 285,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959717,
+        "page": 7,
+        "from": "vupload",
+        "part": "05 - 行列式",
+        "duration": 603,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959718,
+        "page": 8,
+        "from": "vupload",
+        "part": "06 - 逆矩阵、列空间与零空间",
+        "duration": 729,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959719,
+        "page": 9,
+        "from": "vupload",
+        "part": "附注2 - 非方阵",
+        "duration": 266,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959720,
+        "page": 10,
+        "from": "vupload",
+        "part": "07 - 点积与对偶性",
+        "duration": 851,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959721,
+        "page": 11,
+        "from": "vupload",
+        "part": "08第一部分 - 叉积的标准介绍",
+        "duration": 533,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959722,
+        "page": 12,
+        "from": "vupload",
+        "part": "08第二部分 - 以线性变换的眼光看叉积",
+        "duration": 790,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959723,
+        "page": 13,
+        "from": "vupload",
+        "part": "09 - 基变换",
+        "duration": 771,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959724,
+        "page": 14,
+        "from": "vupload",
+        "part": "10 - 特征向量与特征值",
+        "duration": 1035,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 10959725,
+        "page": 15,
+        "from": "vupload",
+        "part": "11 - 抽象向量空间",
+        "duration": 1006,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1497438088
+      },
+      {
+        "cid": 85333484,
+        "page": 16,
+        "from": "vupload",
+        "part": "12 - 克莱姆法则，几何解释",
+        "duration": 733,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1554735531
+      }
+    ],
+    "title": "【官方双语/合集】线性代数的本质 - 系列合集",
+    "owner": {
+      "mid": 88461692,
+      "name": "3Blue1Brown",
+      "face": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/c81a8eb032f3eaa1afd604272a410ac6896f281e.jpg",
+    "duration": 10363,
+    "pubdate": 1476799318,
+    "desc": "通过直观的动画演示，理解线性代数的大部分核心概念\n翻译：@Solara570  @rjdimo\n资助页面：www.patreon.com/3blue1brown\nEssence of linear algebra  http://bit.ly/2kDa5o0",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV13z421U7cs": {
+    "bvid": "BV13z421U7cs",
+    "aid": 1353986541,
+    "cid": 1525102356,
+    "pages": [
+      {
+        "cid": 1525102356,
+        "page": 1,
+        "from": "vupload",
+        "part": "【官方双语】GPT是什么？直观解释Transformer | 深度学习第5章",
+        "duration": 1634,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n240430sa3sx4ptwqnaed82hgshzjyba_firsti.jpg",
+        "ctime": 1714447594
+      }
+    ],
+    "title": "【官方双语】GPT是什么？直观解释Transformer | 深度学习第5章",
+    "owner": {
+      "mid": 88461692,
+      "name": "3Blue1Brown",
+      "face": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/f2b59e2ba81081f22640102d542b01a8bb0c41f0.jpg",
+    "duration": 1634,
+    "pubdate": 1714474800,
+    "desc": "解析GPT-3等大语言模型背后的机制和原理。GPT是什么？深度学习的范式是什么？如何在词和向量之间切换？想继续深入了解注意力机制，有哪些需要扫盲的基础知识？德国 - 日本 + 寿司 = ？\nhttps://www.youtube.com/watch?v=wjZofJX0v4M\n\n翻译: 贰鼠 校对: 蛋卷   ksyx  ZSC 时间轴: 贰鼠 \n\n笔记本: https://3b1b.co/store \n感谢观众的支持: https://3b1b.co/support \n一键三联与分享，也是最大的支持！\n\n0:00 - 预测，采样，重复：预训练/生成式/Transformer模型\n3:03 - Transformer 的内部结构\n6:36 - 本期总述\n7:20 - 深度学习的大框架\n12:27 - GPT的第一层：词嵌入为向量(embedding)\n18:25 - 嵌入空间不仅代表词，还能包含上下文信息\n20:22 - GPT的最后一层：向量解码为词(Unembedding)\n22:22 - 带温度的 Softmax 函数\n26:03 - 下期预告：深入注意力机制",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1c4411e77t": {
+    "bvid": "BV1c4411e77t",
+    "aid": 52080698,
+    "cid": 91171282,
+    "pages": [
+      {
+        "cid": 91171282,
+        "page": 1,
+        "from": "vupload",
+        "part": "序章",
+        "duration": 427,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1557527582
+      },
+      {
+        "cid": 99021275,
+        "page": 2,
+        "from": "vupload",
+        "part": "环境搭建和课程介绍",
+        "duration": 555,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1561363658
+      },
+      {
+        "cid": 103216626,
+        "page": 3,
+        "from": "vupload",
+        "part": "用Python设计第一个游戏",
+        "duration": 488,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1563140205
+      },
+      {
+        "cid": 106750375,
+        "page": 4,
+        "from": "vupload",
+        "part": "变量和字符串（上）",
+        "duration": 703,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1564437923
+      },
+      {
+        "cid": 109459262,
+        "page": 5,
+        "from": "vupload",
+        "part": "变量和字符串（下）",
+        "duration": 558,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1565386627
+      },
+      {
+        "cid": 112094099,
+        "page": 6,
+        "from": "vupload",
+        "part": "是时候讲讲代码了",
+        "duration": 501,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1566288181
+      },
+      {
+        "cid": 114858655,
+        "page": 7,
+        "from": "vupload",
+        "part": "改进我们的小游戏（上）",
+        "duration": 731,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1567278362
+      },
+      {
+        "cid": 116568143,
+        "page": 8,
+        "from": "vupload",
+        "part": "改进我们的小游戏（下）",
+        "duration": 506,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1568083209
+      },
+      {
+        "cid": 122383463,
+        "page": 9,
+        "from": "vupload",
+        "part": "数字类型（上）",
+        "duration": 521,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1570593759
+      },
+      {
+        "cid": 124659940,
+        "page": 10,
+        "from": "vupload",
+        "part": "数字类型（下）",
+        "duration": 683,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1571604906
+      },
+      {
+        "cid": 126281993,
+        "page": 11,
+        "from": "vupload",
+        "part": "布尔类型",
+        "duration": 699,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1572335377
+      },
+      {
+        "cid": 129162944,
+        "page": 12,
+        "from": "vupload",
+        "part": "短路逻辑和运算符优先级",
+        "duration": 637,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1573592939
+      },
+      {
+        "cid": 132324070,
+        "page": 13,
+        "from": "vupload",
+        "part": "谋定而后动，知止而有得（上）",
+        "duration": 557,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1574950526
+      },
+      {
+        "cid": 139831368,
+        "page": 14,
+        "from": "vupload",
+        "part": "谋定而后动，知止而有得（下）",
+        "duration": 1044,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1577916634
+      },
+      {
+        "cid": 149424671,
+        "page": 15,
+        "from": "vupload",
+        "part": "了不起的分支和循环（I）",
+        "duration": 561,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1581116698
+      },
+      {
+        "cid": 154494526,
+        "page": 16,
+        "from": "vupload",
+        "part": "了不起的分支和循环（II）",
+        "duration": 593,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1582217206
+      },
+      {
+        "cid": 160570581,
+        "page": 17,
+        "from": "vupload",
+        "part": "了不起的分支和循环（III）",
+        "duration": 527,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1583487780
+      },
+      {
+        "cid": 166883220,
+        "page": 18,
+        "from": "vupload",
+        "part": "了不起的分支和循环（IV）",
+        "duration": 741,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1584699243
+      },
+      {
+        "cid": 174499958,
+        "page": 19,
+        "from": "vupload",
+        "part": "了不起的分支和循环（V）",
+        "duration": 584,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1586118733
+      },
+      {
+        "cid": 178048824,
+        "page": 20,
+        "from": "vupload",
+        "part": "列表（I）",
+        "duration": 547,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1586810178
+      },
+      {
+        "cid": 186686141,
+        "page": 21,
+        "from": "vupload",
+        "part": "列表（II）",
+        "duration": 505,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1588530588
+      },
+      {
+        "cid": 202152889,
+        "page": 22,
+        "from": "vupload",
+        "part": "列表（III）",
+        "duration": 587,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1592168009
+      },
+      {
+        "cid": 350647395,
+        "page": 23,
+        "from": "vupload",
+        "part": "列表（IV）",
+        "duration": 717,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1623091045
+      },
+      {
+        "cid": 216800090,
+        "page": 24,
+        "from": "vupload",
+        "part": "列表（V）",
+        "duration": 477,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1595752065
+      },
+      {
+        "cid": 218186450,
+        "page": 25,
+        "from": "vupload",
+        "part": "列表（VI）",
+        "duration": 618,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1596062530
+      },
+      {
+        "cid": 226655043,
+        "page": 26,
+        "from": "vupload",
+        "part": "列表（VII）",
+        "duration": 726,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1597943200
+      },
+      {
+        "cid": 249981844,
+        "page": 27,
+        "from": "vupload",
+        "part": "元组",
+        "duration": 757,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1603782077
+      },
+      {
+        "cid": 257626197,
+        "page": 28,
+        "from": "vupload",
+        "part": "字符串（I）",
+        "duration": 581,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1605813923
+      },
+      {
+        "cid": 262917186,
+        "page": 29,
+        "from": "vupload",
+        "part": "字符串（II）",
+        "duration": 618,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1607097785
+      },
+      {
+        "cid": 267504682,
+        "page": 30,
+        "from": "vupload",
+        "part": "字符串（III）",
+        "duration": 837,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1608132983
+      },
+      {
+        "cid": 280383104,
+        "page": 31,
+        "from": "vupload",
+        "part": "字符串（IV）",
+        "duration": 946,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1610209430
+      },
+      {
+        "cid": 286254085,
+        "page": 32,
+        "from": "vupload",
+        "part": "字符串（V）",
+        "duration": 732,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1611378007
+      },
+      {
+        "cid": 299469695,
+        "page": 33,
+        "from": "vupload",
+        "part": "字符串（VI）",
+        "duration": 998,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1613668099
+      },
+      {
+        "cid": 326779796,
+        "page": 34,
+        "from": "vupload",
+        "part": "序列（上）",
+        "duration": 688,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1618907259
+      },
+      {
+        "cid": 366056058,
+        "page": 35,
+        "from": "vupload",
+        "part": "序列（中）",
+        "duration": 858,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1625675156
+      },
+      {
+        "cid": 378708528,
+        "page": 36,
+        "from": "vupload",
+        "part": "序列（下）",
+        "duration": 1067,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n210729a21czng285hffp426kznsmujk_firsti.jpg",
+        "ctime": 1627547602
+      },
+      {
+        "cid": 394430081,
+        "page": 37,
+        "from": "vupload",
+        "part": "字典（上）",
+        "duration": 537,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n210822a2g4sbd5gw8guq2361xz57i2h_firsti.jpg",
+        "ctime": 1629620089
+      },
+      {
+        "cid": 412181324,
+        "page": 38,
+        "from": "vupload",
+        "part": "字典（中）",
+        "duration": 859,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n210921qn3d0ryng5f8wk9iqoz38knla_firsti.jpg",
+        "ctime": 1632217303
+      },
+      {
+        "cid": 416190350,
+        "page": 39,
+        "from": "vupload",
+        "part": "字典（下）",
+        "duration": 879,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n210929a23arfnnxe0dm9j2t3c07iiqm_firsti.jpg",
+        "ctime": 1632860373
+      },
+      {
+        "cid": 434310837,
+        "page": 40,
+        "from": "vupload",
+        "part": "集合（上）",
+        "duration": 794,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211101a2m981n1zcbyvf2la4c7ks9mf_firsti.jpg",
+        "ctime": 1635717496
+      },
+      {
+        "cid": 440073557,
+        "page": 41,
+        "from": "vupload",
+        "part": "集合（下）",
+        "duration": 899,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211111a2h3g6qr5192jfq8vwefwcoqu_firsti.jpg",
+        "ctime": 1636570415
+      },
+      {
+        "cid": 453536113,
+        "page": 42,
+        "from": "vupload",
+        "part": "函数（I）",
+        "duration": 611,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211203qn98mn0q609foi1g169sj70oz_firsti.jpg",
+        "ctime": 1638481484
+      },
+      {
+        "cid": 458167815,
+        "page": 43,
+        "from": "vupload",
+        "part": "函数（II）",
+        "duration": 672,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211210a2grdao1kim1522eeo1ii1fu1_firsti.jpg",
+        "ctime": 1639118243
+      },
+      {
+        "cid": 465174616,
+        "page": 44,
+        "from": "vupload",
+        "part": "函数（III）",
+        "duration": 748,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211220qn1djjtmzsjgpmt35arsz6975_firsti.jpg",
+        "ctime": 1640015420
+      },
+      {
+        "cid": 467241986,
+        "page": 45,
+        "from": "vupload",
+        "part": "函数（IV）",
+        "duration": 784,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211224a22fbupef1hdjmi2lkm4j4rls_firsti.jpg",
+        "ctime": 1640297515
+      },
+      {
+        "cid": 474377396,
+        "page": 46,
+        "from": "vupload",
+        "part": "闭包 -- 函数（V）",
+        "duration": 940,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220101qn3u96s96qcjwaw2pos20wxea_firsti.jpg",
+        "ctime": 1640967613
+      },
+      {
+        "cid": 479001270,
+        "page": 47,
+        "from": "vupload",
+        "part": "装饰器 -- 函数（VI）",
+        "duration": 963,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220107a2561k1a4082lq3qyz27fn62w_firsti.jpg",
+        "ctime": 1641504654
+      },
+      {
+        "cid": 483809930,
+        "page": 48,
+        "from": "vupload",
+        "part": "lambda表达式 -- 函数（VII）",
+        "duration": 553,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220114a21rex3tlhoncv23p7hy5ewtu_firsti.jpg",
+        "ctime": 1642102408
+      },
+      {
+        "cid": 495809467,
+        "page": 49,
+        "from": "vupload",
+        "part": "生成器 -- 函数（VIII）",
+        "duration": 540,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220129a229c30v85w3mt33c6092uc1j_firsti.jpg",
+        "ctime": 1643386699
+      },
+      {
+        "cid": 508200389,
+        "page": 50,
+        "from": "vupload",
+        "part": "递归 -- 函数（IX）",
+        "duration": 746,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220213a2500ltqfqhe0o244nnyckyrg_firsti.jpg",
+        "ctime": 1644767290
+      },
+      {
+        "cid": 541512521,
+        "page": 51,
+        "from": "vupload",
+        "part": "汉诺塔 -- 函数（X）",
+        "duration": 824,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220304a28bhcmpj0s49v198azuw0y8e_firsti.jpg",
+        "ctime": 1646390986
+      },
+      {
+        "cid": 546862364,
+        "page": 52,
+        "from": "vupload",
+        "part": "函数文档、类型注释、内省 -- 函数（XI）",
+        "duration": 689,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220311qn2m5emzex1xc5imd5cgsb2a8_firsti.jpg",
+        "ctime": 1646983513
+      },
+      {
+        "cid": 553243345,
+        "page": 53,
+        "from": "vupload",
+        "part": "高阶函数 -- 函数（XII）",
+        "duration": 689,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220319a2pvtealycohlu1fxd7snhoc9_firsti.jpg",
+        "ctime": 1647674153
+      },
+      {
+        "cid": 560714057,
+        "page": 54,
+        "from": "vupload",
+        "part": "永久存储（上）",
+        "duration": 735,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220328a21cg9uxu3xh9ai3sgci8ejhr_firsti.jpg",
+        "ctime": 1648411811
+      },
+      {
+        "cid": 568259466,
+        "page": 55,
+        "from": "vupload",
+        "part": "永久存储（中）",
+        "duration": 1166,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220405a2v760ne8pxx5jkabalgj746s_firsti.jpg",
+        "ctime": 1649162347
+      },
+      {
+        "cid": 570434376,
+        "page": 56,
+        "from": "vupload",
+        "part": "永久存储（下）",
+        "duration": 672,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220408a23dd74kfjriplkw1iw36zcn7_firsti.jpg",
+        "ctime": 1649396707
+      },
+      {
+        "cid": 578652876,
+        "page": 57,
+        "from": "vupload",
+        "part": "异常（上）",
+        "duration": 647,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220417a213y3pluhsebfsfyjdake895_firsti.jpg",
+        "ctime": 1650211613
+      },
+      {
+        "cid": 582475235,
+        "page": 58,
+        "from": "vupload",
+        "part": "异常（下）",
+        "duration": 717,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220422a22cgsgzk8ke8cy2voegxd6qb_firsti.jpg",
+        "ctime": 1650633548
+      },
+      {
+        "cid": 714492956,
+        "page": 59,
+        "from": "vupload",
+        "part": "是时候让大家拥有对象了 -- 类和对象（I）",
+        "duration": 726,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220507a22ugj87xm64g0a2iibbz8lsr_firsti.jpg",
+        "ctime": 1651940561
+      },
+      {
+        "cid": 717973391,
+        "page": 60,
+        "from": "vupload",
+        "part": "继承、多重继承、组合 -- 类和对象（II）",
+        "duration": 672,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220512qn1mso4h49dzbkc2i2lzqfqg3_firsti.jpg",
+        "ctime": 1652306102
+      },
+      {
+        "cid": 723722093,
+        "page": 61,
+        "from": "vupload",
+        "part": "绑定 -- 类和对象（III）",
+        "duration": 767,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220519a2ijkyn15d4hmk27scm5vtmk1_firsti.jpg",
+        "ctime": 1652902964
+      },
+      {
+        "cid": 734720495,
+        "page": 62,
+        "from": "vupload",
+        "part": "构造函数、重写、钻石继承 -- 类和对象（IV）",
+        "duration": 811,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220531a21clxo8no8wrbp24jc2l0nc9_firsti.jpg",
+        "ctime": 1653993088
+      },
+      {
+        "cid": 736699038,
+        "page": 63,
+        "from": "vupload",
+        "part": "Mixin及案例源码剖析 -- 类和对象（V）",
+        "duration": 557,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220603a225u3hc804rbzj36kppos8bc_firsti.jpg",
+        "ctime": 1654202098
+      },
+      {
+        "cid": 739839144,
+        "page": 64,
+        "from": "vupload",
+        "part": "多态和鸭子类型 -- 类和对象（VI）",
+        "duration": 889,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220607qn1gnnrl8msqlze2exnqrxvzk_firsti.jpg",
+        "ctime": 1654544211
+      },
+      {
+        "cid": 749036265,
+        "page": 65,
+        "from": "vupload",
+        "part": "私有变量和__slots__ -- 类和对象（VII）",
+        "duration": 916,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220617a2ih9y6nw4anvi1i3c9iuqikd_firsti.jpg",
+        "ctime": 1655456781
+      },
+      {
+        "cid": 756837552,
+        "page": 66,
+        "from": "vupload",
+        "part": "原来Python懂魔法 -- 类和对象（VIII）",
+        "duration": 961,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220627a2z9jb8y75gyzb2qd5xlqwe6r_firsti.jpg",
+        "ctime": 1656278020
+      },
+      {
+        "cid": 767375374,
+        "page": 67,
+        "from": "vupload",
+        "part": "运算相关的魔法方法（上）-- 类和对象（IX）",
+        "duration": 770,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220708a21lsz6pbygepeg3hlc2jdo6d_firsti.jpg",
+        "ctime": 1657270200
+      },
+      {
+        "cid": 776358714,
+        "page": 68,
+        "from": "vupload",
+        "part": "运算相关的魔法方法（下）-- 类和对象（X）",
+        "duration": 891,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220718a21sobr4sxs43ca2bap5czddh_firsti.jpg",
+        "ctime": 1658094955
+      },
+      {
+        "cid": 783177578,
+        "page": 69,
+        "from": "vupload",
+        "part": "属性访问相关的魔法方法 -- 类和对象（XI）",
+        "duration": 716,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220725a213q7hxo3qgizdj60d60ko6y_firsti.jpg",
+        "ctime": 1658711200
+      },
+      {
+        "cid": 791143899,
+        "page": 70,
+        "from": "vupload",
+        "part": "索引、切片、迭代协议 -- 类和对象（XII）",
+        "duration": 746,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220802a22b0y4so8r69973oit5ws3ky_firsti.jpg",
+        "ctime": 1659391065
+      },
+      {
+        "cid": 798777035,
+        "page": 71,
+        "from": "vupload",
+        "part": "代偿 -- 类和对象（XIII）",
+        "duration": 857,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220810qn3164a2rgfdw4n32g92ty2o7_firsti.jpg",
+        "ctime": 1660068719
+      },
+      {
+        "cid": 805838708,
+        "page": 72,
+        "from": "vupload",
+        "part": "对象调用相关的魔法方法 -- 类和对象（XIV）",
+        "duration": 755,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220817a2501i5mw02btn1uanw1387am_firsti.jpg",
+        "ctime": 1660692916
+      },
+      {
+        "cid": 814613012,
+        "page": 73,
+        "from": "vupload",
+        "part": "property() -- 类和对象（XV）",
+        "duration": 663,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220826qnkqd1nfkollat5rl1397lmba_firsti.jpg",
+        "ctime": 1661465189
+      },
+      {
+        "cid": 824151577,
+        "page": 74,
+        "from": "vupload",
+        "part": "类方法和静态方法 -- 类和对象（XVI）",
+        "duration": 687,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220905qn28w3h3gliwyak3inqqbnh8m_firsti.jpg",
+        "ctime": 1662326835
+      },
+      {
+        "cid": 834772267,
+        "page": 75,
+        "from": "vupload",
+        "part": "【困难预警，选修】描述符及property()实现原理 -- 类和对象（XVII）",
+        "duration": 960,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220916qn3i7gmhplutu7q2wooqz40ia_firsti.jpg",
+        "ctime": 1663326811
+      },
+      {
+        "cid": 846299630,
+        "page": 76,
+        "from": "vupload",
+        "part": "【困难预警，选修】数据描述符、非数据描述符、优雅编程 -- 类和对象（XVIII）",
+        "duration": 821,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220929qnv69xzjw1m6n92xa65dudq5l_firsti.jpg",
+        "ctime": 1664414071
+      },
+      {
+        "cid": 860121858,
+        "page": 77,
+        "from": "vupload",
+        "part": "【困难预警，选修】函数、方法、静态方法、类方法的底层实现原理 -- 类和对象（XIX）",
+        "duration": 946,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n221013qngoklmfnkc5u9lhu576d644c_firsti.jpg",
+        "ctime": 1665614838
+      },
+      {
+        "cid": 873886096,
+        "page": 78,
+        "from": "vupload",
+        "part": "【困难预警，选修】类装饰器 -- 类和对象（XX）",
+        "duration": 1023,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221028qn2gjehm90wxizt294rkbemyb_firsti.jpg",
+        "ctime": 1666904348
+      },
+      {
+        "cid": 888055091,
+        "page": 79,
+        "from": "vupload",
+        "part": "type()函数和__init_subclass__ -- 类和对象（XXI）",
+        "duration": 991,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221111qndyvx31oin7ux265tq8879zx_firsti.jpg",
+        "ctime": 1668149725
+      },
+      {
+        "cid": 909296339,
+        "page": 80,
+        "from": "vupload",
+        "part": "元类 -- 类和对象（XXII）",
+        "duration": 765,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n221202qn1x0vtt0zasdcd3qwjvgie65_firsti.jpg",
+        "ctime": 1669910905
+      },
+      {
+        "cid": 937068689,
+        "page": 81,
+        "from": "vupload",
+        "part": "元类的应用 -- 类和对象（XXIII）",
+        "duration": 1054,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221226qn3q16fzo8zamxz2fnesfduzl_firsti.jpg",
+        "ctime": 1672001668
+      },
+      {
+        "cid": 984901031,
+        "page": 82,
+        "from": "vupload",
+        "part": "抽象基类 -- 类和对象（XXIV）",
+        "duration": 706,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230130a21sv9fnpm7bvfqsxy8v336be_firsti.jpg",
+        "ctime": 1675033775
+      },
+      {
+        "cid": 1005441933,
+        "page": 83,
+        "from": "vupload",
+        "part": "死磕成就非凡 -- 类和对象（XXV）",
+        "duration": 563,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230213qn214vxcpdimlwq1ao59zyokd_firsti.jpg",
+        "ctime": 1676238630
+      },
+      {
+        "cid": 1041080059,
+        "page": 84,
+        "from": "vupload",
+        "part": "模块和包（上）",
+        "duration": 767,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230306qn3rwufbzbjrjr31n8xm2p440_firsti.jpg",
+        "ctime": 1678052069
+      },
+      {
+        "cid": 1061028372,
+        "page": 85,
+        "from": "vupload",
+        "part": "模块和包（中）",
+        "duration": 1086,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230320qn11cqdazop348m22ybhckfaj_firsti.jpg",
+        "ctime": 1679268121
+      },
+      {
+        "cid": 1081646276,
+        "page": 86,
+        "from": "vupload",
+        "part": "模块和包（下）",
+        "duration": 723,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1620,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230403qn3goqx3yucenhjvxtoxpje4r_firsti.jpg",
+        "ctime": 1680516980
+      }
+    ],
+    "title": "【Python教程】《零基础入门学习Python》最新版（完结撒花🎉）",
+    "owner": {
+      "mid": 314076440,
+      "name": "鱼C-小甲鱼",
+      "face": "https://i2.hdslb.com/bfs/face/4543ce186f9b74e60a85e66c010187bd3be3d0e1.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/383c952565090276d1908c1f50d416d0b43c8429.jpg",
+    "duration": 63328,
+    "pubdate": 1557527581,
+    "desc": "本系列教程是《零基础入门学习Python》最新版教程，希望大家喜欢。\n\n课后资源&作业 >>> BV1BJ41157PJ\n偷偷学点算法吧㊙️\n数据结构与算法 >>> BV12m4y1e7iY\n趣味学算法 >>> BV1HT4y1K7DY",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1XY411J7aG": {
+    "bvid": "BV1XY411J7aG",
+    "aid": 255311341,
+    "cid": 564348808,
+    "pages": [
+      {
+        "cid": 564348808,
+        "page": 1,
+        "from": "vupload",
+        "part": "请先看这里",
+        "duration": 412,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a23fr8z4dd3wwk218izc8cc2l_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564356171,
+        "page": 2,
+        "from": "vupload",
+        "part": "英语语法综述",
+        "duration": 1604,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220401142630181fpf33k2apr4kwpha_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564357279,
+        "page": 3,
+        "from": "vupload",
+        "part": "动词分类",
+        "duration": 259,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220401a2152o2wd08rfpi114003yali_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 569640353,
+        "page": 4,
+        "from": "vupload",
+        "part": "动词时态",
+        "duration": 3568,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220407qn25aoxegtwz3ib2vfr2oq8e3_firsti.jpg",
+        "ctime": 1649313617
+      },
+      {
+        "cid": 564359877,
+        "page": 5,
+        "from": "vupload",
+        "part": "动词语气(虚拟语气)",
+        "duration": 1477,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a224w29dh3eec898xuqoz5v8j_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 586135037,
+        "page": 6,
+        "from": "vupload",
+        "part": "非谓语动词",
+        "duration": 2265,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220427qn22yw71q1wn5ic180t687ipv_firsti.jpg",
+        "ctime": 1651037845
+      },
+      {
+        "cid": 564360936,
+        "page": 7,
+        "from": "vupload",
+        "part": "独立主格",
+        "duration": 515,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220401a222kgu88iu6zd8xjuidmb4en_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564361112,
+        "page": 8,
+        "from": "vupload",
+        "part": "助动词&情态动词",
+        "duration": 1393,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a21kvag20vrmjq31r2ycoljpn_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564361521,
+        "page": 9,
+        "from": "vupload",
+        "part": "系动词",
+        "duration": 182,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a21h3nx3jm2g71q15uvqtn2e3_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564361625,
+        "page": 10,
+        "from": "vupload",
+        "part": "使役动词",
+        "duration": 530,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a22hde1ftl4956bhi19r7b5x1_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564362023,
+        "page": 11,
+        "from": "vupload",
+        "part": "从句",
+        "duration": 4808,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a2p0mpmmhr9p622sjd6ch9my6_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564363245,
+        "page": 12,
+        "from": "vupload",
+        "part": "冠词",
+        "duration": 1101,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a21mon65ynmaf8f2wvrcihlzt_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 573640195,
+        "page": 13,
+        "from": "vupload",
+        "part": "介词",
+        "duration": 2751,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220412a2jn5s2vrwl5ee2bfh48l84mr_firsti.jpg",
+        "ctime": 1649699213
+      },
+      {
+        "cid": 564364506,
+        "page": 14,
+        "from": "vupload",
+        "part": "名词",
+        "duration": 854,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220401a267xtuu9tmk5m20b9oggbxwr_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564364639,
+        "page": 15,
+        "from": "vupload",
+        "part": "代词",
+        "duration": 1207,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220401a2b13xnt8ivalg2wdqfvvyvx9_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564365044,
+        "page": 16,
+        "from": "vupload",
+        "part": "数词",
+        "duration": 947,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a23u7h5va3re6m0fsb9jm9uce_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564365330,
+        "page": 17,
+        "from": "vupload",
+        "part": "形容词",
+        "duration": 1069,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a21pyt8me66283x3kc7php85p_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564365629,
+        "page": 18,
+        "from": "vupload",
+        "part": "副词",
+        "duration": 785,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220401a237fmp4qvvazlbs57q03isue_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 719093062,
+        "page": 19,
+        "from": "vupload",
+        "part": "连词",
+        "duration": 465,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220513a23jbre7f3usbbe1wy6nt0vjl_firsti.jpg",
+        "ctime": 1652427613
+      },
+      {
+        "cid": 564365940,
+        "page": 20,
+        "from": "vupload",
+        "part": "叹词",
+        "duration": 231,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220401a22roejidz0hh223tqgocf1lm_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564366201,
+        "page": 21,
+        "from": "vupload",
+        "part": "限定词",
+        "duration": 149,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220401a21tdd9264ggq21cgj7vhy4sw_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564366221,
+        "page": 22,
+        "from": "vupload",
+        "part": "构词法",
+        "duration": 1234,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220401a235ewg8xsgtzmr3qn21e1moa_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564366440,
+        "page": 23,
+        "from": "vupload",
+        "part": "句子成分&分类",
+        "duration": 273,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220401a238u41j48t6h3w1v5kztlaxu_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564366713,
+        "page": 24,
+        "from": "vupload",
+        "part": "被动",
+        "duration": 535,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a234hp8716dplwu1n5czy4z6g_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564367020,
+        "page": 25,
+        "from": "vupload",
+        "part": "倒装",
+        "duration": 572,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a231byn8e8m81p410rrkx17on_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564367126,
+        "page": 26,
+        "from": "vupload",
+        "part": "强调",
+        "duration": 680,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a2x3s52ay81kxt1i418pu7hyi_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564367352,
+        "page": 27,
+        "from": "vupload",
+        "part": "省略",
+        "duration": 556,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220401a21qc7xx8tnwla72xxn8khjui_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564367440,
+        "page": 28,
+        "from": "vupload",
+        "part": "主谓一致",
+        "duration": 843,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220401a2159gjydyl7fwu2tmys8wkcv_firsti.jpg",
+        "ctime": 1648814701
+      },
+      {
+        "cid": 564367680,
+        "page": 29,
+        "from": "vupload",
+        "part": "英文标点",
+        "duration": 644,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220401a23ckkojf3n26322ipwb1cvoc_firsti.jpg",
+        "ctime": 1648814701
+      }
+    ],
+    "title": "英语语法精讲合集 (全面, 通俗, 有趣 | 从零打造系统语法体系)",
+    "owner": {
+      "mid": 483162496,
+      "name": "英语兔",
+      "face": "https://i1.hdslb.com/bfs/face/1dd70a5905e9715b261d36d3f403eb477adbfe59.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/2f68c61bb7c4a05dc707e41c1c97560594a5a53a.jpg",
+    "duration": 31909,
+    "pubdate": 1648814700,
+    "desc": "爆肝一年半, 解密英语语法 -- 这也许是你见过最好的英语语法合集 -- 零基础也不怕!",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1jk4y117eK": {
+    "bvid": "BV1jk4y117eK",
+    "aid": 754663243,
+    "cid": 238556123,
+    "pages": [
+      {
+        "cid": 238556123,
+        "page": 1,
+        "from": "vupload",
+        "part": "热身完整有logo",
+        "duration": 392,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1600940086
+      }
+    ],
+    "title": "5分钟快速热身运动｜运动前必做｜全身简易无工具【周六野Zoey】",
+    "owner": {
+      "mid": 62540916,
+      "name": "周六野Zoey",
+      "face": "https://i0.hdslb.com/bfs/face/3343a1a609d95c669671b0b4e57484708fb6760c.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/56220cb3915d5ce76951e486e6e4feb6a5741981.jpg",
+    "duration": 392,
+    "pubdate": 1600940086,
+    "desc": "运动前热身非常重要！这个5分钟热身运动很简单，无需任何工具，能够帮助我们轻松的进入运动状态，提高身体温度，增加肌肉活动度，活动开关节，预防受伤，提高运动表现！所以不要跳过热身哦～这个运动你可以随意搭配其他运动。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1iZXcYqEYt": {
+    "bvid": "BV1iZXcYqEYt",
+    "aid": 114192392658460,
+    "cid": 28961407083,
+    "pages": [
+      {
+        "cid": 28961407083,
+        "page": 1,
+        "from": "vupload",
+        "part": "名家健康谈丨世界睡眠日，听陆林院士谈：好梦启程 梦想成真",
+        "duration": 1652,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n250320tx1kenmy9xjze0x37v3xjt0gw_firsti.jpg",
+        "ctime": 1742437832
+      }
+    ],
+    "title": "名家健康谈丨世界睡眠日，听陆林院士谈：好梦启程 梦想成真",
+    "owner": {
+      "mid": 210954454,
+      "name": "健康中国官方账号",
+      "face": "https://i1.hdslb.com/bfs/face/c3ff0df88d8c1985e2bbdc97caea0edd0147f928.jpg"
+    },
+    "pic": "http://i1.hdslb.com/bfs/archive/09b250ead912acab73d351964a623d01d3bea0ef.jpg",
+    "duration": 1652,
+    "pubdate": 1742531400,
+    "desc": "俗话说“一夜好眠，精神百倍”，好的睡眠是我们追逐梦想、保持良好生活状态的基础。那么究竟什么才是健康的睡眠，如何能够提升自身的睡眠质量实现高效睡眠，又如何应对影响睡眠质量的那些障碍呢？今天，我们即将对话一位国家健康科普专家库心理健康与精神卫生领域的权威专家，他就是中国科学院院士、北京大学第六医院院长陆林。让我们跟随镜头一起，探寻解决睡眠问题的良方，为逐梦路上的你健康护航。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1bx411M7Zx": {
+    "bvid": "BV1bx411M7Zx",
+    "aid": 15532370,
+    "cid": 25368631,
+    "pages": [
+      {
+        "cid": 25368631,
+        "page": 1,
+        "from": "vupload",
+        "part": "",
+        "duration": 1153,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1508573932
+      }
+    ],
+    "title": "【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0",
+    "owner": {
+      "mid": 88461692,
+      "name": "3Blue1Brown",
+      "face": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/3fddf427ddef5a78105deb60180727a7ad47c4d8.jpg",
+    "duration": 1153,
+    "pubdate": 1508401636,
+    "desc": "更多信息请看下方评论\n\n翻译：FPS罗兹  校对：ZSC  时间轴：白日梦 后期：sum$ver\nBut what *is* a Neural Network? | Deep learning, Part 1\nhttps://youtu.be/aircAruvnKk\n\nVer. 2.0 添加了屏幕文本以及一些注释，并修正了原片14:46处偏置矩阵的下标错误。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1EW411u7th": {
+    "bvid": "BV1EW411u7th",
+    "aid": 21376839,
+    "cid": 38442945,
+    "pages": [
+      {
+        "cid": 38442945,
+        "page": 1,
+        "from": "vupload",
+        "part": "1. 计算机早期历史-Early Computing",
+        "duration": 713,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1525673503
+      },
+      {
+        "cid": 35533224,
+        "page": 2,
+        "from": "vupload",
+        "part": "2. 电子计算机-Electronic Computing",
+        "duration": 644,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1522714955
+      },
+      {
+        "cid": 35626789,
+        "page": 3,
+        "from": "vupload",
+        "part": "3. 布尔逻辑 和 逻辑门-Boolean Logic & Logic Gates",
+        "duration": 607,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1522816870
+      },
+      {
+        "cid": 39828298,
+        "page": 4,
+        "from": "vupload",
+        "part": "4. 二进制-Representing Numbers and Letters with Binary_BiliBili",
+        "duration": 645,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1527061923
+      },
+      {
+        "cid": 37401231,
+        "page": 5,
+        "from": "vupload",
+        "part": "5. 算术逻辑单元-How Computers Calculate-the ALU",
+        "duration": 669,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524649847
+      },
+      {
+        "cid": 153474218,
+        "page": 6,
+        "from": "vupload",
+        "part": "6. 寄存器 & 内存-Registers and RAM_BiliBili",
+        "duration": 737,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1582009369
+      },
+      {
+        "cid": 35624740,
+        "page": 7,
+        "from": "vupload",
+        "part": "7. 中央处理器(CPU)-The Central Processing Unit",
+        "duration": 698,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1522816870
+      },
+      {
+        "cid": 35625389,
+        "page": 8,
+        "from": "vupload",
+        "part": "8. 指令和程序-Instructions & Programs",
+        "duration": 636,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1522816870
+      },
+      {
+        "cid": 153470410,
+        "page": 9,
+        "from": "vupload",
+        "part": "9. 高级CPU设计-Advanced CPU Designs_BiliBili",
+        "duration": 743,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1582009369
+      },
+      {
+        "cid": 36380407,
+        "page": 10,
+        "from": "vupload",
+        "part": "10. 早期的编程方式-Early Programming",
+        "duration": 566,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1523563784
+      },
+      {
+        "cid": 36394036,
+        "page": 11,
+        "from": "vupload",
+        "part": "11. 编程语言发展史-The First Programming Languages",
+        "duration": 712,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1523590631
+      },
+      {
+        "cid": 36505062,
+        "page": 12,
+        "from": "vupload",
+        "part": "12. 编程原理-语句和函数-Programming Basics - Statements & Functions",
+        "duration": 717,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1523734657
+      },
+      {
+        "cid": 36519060,
+        "page": 13,
+        "from": "vupload",
+        "part": "13. 算法入门 - Intro to Algorithms",
+        "duration": 704,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1523734657
+      },
+      {
+        "cid": 36536835,
+        "page": 14,
+        "from": "vupload",
+        "part": "14. 数据结构-Data Structures",
+        "duration": 606,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1523734657
+      },
+      {
+        "cid": 51388939,
+        "page": 15,
+        "from": "vupload",
+        "part": "15. 阿兰·图灵-Alan Turing_BiliBili",
+        "duration": 785,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1534459160
+      },
+      {
+        "cid": 36634935,
+        "page": 16,
+        "from": "vupload",
+        "part": "16. 软件工程-Software Engineering",
+        "duration": 635,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1523833322
+      },
+      {
+        "cid": 37928785,
+        "page": 17,
+        "from": "vupload",
+        "part": "17. 集成电路&摩尔定律-Integrated Circuits & Moore's Law",
+        "duration": 830,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1525165180
+      },
+      {
+        "cid": 36649021,
+        "page": 18,
+        "from": "vupload",
+        "part": "18. 操作系统-Operating Systems",
+        "duration": 815,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1523833322
+      },
+      {
+        "cid": 36649023,
+        "page": 19,
+        "from": "vupload",
+        "part": "19. 内存&储存介质-Memory & Storage",
+        "duration": 737,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1523833322
+      },
+      {
+        "cid": 153472320,
+        "page": 20,
+        "from": "vupload",
+        "part": "20. 文件系统-Files & File Systems_BiliBili",
+        "duration": 723,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1582009369
+      },
+      {
+        "cid": 37264555,
+        "page": 21,
+        "from": "vupload",
+        "part": "21. 压缩-Compression",
+        "duration": 767,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524485167
+      },
+      {
+        "cid": 37288394,
+        "page": 22,
+        "from": "vupload",
+        "part": "22. 命令行界面-Keyboards & Command Line Interfaces",
+        "duration": 683,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524506706
+      },
+      {
+        "cid": 38442947,
+        "page": 23,
+        "from": "vupload",
+        "part": "23. 屏幕&2D 图形显示-Screens&2D Graphics",
+        "duration": 691,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1525673503
+      },
+      {
+        "cid": 38871848,
+        "page": 24,
+        "from": "vupload",
+        "part": "24. 冷战和消费主义-The Cold War and Consumerism_BiliBili",
+        "duration": 679,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1526117239
+      },
+      {
+        "cid": 51388953,
+        "page": 25,
+        "from": "vupload",
+        "part": "25. 个人计算机革命-The Personal Computer Revolution_BiliBili",
+        "duration": 615,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1534459160
+      },
+      {
+        "cid": 37297559,
+        "page": 26,
+        "from": "vupload",
+        "part": "26. 图形用户界面-Graphical User Interfaces",
+        "duration": 779,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524519787
+      },
+      {
+        "cid": 37305860,
+        "page": 27,
+        "from": "vupload",
+        "part": "27. 3D 图形-3D Graphics",
+        "duration": 761,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524538363
+      },
+      {
+        "cid": 37330156,
+        "page": 28,
+        "from": "vupload",
+        "part": "28. 计算机网络-Computer Networks",
+        "duration": 740,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524562492
+      },
+      {
+        "cid": 153469824,
+        "page": 29,
+        "from": "vupload",
+        "part": "29. 互联网-The Internet_BiliBili",
+        "duration": 719,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1582009369
+      },
+      {
+        "cid": 37405466,
+        "page": 30,
+        "from": "vupload",
+        "part": "30. 万维网-The World Wide Web",
+        "duration": 696,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524649847
+      },
+      {
+        "cid": 153473255,
+        "page": 31,
+        "from": "vupload",
+        "part": "31. 计算机安全-Cybersecurity_BiliBili",
+        "duration": 750,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1582009369
+      },
+      {
+        "cid": 38443502,
+        "page": 32,
+        "from": "vupload",
+        "part": "32. 黑客&攻击-Hackers & Cyber Attacks",
+        "duration": 712,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1525673503
+      },
+      {
+        "cid": 37331299,
+        "page": 33,
+        "from": "vupload",
+        "part": "33. 加密-Cryptography",
+        "duration": 753,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524562492
+      },
+      {
+        "cid": 38703535,
+        "page": 34,
+        "from": "vupload",
+        "part": "34. 机器学习&人工智能-Machine Learning & Artificial Intelligence_BiliBili",
+        "duration": 711,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1525957157
+      },
+      {
+        "cid": 37402492,
+        "page": 35,
+        "from": "vupload",
+        "part": "35. 计算机视觉-Computer Vision",
+        "duration": 669,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524649847
+      },
+      {
+        "cid": 37344625,
+        "page": 36,
+        "from": "vupload",
+        "part": "36. 自然语言处理-Natural Language Processing",
+        "duration": 709,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524574267
+      },
+      {
+        "cid": 38444089,
+        "page": 37,
+        "from": "vupload",
+        "part": "37. 机器人-Robots",
+        "duration": 746,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1525673503
+      },
+      {
+        "cid": 37402587,
+        "page": 38,
+        "from": "vupload",
+        "part": "38. 计算机心理学 - Psychology of Computing",
+        "duration": 758,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524649847
+      },
+      {
+        "cid": 153471056,
+        "page": 39,
+        "from": "vupload",
+        "part": "39. 教育科技-Educational Technology_BiliBili",
+        "duration": 712,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1582009369
+      },
+      {
+        "cid": 37469516,
+        "page": 40,
+        "from": "vupload",
+        "part": "40. 奇点,天网,计算机的未来-The Singularity, Skynet, and the Future of Computing",
+        "duration": 749,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1524722156
+      }
+    ],
+    "title": "【计算机科学速成课】[40集全/精校] - Crash Course Computer Science",
+    "owner": {
+      "mid": 290704043,
+      "name": "CrashCourse字幕组",
+      "face": "https://i2.hdslb.com/bfs/face/52974f53aa7f1e40c2633324a2760f3afe499b24.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/3d37686d1cb53309504f5f35955257a44b4e28fb.jpg",
+    "duration": 28321,
+    "pubdate": 1522323505,
+    "desc": "1. Youtube 原视频：https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI\n\n2. 感谢翻译！（排名不分先后）\n* 不想膨胀的小R\n* 糖醋陈皮\n* ZireHao\n* gilot\n* 晴空\n* Crazycat\n* Cindy\n* 出门去\n* TMC - RN\n* LCAR979\n\n3. https://github.com/1c7/crash-course-computer-science-chinese",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1qW411N7FU": {
+    "bvid": "BV1qW411N7FU",
+    "aid": 24325548,
+    "cid": 40809259,
+    "pages": [
+      {
+        "cid": 40809259,
+        "page": 1,
+        "from": "vupload",
+        "part": "01",
+        "duration": 1025,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809285,
+        "page": 2,
+        "from": "vupload",
+        "part": "02 - 导数的悖论",
+        "duration": 1118,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809303,
+        "page": 3,
+        "from": "vupload",
+        "part": "03 - 用几何来求导",
+        "duration": 1123,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809348,
+        "page": 4,
+        "from": "vupload",
+        "part": "04 - 直观理解链式法则和乘积法则",
+        "duration": 1012,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809389,
+        "page": 5,
+        "from": "vupload",
+        "part": "05 - 指数函数求导",
+        "duration": 830,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809425,
+        "page": 6,
+        "from": "vupload",
+        "part": "06 - 隐函数求导是怎么回事？",
+        "duration": 933,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809443,
+        "page": 7,
+        "from": "vupload",
+        "part": "07 - 极限",
+        "duration": 1106,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809489,
+        "page": 8,
+        "from": "vupload",
+        "part": "08 - 积分与微积分基本定理",
+        "duration": 1246,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809531,
+        "page": 9,
+        "from": "vupload",
+        "part": "09 - 面积和斜率有什么联系？",
+        "duration": 759,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809563,
+        "page": 10,
+        "from": "vupload",
+        "part": "09脚注 - 高阶导数",
+        "duration": 338,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      },
+      {
+        "cid": 40809588,
+        "page": 11,
+        "from": "vupload",
+        "part": "10 - 泰勒级数",
+        "duration": 1339,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "ctime": 1528012990
+      }
+    ],
+    "title": "【官方双语/合集】微积分的本质 - 系列合集",
+    "owner": {
+      "mid": 88461692,
+      "name": "3Blue1Brown",
+      "face": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/8bd673f27eb8b8b9a348dc2809e296d8d37bd30b.jpg",
+    "duration": 10829,
+    "pubdate": 1528012990,
+    "desc": "《微积分的本质》合集。\n更多信息请见各分集简介和评论置顶",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1iV411z7Nj": {
+    "bvid": "BV1iV411z7Nj",
+    "aid": 414096645,
+    "cid": 546437486,
+    "pages": [
+      {
+        "cid": 546437486,
+        "page": 1,
+        "from": "vupload",
+        "part": "请先看这里",
+        "duration": 531,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a23484xhc9p2c0c1jms2kd7qh_firsti.jpg",
+        "ctime": 1646923726
+      },
+      {
+        "cid": 546437559,
+        "page": 2,
+        "from": "vupload",
+        "part": "主要音标体系",
+        "duration": 528,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a2syqqg22tnvzv3t8izzpcg4i_firsti.jpg",
+        "ctime": 1646923726
+      },
+      {
+        "cid": 547486551,
+        "page": 3,
+        "from": "vupload",
+        "part": "极简版(全部音标)",
+        "duration": 959,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220312a21oa0oypqkk0vckxo1azg27h_firsti.jpg",
+        "ctime": 1647053504
+      },
+      {
+        "cid": 546438009,
+        "page": 4,
+        "from": "vupload",
+        "part": "人类发音过程",
+        "duration": 305,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220310a21hk95g2lb40j21ivewubzio_firsti.jpg",
+        "ctime": 1646923726
+      },
+      {
+        "cid": 546438050,
+        "page": 5,
+        "from": "vupload",
+        "part": "元音三要素",
+        "duration": 285,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a21zrtsfp7pkq9fl1y12nijh7_firsti.jpg",
+        "ctime": 1646923726
+      },
+      {
+        "cid": 546438223,
+        "page": 6,
+        "from": "vupload",
+        "part": "元音图",
+        "duration": 207,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a28w1ux14ahidf2g9gtqn8av9_firsti.jpg",
+        "ctime": 1646923726
+      },
+      {
+        "cid": 546425104,
+        "page": 7,
+        "from": "vupload",
+        "part": "iː 和 i",
+        "duration": 236,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220310a216sn7i1jbrszoijg246qjth_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546425077,
+        "page": 8,
+        "from": "vupload",
+        "part": "ɪ",
+        "duration": 235,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a21y9310sq9d6n82pghik2638_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546425226,
+        "page": 9,
+        "from": "vupload",
+        "part": "uː 和 u",
+        "duration": 260,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a224yg3qrbqh8pdqgkec5evgg_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546425336,
+        "page": 10,
+        "from": "vupload",
+        "part": "ʊ",
+        "duration": 217,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a29d4xy2p36vi517ibmmnsorh_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546425401,
+        "page": 11,
+        "from": "vupload",
+        "part": "e",
+        "duration": 201,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a2mw04xxktnnwr328k9ajoahs_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546425533,
+        "page": 12,
+        "from": "vupload",
+        "part": "ɜː",
+        "duration": 212,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a2gmhgdu0o5x762kk5bov8n4b_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546425447,
+        "page": 13,
+        "from": "vupload",
+        "part": "ə",
+        "duration": 320,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a22gzgsj1vmt8zr173binq351_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 569627260,
+        "page": 14,
+        "from": "vupload",
+        "part": "ʌ",
+        "duration": 209,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220407qn258dyigssbxf326jhzo51el_firsti.jpg",
+        "ctime": 1649312562
+      },
+      {
+        "cid": 546425599,
+        "page": 15,
+        "from": "vupload",
+        "part": "ɔː",
+        "duration": 271,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a2336empkrr48g2300jqzyyog_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546425732,
+        "page": 16,
+        "from": "vupload",
+        "part": "æ",
+        "duration": 286,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a236h14gtlg596o1nwuei6tzk_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546426795,
+        "page": 17,
+        "from": "vupload",
+        "part": "ɑː",
+        "duration": 272,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a21p2ciebj82j9q2vu5gy19rq_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546426943,
+        "page": 18,
+        "from": "vupload",
+        "part": "ɒ",
+        "duration": 292,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a22k94wrmrw3x9d13yim3woi2_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546426987,
+        "page": 19,
+        "from": "vupload",
+        "part": "eɪ",
+        "duration": 260,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a228xwacvyndqx9nge6h0cymi_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546427301,
+        "page": 20,
+        "from": "vupload",
+        "part": "ɔɪ",
+        "duration": 136,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a23fzo5mthn3wgi2gfa9cb6l0_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546427248,
+        "page": 21,
+        "from": "vupload",
+        "part": "aɪ",
+        "duration": 215,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a22p673mc7jryqx3r301kk8nx_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546427278,
+        "page": 22,
+        "from": "vupload",
+        "part": "aʊ",
+        "duration": 196,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a22luihjjo6n8d71krcjyi6te_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546427342,
+        "page": 23,
+        "from": "vupload",
+        "part": "əʊ 和 oʊ",
+        "duration": 225,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a22pkzi67xzd34l3eh18hcajd_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546427387,
+        "page": 24,
+        "from": "vupload",
+        "part": "ʊə",
+        "duration": 246,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a21h5e5smw3ys672tbkmcfldb_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546427479,
+        "page": 25,
+        "from": "vupload",
+        "part": "eə",
+        "duration": 160,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a22cui4oonfv1ok2e811sa93o_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546427499,
+        "page": 26,
+        "from": "vupload",
+        "part": "ɪə",
+        "duration": 191,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a2co94gq8u60e53hlt4ga7f2s_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546439897,
+        "page": 27,
+        "from": "vupload",
+        "part": "辅音三要素",
+        "duration": 368,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a22okvkgvcgwo8r2bv9zslgn1_firsti.jpg",
+        "ctime": 1646923726
+      },
+      {
+        "cid": 569627465,
+        "page": 28,
+        "from": "vupload",
+        "part": "p b",
+        "duration": 686,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220407qn1q4k170nex2gv2szynrpegh_firsti.jpg",
+        "ctime": 1649312562
+      },
+      {
+        "cid": 546427781,
+        "page": 29,
+        "from": "vupload",
+        "part": "t d",
+        "duration": 497,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a251gtelsklrql1xnaal0tuju_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546427986,
+        "page": 30,
+        "from": "vupload",
+        "part": "k g",
+        "duration": 240,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a22qlrfudwtk9gc1pobwc8xfx_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546427222,
+        "page": 31,
+        "from": "vupload",
+        "part": "m n ŋ",
+        "duration": 465,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220310a25hdqe2qipbel1vh2ubjfjpk_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546428272,
+        "page": 32,
+        "from": "vupload",
+        "part": "f v",
+        "duration": 150,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220310a230ewicflaf2zr1hnxl18xve_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546428449,
+        "page": 33,
+        "from": "vupload",
+        "part": "s z",
+        "duration": 297,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220310a2goj0qc28k40f32zl3dd2jrl_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546428391,
+        "page": 34,
+        "from": "vupload",
+        "part": "θ ð",
+        "duration": 185,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a225zlnjybpy1vo3rp68y895t_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 548088770,
+        "page": 35,
+        "from": "vupload",
+        "part": "ʃ ʒ",
+        "duration": 260,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220312a2d6hd00sspslj78fw3db6p2r_firsti.jpg",
+        "ctime": 1647099202
+      },
+      {
+        "cid": 573068041,
+        "page": 36,
+        "from": "vupload",
+        "part": "tʃ dʒ",
+        "duration": 244,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220411a2kqjzgmaimorm34r0femudx3_firsti.jpg",
+        "ctime": 1649655289
+      },
+      {
+        "cid": 546428691,
+        "page": 37,
+        "from": "vupload",
+        "part": "h",
+        "duration": 112,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220310a22qniut6bmecisw7ms0abvv9_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546857506,
+        "page": 38,
+        "from": "vupload",
+        "part": "w",
+        "duration": 198,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220311a238du4bu2ch40b877iusjm2v_firsti.jpg",
+        "ctime": 1646982818
+      },
+      {
+        "cid": 569627762,
+        "page": 39,
+        "from": "vupload",
+        "part": "r",
+        "duration": 359,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220407qn3dvznfj5bsv8x2t6lp1oz09_firsti.jpg",
+        "ctime": 1649312562
+      },
+      {
+        "cid": 546429023,
+        "page": 40,
+        "from": "vupload",
+        "part": "j",
+        "duration": 282,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a23tz8qzguo04dq2hjjt4p18w_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546429153,
+        "page": 41,
+        "from": "vupload",
+        "part": "l",
+        "duration": 446,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a2zssljngvi7bk2j6kze9i2ff_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 546429310,
+        "page": 42,
+        "from": "vupload",
+        "part": "ts dz",
+        "duration": 263,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a21oax6sbpb45b94y7sj0sfmi_firsti.jpg",
+        "ctime": 1646923430
+      },
+      {
+        "cid": 569627916,
+        "page": 43,
+        "from": "vupload",
+        "part": "tr dr",
+        "duration": 214,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220407qn3dtbail6rwg3yawv0k6o7hv_firsti.jpg",
+        "ctime": 1649312562
+      },
+      {
+        "cid": 546438259,
+        "page": 44,
+        "from": "vupload",
+        "part": "DJ音标示范",
+        "duration": 309,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220310a22sy3gnbvunos31xwly7pl54_firsti.jpg",
+        "ctime": 1646923726
+      },
+      {
+        "cid": 546438412,
+        "page": 45,
+        "from": "vupload",
+        "part": "KK音标示范",
+        "duration": 321,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a22ivzfygvepydg2pgep9r1jh_firsti.jpg",
+        "ctime": 1646923726
+      },
+      {
+        "cid": 546438705,
+        "page": 46,
+        "from": "vupload",
+        "part": "国际音标IPA示范",
+        "duration": 324,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220310a2s2yc9bawfx7p1xvcabmj4hy_firsti.jpg",
+        "ctime": 1646923726
+      },
+      {
+        "cid": 546438905,
+        "page": 47,
+        "from": "vupload",
+        "part": "完结撒花",
+        "duration": 20,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n220310a21m91rp54flzem3px80uo8u4_firsti.jpg",
+        "ctime": 1646923726
+      }
+    ],
+    "title": "全网最适合中国人的免费音标课(纯干货, 超详细!)",
+    "owner": {
+      "mid": 483162496,
+      "name": "英语兔",
+      "face": "https://i1.hdslb.com/bfs/face/1dd70a5905e9715b261d36d3f403eb477adbfe59.jpg"
+    },
+    "pic": "http://i2.hdslb.com/bfs/archive/580ac5793b817e07114492e909261653df5645c7.jpg",
+    "duration": 13695,
+    "pubdate": 1596017121,
+    "desc": "你现在看到的这套音标课, 是我之前马不停蹄地做了两个多月的40多个视频的升级版合集.\n它或许是全网最适合咱们中国人的免费音标课程... 之一. (还是加上\"之一\"吧, 否则招骂~)",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1hE411V77S": {
+    "bvid": "BV1hE411V77S",
+    "aid": 96193201,
+    "cid": 164201240,
+    "pages": [
+      {
+        "cid": 164201240,
+        "page": 1,
+        "from": "vupload",
+        "part": "跑步拉伸-bili",
+        "duration": 365,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 1584209759
+      }
+    ],
+    "title": "5 分钟拉伸，跑步前后都能用，养成跑步好习惯【子章老师跑步基础课】",
+    "owner": {
+      "mid": 451645162,
+      "name": "跑步的子章老师",
+      "face": "https://i1.hdslb.com/bfs/face/7578096a896bd0c13db75984668c0a4d7f2a7253.jpg"
+    },
+    "pic": "http://i1.hdslb.com/bfs/archive/570734ad222d3ae47acd83ef545cdddfa030ebb3.jpg",
+    "duration": 365,
+    "pubdate": 1584209759,
+    "desc": "分享一套我用了 5 年的跑步拉伸流程，时间超短，站立就能完成。\n跑前跑后都能用，简单易学，适合养成跑前拉伸热身、跑后拉伸放松的好习惯。\n\n有不懂的问题，留言让我知道╭(●｀∀′●)╯╰(●’◡’●)╮",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1pW411J7s8": {
+    "bvid": "BV1pW411J7s8",
+    "aid": 19141078,
+    "cid": 31220967,
+    "pages": [
+      {
+        "cid": 31220967,
+        "page": 1,
+        "from": "vupload",
+        "part": "",
+        "duration": 1256,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        },
+        "ctime": 1517753726
+      }
+    ],
+    "title": "【官方双语】形象展示傅里叶变换",
+    "owner": {
+      "mid": 88461692,
+      "name": "3Blue1Brown",
+      "face": "https://i2.hdslb.com/bfs/face/8c8062b063092e72b49d4af4f55f4b61af48c151.jpg"
+    },
+    "pic": "http://i0.hdslb.com/bfs/archive/7d1bc9947033318be1ad000a6089486554035e12.jpg",
+    "duration": 1256,
+    "pubdate": 1517753725,
+    "desc": "动态地认识傅里叶变换：把图像盘绕在圆上。\n\n更多信息请看下方评论\n\n翻译：Solara570、蛋卷  校对：ZSC  时间轴&后期：渡鸦\nBut what is the Fourier Transform? A visual introduction.\nhttps://youtu.be/spUNpyF58BY",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  },
+  "BV1LHev6yEs8": {
+    "bvid": "BV1LHev6yEs8",
+    "aid": 117301965756010,
+    "cid": 42048685339,
+    "pages": [
+      {
+        "cid": 42048685339,
+        "page": 1,
+        "from": "vupload",
+        "part": "全国爱牙日：北大口腔专家提示科学护牙关键点",
+        "duration": 169,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1080,
+          "height": 1920,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003gz19fnamw42s26tf2lylsl6wpb_firsti.jpg",
+        "ctime": 1789886468,
+        "asr_language": "cmn"
+      }
+    ],
+    "title": "全国爱牙日：北大口腔专家提示科学护牙关键点",
+    "owner": {
+      "mid": 569956690,
+      "name": "CGTN",
+      "face": "https://i1.hdslb.com/bfs/face/24b35627c273d033b204a1d14818682523967eb9.jpg"
+    },
+    "pic": "http://i1.hdslb.com/bfs/archive/ff1e7c1de42bc63d5c8aca4cea36ce11fa654086.jpg",
+    "duration": 169,
+    "pubdate": 1789886468,
+    "desc": "今天是第38个“全国爱牙日”，CGTN《健康》邀请北京大学口腔医学院（北京大学口腔医院）副院长胡文杰教授，对公众关心的无糖饮料酸蚀、口腔隐患排查、正确刷牙方式等日常护牙问题提供专业解答。胡文杰教授指出，在日常护理方面，无论选择何种牙刷，掌握正确的“水平颤动拂刷法”才是有效清洁牙菌斑的核心；建议大众遵循“先健康后美观”原则，坚持每日刷牙两次、使用牙线一次，并每半年进行一次口腔检查，全生命周期守护口腔健康。",
+    "_verifiedAt": "2026-11-04T01:59:45.530403+00:00"
+  }
+}

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="ReaBili：面向大学生的 B 站学习片单。AI、编程、世界通识、英语、健康与运动，找到值得完整看完的内容。">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>ReaBili · 大学生的学习片单</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <a class="skip-link" href="#content">跳到内容</a>
+  <header class="header">
+    <div class="brand-group">
+      <button id="menu-button" class="icon-button" aria-label="展开导航" aria-expanded="false"></button>
+      <a class="brand" href="#/" aria-label="ReaBili 首页">rea<span>bili</span><sup>学习片单</sup></a>
+    </div>
+    <form id="search-form" class="search" role="search">
+      <input id="search-input" type="search" placeholder="搜索视频、UP 主、知识点" aria-label="搜索视频、UP 主、知识点" autocomplete="off">
+      <button type="submit" aria-label="搜索" id="search-button"></button>
+    </form>
+    <div class="header-actions">
+      <button id="theme-button" class="icon-button" aria-label="切换深色模式"></button>
+      <a id="github-link" class="icon-button" href="https://github.com/theAtlantic-zza/Reabilibili" target="_blank" rel="noopener noreferrer" aria-label="GitHub 仓库"></a>
+    </div>
+  </header>
+  <button id="scrim" class="scrim" aria-label="关闭导航" hidden></button>
+  <aside id="sidebar" class="sidebar" aria-label="主导航"></aside>
+  <main id="content" tabindex="-1"><div class="loading" role="status">正在加载片单…</div></main>
+  <div id="toast" role="status" aria-live="polite" class="toast" hidden></div>
+  <dialog id="settings-dialog" aria-labelledby="settings-title"></dialog>
+  <input id="import-file" type="file" accept="application/json,.json" hidden>
+  <noscript><p class="noscript">请启用 JavaScript 浏览片单，或到 <a href="https://github.com/theAtlantic-zza/Reabilibili">GitHub 仓库</a>查看公开数据。</p></noscript>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
