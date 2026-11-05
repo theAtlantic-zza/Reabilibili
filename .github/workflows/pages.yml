@@ -3,6 +3,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      check_community:
+        description: "Verify public sharing with two temporary identities, then withdraw both recommendations"
+        type: boolean
+        default: false
 permissions:
   contents: read
   pages: write
@@ -21,8 +26,13 @@ jobs:
       - name: Check JavaScript and data
         run: |
           node --check dist/app.js
-          node --test tests/core.test.js
+          node --check dist/community.js
+          node --check community-api/worker.js
+          node --test tests/*.test.js
           python3 -m unittest discover -s tests -v
+      - name: Verify public community API from a second network
+        if: inputs.check_community || contains(github.event.head_commit.message, '[pilot-smoke]')
+        run: node scripts/check-community.mjs https://reabili.zza1343538124.chatgpt.site --write
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:

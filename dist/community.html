@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="在 ReaBili 分享 B 站视频，从朋友的推荐里发现下一部想看的作品。">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>社区推荐 · ReaBili</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./community.css">
+</head>
+<body>
+  <a class="skip" href="#content">跳到内容</a>
+  <header class="topbar"><div class="topinner">
+    <a class="brand" href="#/" aria-label="ReaBili 社区首页">rea<span>bili</span></a>
+    <span class="brand-context">社区</span>
+    <nav aria-label="站点"><a href="./index.html#/browse">原片单</a><a href="#/me">我的推荐</a></nav>
+  </div></header>
+  <main id="content" tabindex="-1"><p class="status">正在读取社区推荐…</p></main>
+  <dialog id="people" aria-labelledby="people-title"></dialog>
+  <dialog id="editor" aria-labelledby="editor-title"></dialog>
+  <div id="notice" role="status" aria-live="polite" hidden></div>
+  <noscript>请启用 JavaScript 查看社区推荐。</noscript>
+  <script type="module" src="./community.js"></script>
+</body>
+</html>
