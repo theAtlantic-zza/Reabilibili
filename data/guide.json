@@ -2,9 +2,9 @@
   "collections": [
     {"id":"math","title":"数理直觉，从图像开始","description":"先看线性代数，再看微积分。每次学一集，给理解留一点时间。","category":"world","videos":["BV1ys411472E","BV1qW411N7FU","BV1pW411J7s8"]},
     {"id":"ai-start","title":"先理解 AI，再追新模型","description":"从神经网络与 Transformer 的直观解释，走向研究者的真实工作。","category":"ai","videos":["BV1bx411M7Zx","BV13z421U7cs","BV1tDx56REKt","BV1darmBcE4A","BV1iVoVBgERD"]},
-    {"id":"code-start","title":"编程的第一门课","description":"计算机科学建立全景，Python 带你动手。课程之间可以交替学习。","category":"code","videos":["BV1EW411u7th","BV1c4411e77t"]},
+    {"id":"code-start","title":"编程的第一门课","description":"用计算机科学了解全貌，用 Python 写出第一个程序，再用 SQL 查询自己的数据。","category":"code","videos":["BV1EW411u7th","BV1c4411e77t","BV1Kr4y1i7ru"]},
     {"id":"economics","title":"看懂财经新闻之前","description":"先认识通胀、汇率与央行，再把它们放回具体的公司与产业。","category":"world","videos":["BV1KP4y1678m","BV1iW42197dP","BV1uC4y1q79G","BV18j411S7ST"]},
-    {"id":"language","title":"英语，从声音到表达","description":"音标、语法与考试导览。按自己的薄弱环节选一门开始。","category":"english","videos":["BV1iV411z7Nj","BV1XY411J7aG","BV1ww41177kU"]},
+    {"id":"language","title":"第一次准备雅思","description":"跟薛麦Max认识听、说、读、写四种题型，再决定先练哪一项。","category":"english","videos":["BV1ww41177kU"]},
     {"id":"body","title":"把身体照顾好","description":"从睡眠和日常健康开始，再为喜欢的运动留出固定时间。","category":"health","videos":["BV1iZXcYqEYt","BV1LHev6yEs8","BV1jk4y117eK","BV1hE411V77S","BV1CzjY6kE4x","BV1tk4y117yz","BV1W5411V7No","BV14Z421N7Cc"]},
     {"id":"frontier","title":"AI 一线，完整地聊一聊","description":"保留你提名的长访谈。适合已经有基础、想了解行业与研究经历的时候。","category":"ai","videos":["BV1darmBcE4A","BV1usRgBEESe","BV1fmgj66EtD","BV1YR5E6EE9o","BV1iVoVBgERD","BV1XmtyzKEzQ","BV1CAHV6PEPM"]},
     {"id":"slowtalk","title":"常看常新：人与选择","description":"世界通识也包括人的经验。听不同的人谈职业、表达与生活。","category":"world","videos":["BV1cQYYzYEDX","BV1zNoVB1EWb","BV1dd7r6oEpf","BV1jCpizuEPg","BV12gmuBWEJY","BV1wZJD6NEku","BV16s7b68EwG"]}

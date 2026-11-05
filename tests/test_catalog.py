@@ -56,11 +56,51 @@ class RecommendationEvidenceTests(unittest.TestCase):
                 catalog.evidence_for(BVID, [{**recommendation(1),**changed}])
 
 
+class SeasonTests(unittest.TestCase):
+    def setUp(self):
+        self.episodes = [
+            {'season_id': 7, 'bvid': bvid, 'aid': n, 'cid': 10*n, 'title': f'Ep{n}',
+             'arc': {'aid': n, 'state': 0, 'author': {'mid': 9}},
+             'pages': [{'page': 1, 'cid': 10*n, 'duration': 60*n}]}
+            for n, bvid in enumerate(['BV1Q34y1E72s', 'BV1uK411x7cp'], 1)
+        ]
+        self.season = {'id': 7, 'mid': 9, 'title': 'Series', 'ep_count': 2,
+                       'sections': [{'episodes': self.episodes}]}
+        self.data = {'bvid': self.episodes[0]['bvid'], 'pic': 'cover', 'owner': {'mid': 9},
+                     'ugc_season': self.season}
+
+    def test_separate_archives_preserve_order_source_and_total_duration(self):
+        result = catalog.season_metadata(self.data, 7)
+        self.assertEqual(result['duration'], 180)
+        self.assertEqual(result['pages'], [
+            {'page': 1, 'part': 'Ep1', 'bvid': 'BV1Q34y1E72s', 'aid': 1, 'cid': 10, 'duration': 60},
+            {'page': 2, 'part': 'Ep2', 'bvid': 'BV1uK411x7cp', 'aid': 2, 'cid': 20, 'duration': 120},
+        ])
+
+    def test_partial_seasons_and_unusable_source_archives_are_rejected(self):
+        with self.assertRaises(ValueError):
+            catalog.season_metadata(self.data, 99)
+        self.episodes[1]['pages'] = []
+        with self.assertRaises(ValueError):
+            catalog.season_metadata(self.data, 7)
+        self.episodes.pop()
+        with self.assertRaises(ValueError):
+            catalog.season_metadata(self.data, 7)
+
+
 class PublishedCatalogTests(unittest.TestCase):
     def test_all_seeds_have_consistent_verified_public_metadata(self):
         published = json.loads((ROOT/'dist/catalog.json').read_text())
         seeds = json.loads((ROOT/'data/seeds.json').read_text())
-        videos = published['videos']
+        listed = published['videos']
+        unlisted = published.get('unlistedVideos', [])
+        self.assertTrue(all(not v.get('unlisted') for v in listed))
+        self.assertTrue(all(v['unlisted'] for v in unlisted))
+        self.assertEqual(len(unlisted), sum(bool(seed.get('unlisted')) for seed in seeds))
+        listed_ids = {video['id'] for video in listed}
+        for collection in published['collections']:
+            self.assertTrue(set(collection['videos']).issubset(listed_ids))
+        videos = listed + unlisted
         self.assertEqual(len(videos), len(seeds))
         self.assertEqual(len({v['id'] for v in videos}), len(videos))
         self.assertEqual(published['refreshFailures'], 0)

@@ -1,5 +1,29 @@
 [
   {
+    "bvid": "BV1Q34y1E72s",
+    "seasonId": 478792,
+    "displayTitle": "Believe 信念｜Jared McCain 篮球纪录片",
+    "category": "sports",
+    "kind": "documentary",
+    "tags": ["Jared McCain", "贾里德·麦凯恩", "魔仙哥", "Believe", "信念", "篮球", "WBV大西瓜队"],
+    "summary": "镜头跟着高中球员 Jared McCain 走过训练、比赛和赛场之外的日子。第一季以冲击州冠军收尾，第二季后还有一集夏威夷特辑。",
+    "reason": "从第一季第一集「网红 or 球员？」开始，按 WBvideo大西瓜队的合集顺序看。",
+    "sourceType": "用户提名系列",
+    "sourceProvenance": "WBvideo大西瓜队发布的中文字幕版，字幕译者见各集原稿简介"
+  },
+  {
+    "bvid": "BV1Kr4y1i7ru",
+    "category": "code",
+    "collection": "code-start",
+    "kind": "course",
+    "level": "beginner",
+    "tags": ["MySQL", "SQL", "数据库", "多表查询"],
+    "summary": "从本地安装 MySQL 开始，用 SQL 建表、筛选、排序，再把多张表连起来查询。后半段可按需查索引、优化与运维。",
+    "reason": "第一次写 SQL，可以先建一张课程表。学到第 19 讲，用 ORDER BY 把想选的课按学分排一次序。",
+    "sourceType": "用户提名博主，编辑选课",
+    "sourceProvenance": "黑马程序员官方账号发布"
+  },
+  {
     "bvid": "BV1ys411472E",
     "tags": [
       "线性代数",
@@ -14,7 +38,7 @@
     "collection": "math",
     "kind": "course",
     "level": "beginner",
-    "sourceType": "编辑补充",
+    "sourceType": "用户提名系列",
     "reason": "高中数学；作为直观理解的入口，不替代习题训练",
     "sourceProvenance": "原作者中文官方账号"
   },
@@ -51,7 +75,7 @@
     "collection": "code-start",
     "kind": "course",
     "level": "beginner",
-    "sourceType": "编辑补充",
+    "sourceType": "编辑补充，用户确认保留",
     "reason": "零基础；建议边看边运行示例",
     "sourceProvenance": "创作者本人账号"
   },
@@ -73,6 +97,7 @@
   },
   {
     "bvid": "BV1XY411J7aG",
+    "unlisted": true,
     "tags": [
       "英语语法",
       "英语基础",
@@ -173,7 +198,7 @@
     "collection": "code-start",
     "kind": "course",
     "level": "beginner",
-    "sourceType": "编辑补充",
+    "sourceType": "编辑补充，用户确认保留",
     "reason": "零基础；可按主题分集观看",
     "sourceProvenance": "社区字幕组翻译；未核实授权声明",
     "originalSource": "https://github.com/1c7/crash-course-computer-science-chinese"
@@ -294,6 +319,7 @@
   },
   {
     "bvid": "BV1iV411z7Nj",
+    "unlisted": true,
     "tags": [
       "音标",
       "发音",

@@ -63,12 +63,15 @@ export function filterVideos(videos, filter = {}) {
 }
 
 export function videoUrl(video, page = 1, embed = false) {
-  if (!/^BV[0-9A-Za-z]{10}$/.test(video.bvid)) throw new Error('无效的视频编号');
   const part = video.pages.find(p => p.page === Number(page)) || video.pages[0];
-  const number = part?.page || 1;
-  if (!embed) return `https://www.bilibili.com/video/${video.bvid}/?p=${number}`;
-  const params = new URLSearchParams({ bvid: video.bvid, p: String(number), autoplay: '0', danmaku: '0', isOutside: 'true' });
-  if (video.aid) params.set('aid', String(video.aid));
+  // Season episodes have their own BVID and start at p=1 on the source site.
+  const bvid = part?.bvid ?? video.bvid;
+  if (!/^BV[0-9A-Za-z]{10}$/.test(bvid)) throw new Error('无效的视频编号');
+  const number = part?.bvid ? 1 : (part?.page || 1);
+  if (!embed) return `https://www.bilibili.com/video/${bvid}/?p=${number}`;
+  const params = new URLSearchParams({ bvid, p: String(number), autoplay: '0', danmaku: '0', isOutside: 'true' });
+  const aid = part?.aid ?? video.aid;
+  if (aid) params.set('aid', String(aid));
   if (part?.cid) params.set('cid', String(part.cid));
   return `https://player.bilibili.com/player.html?${params}`;
 }

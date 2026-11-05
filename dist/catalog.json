@@ -1,7 +1,1444 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-04T02:09:31.206369+00:00",
+  "updatedAt": "2026-11-05T09:42:15.481258+00:00",
   "videos": [
+    {
+      "bvid": "BV1Q34y1E72s",
+      "seasonId": 478792,
+      "displayTitle": "Believe 信念｜Jared McCain 篮球纪录片",
+      "category": "sports",
+      "kind": "documentary",
+      "tags": [
+        "Jared McCain",
+        "贾里德·麦凯恩",
+        "魔仙哥",
+        "Believe",
+        "信念",
+        "篮球",
+        "WBV大西瓜队"
+      ],
+      "summary": "镜头跟着高中球员 Jared McCain 走过训练、比赛和赛场之外的日子。第一季以冲击州冠军收尾，第二季后还有一集夏威夷特辑。",
+      "reason": "从第一季第一集「网红 or 球员？」开始，按 WBvideo大西瓜队的合集顺序看。",
+      "sourceType": "用户提名系列",
+      "sourceProvenance": "WBvideo大西瓜队发布的中文字幕版，字幕译者见各集原稿简介",
+      "id": "BV1Q34y1E72s",
+      "title": "Believe 信念｜Jared McCain 篮球纪录片",
+      "creator": "WBvideo大西瓜队",
+      "aid": 811846121,
+      "cid": 725937539,
+      "creatorMid": 95244933,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/a333d4fba34b541e7a920b09eea8da0a769401a6.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 725937539,
+          "title": "Ep1",
+          "duration": 2734,
+          "bvid": "BV1Q34y1E72s",
+          "aid": 811846121
+        },
+        {
+          "page": 2,
+          "cid": 743318334,
+          "title": "Ep2",
+          "duration": 1983,
+          "bvid": "BV1BT41157kj",
+          "aid": 469974773
+        },
+        {
+          "page": 3,
+          "cid": 750085924,
+          "title": "Ep3",
+          "duration": 2589,
+          "bvid": "BV1S34y157TD",
+          "aid": 812594460
+        },
+        {
+          "page": 4,
+          "cid": 761863475,
+          "title": "Ep4",
+          "duration": 1970,
+          "bvid": "BV1st4y1879R",
+          "aid": 982879534
+        },
+        {
+          "page": 5,
+          "cid": 766898796,
+          "title": "Ep5",
+          "duration": 2014,
+          "bvid": "BV1LZ4y1Y7Xa",
+          "aid": 385718386
+        },
+        {
+          "page": 6,
+          "cid": 1135962109,
+          "title": "Ep6",
+          "duration": 2809,
+          "bvid": "BV1gu411x7dv",
+          "aid": 528769253
+        },
+        {
+          "page": 7,
+          "cid": 788345916,
+          "title": "Ep7",
+          "duration": 2700,
+          "bvid": "BV1Vd4y1U7NT",
+          "aid": 386446030
+        },
+        {
+          "page": 8,
+          "cid": 795098327,
+          "title": "Ep8",
+          "duration": 2422,
+          "bvid": "BV1rY4y1w7y7",
+          "aid": 644210116
+        },
+        {
+          "page": 9,
+          "cid": 807939261,
+          "title": "Ep9",
+          "duration": 2645,
+          "bvid": "BV1jg411C7rX",
+          "aid": 514559336
+        },
+        {
+          "page": 10,
+          "cid": 813749573,
+          "title": "Ep10",
+          "duration": 3231,
+          "bvid": "BV1Kd4y1d7kh",
+          "aid": 387304875
+        },
+        {
+          "page": 11,
+          "cid": 821678928,
+          "title": "Ep11",
+          "duration": 2543,
+          "bvid": "BV1Ge4y1Y774",
+          "aid": 560092623
+        },
+        {
+          "page": 12,
+          "cid": 827936530,
+          "title": "Ep12",
+          "duration": 3956,
+          "bvid": "BV11t4y177gG",
+          "aid": 985352675
+        },
+        {
+          "page": 13,
+          "cid": 833709051,
+          "title": "第二季Ep1",
+          "duration": 1801,
+          "bvid": "BV1yY4y1K7yj",
+          "aid": 645524977
+        },
+        {
+          "page": 14,
+          "cid": 840023492,
+          "title": "第二季Ep2",
+          "duration": 2027,
+          "bvid": "BV1Zd4y1B7z5",
+          "aid": 388315593
+        },
+        {
+          "page": 15,
+          "cid": 846879686,
+          "title": "第二季Ep3",
+          "duration": 3220,
+          "bvid": "BV14G411J7HB",
+          "aid": 431058332
+        },
+        {
+          "page": 16,
+          "cid": 853734059,
+          "title": "第二季Ep4",
+          "duration": 7094,
+          "bvid": "BV1Qe4y1J7jH",
+          "aid": 646255870
+        },
+        {
+          "page": 17,
+          "cid": 867753094,
+          "title": "夏威夷特辑",
+          "duration": 3105,
+          "bvid": "BV1ZG4y1n7AL",
+          "aid": 816719622
+        },
+        {
+          "page": 18,
+          "cid": 874217619,
+          "title": "第三季Ep1",
+          "duration": 3339,
+          "bvid": "BV1484y1B71t",
+          "aid": 604457320
+        },
+        {
+          "page": 19,
+          "cid": 895035983,
+          "title": "第三季Ep2",
+          "duration": 3872,
+          "bvid": "BV1xK411Z7yB",
+          "aid": 475233884
+        },
+        {
+          "page": 20,
+          "cid": 927573891,
+          "title": "第三季Ep3",
+          "duration": 6823,
+          "bvid": "BV1Se411w7o8",
+          "aid": 263820136
+        },
+        {
+          "page": 21,
+          "cid": 954660884,
+          "title": "第三季Ep4",
+          "duration": 2529,
+          "bvid": "BV1h3411m7zF",
+          "aid": 434979439
+        },
+        {
+          "page": 22,
+          "cid": 1144442382,
+          "title": "第三季Ep5",
+          "duration": 5606,
+          "bvid": "BV12s4y1T7Ej",
+          "aid": 954141611
+        },
+        {
+          "page": 23,
+          "cid": 1393925618,
+          "title": "第三季Ep6",
+          "duration": 4699,
+          "bvid": "BV1uK411x7cp",
+          "aid": 495863559
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/95244933",
+      "cover": "https://archive.biliimg.com/bfs/archive/129ffcf32e6484e055a524f7feb56e540a9f6aca.jpg",
+      "duration": 75711,
+      "publishedAt": "2022-05-21",
+      "url": "https://www.bilibili.com/video/BV1Q34y1E72s/",
+      "verifiedAt": "2026-11-05T09:41:56.740396+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1Kr4y1i7ru",
+      "category": "code",
+      "collection": "code-start",
+      "kind": "course",
+      "level": "beginner",
+      "tags": [
+        "MySQL",
+        "SQL",
+        "数据库",
+        "多表查询"
+      ],
+      "summary": "从本地安装 MySQL 开始，用 SQL 建表、筛选、排序，再把多张表连起来查询。后半段可按需查索引、优化与运维。",
+      "reason": "第一次写 SQL，可以先建一张课程表。学到第 19 讲，用 ORDER BY 把想选的课按学分排一次序。",
+      "sourceType": "用户提名博主，编辑选课",
+      "sourceProvenance": "黑马程序员官方账号发布",
+      "id": "BV1Kr4y1i7ru",
+      "title": "黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括",
+      "creator": "黑马程序员",
+      "aid": 765670802,
+      "cid": 1596823640,
+      "creatorMid": 37974444,
+      "creatorAvatar": "https://i0.hdslb.com/bfs/face/a71b4dd6647ddf0c813bcf74e062edab9224cb0e.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 1596823640,
+          "title": "01.MySQL课程介绍",
+          "duration": 688
+        },
+        {
+          "page": 2,
+          "cid": 1572106569,
+          "title": "02. 基础-课程内容-数据库相关概念",
+          "duration": 598
+        },
+        {
+          "page": 3,
+          "cid": 1594659427,
+          "title": "03. 基础-概述-MySQL安装及启动",
+          "duration": 1044
+        },
+        {
+          "page": 4,
+          "cid": 486996311,
+          "title": "04. 基础-概述-数据模型",
+          "duration": 357
+        },
+        {
+          "page": 5,
+          "cid": 486226916,
+          "title": "05. 基础-SQL-通用语法及分类",
+          "duration": 351
+        },
+        {
+          "page": 6,
+          "cid": 486226951,
+          "title": "06. 基础-SQL-DDL-数据库操作",
+          "duration": 636
+        },
+        {
+          "page": 7,
+          "cid": 486227026,
+          "title": "07. 基础-SQL-DDL-表操作-创建&查询",
+          "duration": 635
+        },
+        {
+          "page": 8,
+          "cid": 486227112,
+          "title": "08. 基础-SQL-DDL-数据类型及案例",
+          "duration": 1244
+        },
+        {
+          "page": 9,
+          "cid": 486227252,
+          "title": "09. 基础-SQL-DDL-表操作-修改&删除",
+          "duration": 624
+        },
+        {
+          "page": 10,
+          "cid": 486227315,
+          "title": "10. 基础-SQL-DDL小结",
+          "duration": 189
+        },
+        {
+          "page": 11,
+          "cid": 486227342,
+          "title": "11. 基础-SQL-图形化界面工具DataGrip",
+          "duration": 643
+        },
+        {
+          "page": 12,
+          "cid": 486227399,
+          "title": "12. 基础-SQL-DML-插入",
+          "duration": 893
+        },
+        {
+          "page": 13,
+          "cid": 486227480,
+          "title": "13. 基础-SQL-DML-更新和删除",
+          "duration": 495
+        },
+        {
+          "page": 14,
+          "cid": 486227533,
+          "title": "14. 基础-SQL-DML小结",
+          "duration": 155
+        },
+        {
+          "page": 15,
+          "cid": 486227582,
+          "title": "15. 基础-SQL-DQL-基础查询",
+          "duration": 866
+        },
+        {
+          "page": 16,
+          "cid": 486227692,
+          "title": "16. 基础-SQL-DQL-条件查询",
+          "duration": 1077
+        },
+        {
+          "page": 17,
+          "cid": 486227816,
+          "title": "17. 基础-SQL-DQL-聚合函数",
+          "duration": 399
+        },
+        {
+          "page": 18,
+          "cid": 486227869,
+          "title": "18. 基础-SQL-DQL-分组查询",
+          "duration": 618
+        },
+        {
+          "page": 19,
+          "cid": 486227956,
+          "title": "19. 基础-SQL-DQL-排序查询",
+          "duration": 396
+        },
+        {
+          "page": 20,
+          "cid": 486228008,
+          "title": "20. 基础-SQL-DQL-分页查询",
+          "duration": 334
+        },
+        {
+          "page": 21,
+          "cid": 486228065,
+          "title": "21. 基础-SQL-DQL-案例练习",
+          "duration": 683
+        },
+        {
+          "page": 22,
+          "cid": 486228163,
+          "title": "22. 基础-SQL-DQL-执行顺序",
+          "duration": 477
+        },
+        {
+          "page": 23,
+          "cid": 486228221,
+          "title": "23. 基础-SQL-DQL小结",
+          "duration": 191
+        },
+        {
+          "page": 24,
+          "cid": 486228251,
+          "title": "24. 基础-SQL-DCL-用户管理-",
+          "duration": 658
+        },
+        {
+          "page": 25,
+          "cid": 486228324,
+          "title": "25. 基础-SQL-DCL-权限控制-",
+          "duration": 505
+        },
+        {
+          "page": 26,
+          "cid": 486228389,
+          "title": "26. 基础-SQL-DCL小结",
+          "duration": 176
+        },
+        {
+          "page": 27,
+          "cid": 486228416,
+          "title": "27. 基础-函数-字符串函数",
+          "duration": 909
+        },
+        {
+          "page": 28,
+          "cid": 486228601,
+          "title": "28. 基础-函数-数值函数",
+          "duration": 556
+        },
+        {
+          "page": 29,
+          "cid": 486228662,
+          "title": "29. 基础-函数-日期函数",
+          "duration": 567
+        },
+        {
+          "page": 30,
+          "cid": 486228734,
+          "title": "30. 基础-函数-流程函数",
+          "duration": 721
+        },
+        {
+          "page": 31,
+          "cid": 486228808,
+          "title": "31. 基础-函数-小结",
+          "duration": 218
+        },
+        {
+          "page": 32,
+          "cid": 486228839,
+          "title": "32. 基础-约束-概述",
+          "duration": 270
+        },
+        {
+          "page": 33,
+          "cid": 486228867,
+          "title": "33. 基础-约束-演示",
+          "duration": 900
+        },
+        {
+          "page": 34,
+          "cid": 486229023,
+          "title": "34. 基础-约束-外键约束",
+          "duration": 614
+        },
+        {
+          "page": 35,
+          "cid": 486229309,
+          "title": "35. 基础-约束-外键删除更新行为",
+          "duration": 538
+        },
+        {
+          "page": 36,
+          "cid": 486229455,
+          "title": "36. 基础-约束-小结",
+          "duration": 135
+        },
+        {
+          "page": 37,
+          "cid": 486229493,
+          "title": "37. 基础-多表查询-多表关系介绍",
+          "duration": 732
+        },
+        {
+          "page": 38,
+          "cid": 486229605,
+          "title": "38. 基础-多表查询-概述",
+          "duration": 484
+        },
+        {
+          "page": 39,
+          "cid": 486229723,
+          "title": "39. 基础-多表查询-内连接",
+          "duration": 495
+        },
+        {
+          "page": 40,
+          "cid": 486229813,
+          "title": "40. 基础-多表查询-外连接",
+          "duration": 447
+        },
+        {
+          "page": 41,
+          "cid": 486229873,
+          "title": "41. 基础-多表查询-自连接",
+          "duration": 510
+        },
+        {
+          "page": 42,
+          "cid": 486229921,
+          "title": "42. 基础-多表查询-联合查询union",
+          "duration": 348
+        },
+        {
+          "page": 43,
+          "cid": 486229972,
+          "title": "43. 基础-多表查询-子查询介绍",
+          "duration": 150
+        },
+        {
+          "page": 44,
+          "cid": 486229995,
+          "title": "44. 基础-多表查询-标量子查询",
+          "duration": 353
+        },
+        {
+          "page": 45,
+          "cid": 486230045,
+          "title": "45. 基础-多表查询-列子查询",
+          "duration": 611
+        },
+        {
+          "page": 46,
+          "cid": 486230137,
+          "title": "46. 基础-多表查询-行子查询",
+          "duration": 276
+        },
+        {
+          "page": 47,
+          "cid": 486230177,
+          "title": "47. 基础-多表查询-表子查询",
+          "duration": 425
+        },
+        {
+          "page": 48,
+          "cid": 486230247,
+          "title": "48. 基础-多表查询-练习1",
+          "duration": 1062
+        },
+        {
+          "page": 49,
+          "cid": 486230472,
+          "title": "49. 基础-多表查询-练习2",
+          "duration": 1289
+        },
+        {
+          "page": 50,
+          "cid": 486230630,
+          "title": "50. 基础-多表查询-小结",
+          "duration": 254
+        },
+        {
+          "page": 51,
+          "cid": 486230814,
+          "title": "51. 基础-事务-简介",
+          "duration": 299
+        },
+        {
+          "page": 52,
+          "cid": 486230860,
+          "title": "52. 基础-事务-操作演示",
+          "duration": 1045
+        },
+        {
+          "page": 53,
+          "cid": 486231029,
+          "title": "53. 基础-事务-四大特性ACID",
+          "duration": 296
+        },
+        {
+          "page": 54,
+          "cid": 486231104,
+          "title": "54. 基础-事务-并发事务问题",
+          "duration": 454
+        },
+        {
+          "page": 55,
+          "cid": 1596730264,
+          "title": "55. 基础-事务-并发事务演示及隔离级别",
+          "duration": 1347
+        },
+        {
+          "page": 56,
+          "cid": 486231289,
+          "title": "56. 基础-事务-小结",
+          "duration": 132
+        },
+        {
+          "page": 57,
+          "cid": 772182356,
+          "title": "57. 基础篇总结",
+          "duration": 266
+        },
+        {
+          "page": 58,
+          "cid": 772182987,
+          "title": "01. 进阶-课程介绍",
+          "duration": 199
+        },
+        {
+          "page": 59,
+          "cid": 486231381,
+          "title": "02. 进阶-存储引擎-MySQL体系结构",
+          "duration": 287
+        },
+        {
+          "page": 60,
+          "cid": 486231440,
+          "title": "03. 进阶-存储引擎-简介",
+          "duration": 489
+        },
+        {
+          "page": 61,
+          "cid": 486231503,
+          "title": "04. 进阶-存储引擎-InnoDB介绍",
+          "duration": 538
+        },
+        {
+          "page": 62,
+          "cid": 486231592,
+          "title": "05. 进阶-存储引擎-MyISAM和Memory",
+          "duration": 324
+        },
+        {
+          "page": 63,
+          "cid": 486231652,
+          "title": "06. 进阶-存储引擎-选择",
+          "duration": 223
+        },
+        {
+          "page": 64,
+          "cid": 486231692,
+          "title": "07. 进阶-存储引擎-小结",
+          "duration": 187
+        },
+        {
+          "page": 65,
+          "cid": 486231731,
+          "title": "08. 进阶-MySQL安装(linux版本)",
+          "duration": 1083
+        },
+        {
+          "page": 66,
+          "cid": 486231934,
+          "title": "09. 进阶-索引-概述",
+          "duration": 528
+        },
+        {
+          "page": 67,
+          "cid": 486232034,
+          "title": "10. 进阶-索引-结构-介绍",
+          "duration": 227
+        },
+        {
+          "page": 68,
+          "cid": 486232086,
+          "title": "11. 进阶-索引-结构-Btree",
+          "duration": 721
+        },
+        {
+          "page": 69,
+          "cid": 486232160,
+          "title": "12. 进阶-索引-结构-B+tree",
+          "duration": 396
+        },
+        {
+          "page": 70,
+          "cid": 486232221,
+          "title": "13. 进阶-索引-结构-hash",
+          "duration": 293
+        },
+        {
+          "page": 71,
+          "cid": 486232268,
+          "title": "14. 进阶-索引-结构-思考题",
+          "duration": 199
+        },
+        {
+          "page": 72,
+          "cid": 486232299,
+          "title": "15. 进阶-索引-分类",
+          "duration": 564
+        },
+        {
+          "page": 73,
+          "cid": 1596730819,
+          "title": "16. 进阶-索引-思考题",
+          "duration": 452
+        },
+        {
+          "page": 74,
+          "cid": 486232441,
+          "title": "17. 进阶-索引-语法",
+          "duration": 679
+        },
+        {
+          "page": 75,
+          "cid": 486232525,
+          "title": "18. 进阶-索引-性能分析-查看执行频次",
+          "duration": 327
+        },
+        {
+          "page": 76,
+          "cid": 486232585,
+          "title": "19. 进阶-索引-性能分析-慢查询日志",
+          "duration": 458
+        },
+        {
+          "page": 77,
+          "cid": 486232673,
+          "title": "20. 进阶-索引-性能分析-show profiles",
+          "duration": 484
+        },
+        {
+          "page": 78,
+          "cid": 486232744,
+          "title": "21. 进阶-索引-性能分析-explain",
+          "duration": 1459
+        },
+        {
+          "page": 79,
+          "cid": 486232949,
+          "title": "22. 进阶-索引-使用规则-验证索引效率",
+          "duration": 495
+        },
+        {
+          "page": 80,
+          "cid": 486227524,
+          "title": "23. 进阶-索引-使用规则-最左前缀法则",
+          "duration": 701
+        },
+        {
+          "page": 81,
+          "cid": 486233112,
+          "title": "24. 进阶-索引-使用规则-索引失效情况一",
+          "duration": 500
+        },
+        {
+          "page": 82,
+          "cid": 486233208,
+          "title": "25. 进阶-索引-使用规则-索引失效情况二",
+          "duration": 727
+        },
+        {
+          "page": 83,
+          "cid": 486233374,
+          "title": "26. 进阶-索引-使用规则-SQL提示",
+          "duration": 440
+        },
+        {
+          "page": 84,
+          "cid": 486233477,
+          "title": "27. 进阶-索引-使用规则-覆盖索引&回表查询",
+          "duration": 945
+        },
+        {
+          "page": 85,
+          "cid": 486233608,
+          "title": "28. 进阶-索引-使用规则-前缀索引",
+          "duration": 865
+        },
+        {
+          "page": 86,
+          "cid": 486233745,
+          "title": "29. 进阶-索引-使用规则-单列&联合索引",
+          "duration": 596
+        },
+        {
+          "page": 87,
+          "cid": 486233846,
+          "title": "30. 进阶-索引-设计原则",
+          "duration": 322
+        },
+        {
+          "page": 88,
+          "cid": 486233924,
+          "title": "31. 进阶-索引-小结",
+          "duration": 620
+        },
+        {
+          "page": 89,
+          "cid": 486234025,
+          "title": "32. 进阶-SQL优化-插入数据",
+          "duration": 809
+        },
+        {
+          "page": 90,
+          "cid": 486234162,
+          "title": "33. 进阶-SQL优化-主键优化",
+          "duration": 820
+        },
+        {
+          "page": 91,
+          "cid": 486234300,
+          "title": "34. 进阶-SQL优化-order by优化",
+          "duration": 1000
+        },
+        {
+          "page": 92,
+          "cid": 486234479,
+          "title": "35. 进阶-SQL优化-group by优化",
+          "duration": 367
+        },
+        {
+          "page": 93,
+          "cid": 486234566,
+          "title": "36. 进阶-SQL优化-limit优化",
+          "duration": 396
+        },
+        {
+          "page": 94,
+          "cid": 486234687,
+          "title": "37. 进阶-SQL优化-count优化",
+          "duration": 606
+        },
+        {
+          "page": 95,
+          "cid": 1596731321,
+          "title": "38. 进阶-SQL优化-update优化(避免行锁升级为表锁)",
+          "duration": 492
+        },
+        {
+          "page": 96,
+          "cid": 486234891,
+          "title": "39. 进阶-SQL优化-小结",
+          "duration": 537
+        },
+        {
+          "page": 97,
+          "cid": 486234986,
+          "title": "40. 进阶-视图-介绍及基本语法",
+          "duration": 729
+        },
+        {
+          "page": 98,
+          "cid": 486235084,
+          "title": "41. 进阶-视图-检查选项(cascaded)",
+          "duration": 1037
+        },
+        {
+          "page": 99,
+          "cid": 486235373,
+          "title": "42. 进阶-视图-检查选项(local)",
+          "duration": 546
+        },
+        {
+          "page": 100,
+          "cid": 486235624,
+          "title": "43. 进阶-视图-更新及作用",
+          "duration": 400
+        },
+        {
+          "page": 101,
+          "cid": 486295447,
+          "title": "44. 进阶-视图-案例",
+          "duration": 513
+        },
+        {
+          "page": 102,
+          "cid": 486296212,
+          "title": "45. 进阶-存储过程-介绍",
+          "duration": 258
+        },
+        {
+          "page": 103,
+          "cid": 486296253,
+          "title": "46. 进阶-存储过程-基本语法",
+          "duration": 735
+        },
+        {
+          "page": 104,
+          "cid": 486296374,
+          "title": "47. 进阶-存储过程-变量-系统变量",
+          "duration": 749
+        },
+        {
+          "page": 105,
+          "cid": 486296516,
+          "title": "48. 进阶-存储过程-变量-用户定义变量",
+          "duration": 438
+        },
+        {
+          "page": 106,
+          "cid": 486301196,
+          "title": "49. 进阶-存储过程-变量-局部变量",
+          "duration": 302
+        },
+        {
+          "page": 107,
+          "cid": 486301434,
+          "title": "50. 进阶-存储过程-if判断",
+          "duration": 405
+        },
+        {
+          "page": 108,
+          "cid": 486301847,
+          "title": "51. 进阶-存储过程-参数(IN,OUT,INOUT)",
+          "duration": 772
+        },
+        {
+          "page": 109,
+          "cid": 486303806,
+          "title": "52. 进阶-存储过程-case",
+          "duration": 532
+        },
+        {
+          "page": 110,
+          "cid": 486303910,
+          "title": "53. 进阶-存储过程-循环-while",
+          "duration": 382
+        },
+        {
+          "page": 111,
+          "cid": 486304005,
+          "title": "54. 进阶-存储过程-循环-repeat",
+          "duration": 313
+        },
+        {
+          "page": 112,
+          "cid": 486304076,
+          "title": "55. 进阶-存储过程-循环-loop",
+          "duration": 696
+        },
+        {
+          "page": 113,
+          "cid": 486304348,
+          "title": "56. 进阶-存储过程-游标-cursor",
+          "duration": 1270
+        },
+        {
+          "page": 114,
+          "cid": 486304559,
+          "title": "57. 进阶-存储过程-条件处理程序-handler",
+          "duration": 490
+        },
+        {
+          "page": 115,
+          "cid": 486304687,
+          "title": "58. 进阶-存储函数",
+          "duration": 504
+        },
+        {
+          "page": 116,
+          "cid": 486304780,
+          "title": "59. 进阶-触发器-介绍",
+          "duration": 212
+        },
+        {
+          "page": 117,
+          "cid": 486304826,
+          "title": "60. 进阶-触发器-案例1(insert类型)",
+          "duration": 854
+        },
+        {
+          "page": 118,
+          "cid": 486305584,
+          "title": "61. 进阶-触发器-案例2(update类型)",
+          "duration": 429
+        },
+        {
+          "page": 119,
+          "cid": 486305712,
+          "title": "62. 进阶-触发器-案例3(delete类型)",
+          "duration": 226
+        },
+        {
+          "page": 120,
+          "cid": 486305789,
+          "title": "63. 进阶-视图&存储过程&触发器-小结",
+          "duration": 327
+        },
+        {
+          "page": 121,
+          "cid": 486305844,
+          "title": "64. 进阶-锁-介绍",
+          "duration": 191
+        },
+        {
+          "page": 122,
+          "cid": 486305883,
+          "title": "65. 进阶-锁-全局锁-介绍",
+          "duration": 489
+        },
+        {
+          "page": 123,
+          "cid": 486305978,
+          "title": "66. 进阶-锁-全局锁-一致性数据备份",
+          "duration": 546
+        },
+        {
+          "page": 124,
+          "cid": 486306087,
+          "title": "67. 进阶-锁-表级锁-表锁",
+          "duration": 648
+        },
+        {
+          "page": 125,
+          "cid": 486306205,
+          "title": "68. 进阶-锁-表级锁-元数据锁",
+          "duration": 649
+        },
+        {
+          "page": 126,
+          "cid": 486306331,
+          "title": "69. 进阶-锁-表级锁-意向锁",
+          "duration": 376
+        },
+        {
+          "page": 127,
+          "cid": 486306398,
+          "title": "70. 进阶-锁-表级锁-意向锁-测试",
+          "duration": 360
+        },
+        {
+          "page": 128,
+          "cid": 486306479,
+          "title": "71. 进阶-锁-行级锁-介绍",
+          "duration": 326
+        },
+        {
+          "page": 129,
+          "cid": 486306647,
+          "title": "72. 进阶-锁-行级锁-行锁",
+          "duration": 913
+        },
+        {
+          "page": 130,
+          "cid": 486307080,
+          "title": "73. 进阶-锁-行级锁-间隙锁&临键锁1",
+          "duration": 260
+        },
+        {
+          "page": 131,
+          "cid": 486307161,
+          "title": "74. 进阶-锁-行级锁-间隙锁&临键锁2",
+          "duration": 536
+        },
+        {
+          "page": 132,
+          "cid": 486307286,
+          "title": "75. 进阶-锁-小结",
+          "duration": 213
+        },
+        {
+          "page": 133,
+          "cid": 486307361,
+          "title": "76. 进阶-InnoDB引擎-逻辑存储结构",
+          "duration": 437
+        },
+        {
+          "page": 134,
+          "cid": 486307663,
+          "title": "77. 进阶-InnoDB引擎-架构-内存结构1",
+          "duration": 291
+        },
+        {
+          "page": 135,
+          "cid": 486307759,
+          "title": "78. 进阶-InnoDB引擎-架构-内存结构2",
+          "duration": 482
+        },
+        {
+          "page": 136,
+          "cid": 486307893,
+          "title": "79. 进阶-InnoDB引擎-架构-磁盘结构",
+          "duration": 620
+        },
+        {
+          "page": 137,
+          "cid": 486308097,
+          "title": "80. 进阶-InnoDB引擎-架构-后台线程",
+          "duration": 317
+        },
+        {
+          "page": 138,
+          "cid": 486308228,
+          "title": "81. 进阶-InnoDB引擎-事务原理-概述",
+          "duration": 244
+        },
+        {
+          "page": 139,
+          "cid": 486308308,
+          "title": "82. 进阶-InnoDB引擎-事务原理-redolog",
+          "duration": 458
+        },
+        {
+          "page": 140,
+          "cid": 486308439,
+          "title": "83. 进阶-InnoDB引擎-事务原理-undolog",
+          "duration": 201
+        },
+        {
+          "page": 141,
+          "cid": 486308511,
+          "title": "84. 进阶-InnoDB引擎-MVCC-基本概念",
+          "duration": 379
+        },
+        {
+          "page": 142,
+          "cid": 486308652,
+          "title": "85. 进阶-InnoDB引擎-MVCC-隐藏字段",
+          "duration": 459
+        },
+        {
+          "page": 143,
+          "cid": 486309043,
+          "title": "86. 进阶-InnoDB引擎-MVCC-undolog版本链",
+          "duration": 535
+        },
+        {
+          "page": 144,
+          "cid": 486309162,
+          "title": "87. 进阶-InnoDB引擎-MVCC-readview介绍",
+          "duration": 318
+        },
+        {
+          "page": 145,
+          "cid": 486309253,
+          "title": "88. 进阶-InnoDB引擎-MVCC-原理分析(RC级别)",
+          "duration": 537
+        },
+        {
+          "page": 146,
+          "cid": 486309414,
+          "title": "89. 进阶-InnoDB引擎-MVCC-原理分析(RR级别)",
+          "duration": 221
+        },
+        {
+          "page": 147,
+          "cid": 486309493,
+          "title": "90. 进阶-InnoDB引擎-小结",
+          "duration": 267
+        },
+        {
+          "page": 148,
+          "cid": 486309566,
+          "title": "91. 进阶-MySQL管理-系统数据库介绍",
+          "duration": 547
+        },
+        {
+          "page": 149,
+          "cid": 486309833,
+          "title": "92. 进阶-MySQL管理-常用工具1",
+          "duration": 1164
+        },
+        {
+          "page": 150,
+          "cid": 486310265,
+          "title": "93. 进阶-MySQL管理-常用工具2",
+          "duration": 987
+        },
+        {
+          "page": 151,
+          "cid": 486310632,
+          "title": "94. 进阶-MySQL管理-小结",
+          "duration": 205
+        },
+        {
+          "page": 152,
+          "cid": 772184293,
+          "title": "95. 进阶篇总结",
+          "duration": 288
+        },
+        {
+          "page": 153,
+          "cid": 772182734,
+          "title": "01. 运维-课程介绍",
+          "duration": 145
+        },
+        {
+          "page": 154,
+          "cid": 486310876,
+          "title": "02. 运维-日志-错误日志",
+          "duration": 429
+        },
+        {
+          "page": 155,
+          "cid": 486311077,
+          "title": "03. 运维-日志-二进制日志",
+          "duration": 1217
+        },
+        {
+          "page": 156,
+          "cid": 486311437,
+          "title": "04. 运维-日志-查询日志",
+          "duration": 350
+        },
+        {
+          "page": 157,
+          "cid": 486312230,
+          "title": "05. 运维-日志-慢查询日志",
+          "duration": 559
+        },
+        {
+          "page": 158,
+          "cid": 486312448,
+          "title": "06. 运维-主从复制-概述",
+          "duration": 254
+        },
+        {
+          "page": 159,
+          "cid": 486312542,
+          "title": "07. 运维-主从复制-原理",
+          "duration": 204
+        },
+        {
+          "page": 160,
+          "cid": 486312618,
+          "title": "08. 运维-主从复制-主库配置",
+          "duration": 678
+        },
+        {
+          "page": 161,
+          "cid": 486312839,
+          "title": "09. 运维-主从复制-从库配置",
+          "duration": 603
+        },
+        {
+          "page": 162,
+          "cid": 486313079,
+          "title": "10. 运维-主从复制-测试",
+          "duration": 364
+        },
+        {
+          "page": 163,
+          "cid": 486313195,
+          "title": "11. 运维-分库分表-介绍",
+          "duration": 335
+        },
+        {
+          "page": 164,
+          "cid": 486313754,
+          "title": "12. 运维-分库分表-介绍-拆分方式",
+          "duration": 737
+        },
+        {
+          "page": 165,
+          "cid": 486313957,
+          "title": "13. 运维-分库分表-MyCat概述-安装",
+          "duration": 762
+        },
+        {
+          "page": 166,
+          "cid": 486314480,
+          "title": "14. 运维-分库分表-MyCat概述-核心概念",
+          "duration": 207
+        },
+        {
+          "page": 167,
+          "cid": 486314631,
+          "title": "15. 运维-分库分表-MyCat入门",
+          "duration": 1205
+        },
+        {
+          "page": 168,
+          "cid": 486315312,
+          "title": "16. 运维-分库分表-MyCat入门-测试",
+          "duration": 1005
+        },
+        {
+          "page": 169,
+          "cid": 486316356,
+          "title": "17. 运维-分库分表-MyCat配置1",
+          "duration": 891
+        },
+        {
+          "page": 170,
+          "cid": 486317069,
+          "title": "18. 运维-分库分表-MyCat配置2",
+          "duration": 795
+        },
+        {
+          "page": 171,
+          "cid": 486318178,
+          "title": "19. 运维-分库分表-Mycat分片-垂直分库",
+          "duration": 760
+        },
+        {
+          "page": 172,
+          "cid": 486318791,
+          "title": "20. 运维-分库分表-Mycat分片-垂直分库-测试",
+          "duration": 1429
+        },
+        {
+          "page": 173,
+          "cid": 486319757,
+          "title": "21. 运维-分库分表-Mycat分片-水平分表",
+          "duration": 890
+        },
+        {
+          "page": 174,
+          "cid": 486320452,
+          "title": "22. 运维-分库分表-分片规则-范围分片",
+          "duration": 266
+        },
+        {
+          "page": 175,
+          "cid": 486320617,
+          "title": "23. 运维-分库分表-分片规则-取模分片",
+          "duration": 210
+        },
+        {
+          "page": 176,
+          "cid": 486320703,
+          "title": "24. 运维-分库分表-分片规则-一致性hash算法",
+          "duration": 477
+        },
+        {
+          "page": 177,
+          "cid": 486320925,
+          "title": "25. 运维-分库分表-分片规则-枚举分片",
+          "duration": 786
+        },
+        {
+          "page": 178,
+          "cid": 486321273,
+          "title": "26. 运维-分库分表-分片规则-应用指定算法",
+          "duration": 686
+        },
+        {
+          "page": 179,
+          "cid": 486321533,
+          "title": "27. 运维-分库分表-分片规则-固定hash算法",
+          "duration": 1009
+        },
+        {
+          "page": 180,
+          "cid": 486321959,
+          "title": "28. 运维-分库分表-分片规则-字符串hash解析",
+          "duration": 793
+        },
+        {
+          "page": 181,
+          "cid": 486322384,
+          "title": "29. 运维-分库分表-分片规则-按天分片",
+          "duration": 657
+        },
+        {
+          "page": 182,
+          "cid": 486322730,
+          "title": "30. 运维-分库分表-分片规则-按自然月分片",
+          "duration": 757
+        },
+        {
+          "page": 183,
+          "cid": 486323083,
+          "title": "31. 运维-分库分表-Mycat管理与监控-原理",
+          "duration": 780
+        },
+        {
+          "page": 184,
+          "cid": 486323312,
+          "title": "32. 运维-分库分表-Mycat管理工具",
+          "duration": 593
+        },
+        {
+          "page": 185,
+          "cid": 486323519,
+          "title": "33. 运维-分库分表-MyCat监控1",
+          "duration": 807
+        },
+        {
+          "page": 186,
+          "cid": 486323768,
+          "title": "34. 运维-分库分表-MyCat监控2",
+          "duration": 492
+        },
+        {
+          "page": 187,
+          "cid": 486323903,
+          "title": "35. 运维-分库分表-总结",
+          "duration": 409
+        },
+        {
+          "page": 188,
+          "cid": 486324000,
+          "title": "36. 运维-读写分离-介绍",
+          "duration": 284
+        },
+        {
+          "page": 189,
+          "cid": 486324056,
+          "title": "37. 运维-读写分离-一主一从准备",
+          "duration": 291
+        },
+        {
+          "page": 190,
+          "cid": 486324153,
+          "title": "38. 运维-读写分离-一主一从读写分离",
+          "duration": 1074
+        },
+        {
+          "page": 191,
+          "cid": 486324428,
+          "title": "39. 运维-读写分离-双主双从介绍",
+          "duration": 371
+        },
+        {
+          "page": 192,
+          "cid": 486324518,
+          "title": "40. 运维-读写分离-双主双从搭建",
+          "duration": 1340
+        },
+        {
+          "page": 193,
+          "cid": 486324822,
+          "title": "41. 运维-读写分离-双主双从读写分离",
+          "duration": 855
+        },
+        {
+          "page": 194,
+          "cid": 486325127,
+          "title": "42. 运维-读写分离-总结",
+          "duration": 283
+        },
+        {
+          "page": 195,
+          "cid": 1596823697,
+          "title": "43. 运维篇总结",
+          "duration": 440
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/37974444",
+      "cover": "https://i1.hdslb.com/bfs/archive/7e15bb1dc75f9933f9cbe4feac9a0bfbd570e5c0.jpg",
+      "duration": 108052,
+      "publishedAt": "2022-01-18",
+      "url": "https://www.bilibili.com/video/BV1Kr4y1i7ru/",
+      "verifiedAt": "2026-11-05T09:41:56.874919+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
     {
       "bvid": "BV1ys411472E",
       "tags": [
@@ -17,7 +1454,7 @@
       "collection": "math",
       "kind": "course",
       "level": "beginner",
-      "sourceType": "编辑补充",
+      "sourceType": "用户提名系列",
       "reason": "高中数学；作为直观理解的入口，不替代习题训练",
       "sourceProvenance": "原作者中文官方账号",
       "id": "BV1ys411472E",
@@ -202,7 +1639,7 @@
       "collection": "code-start",
       "kind": "course",
       "level": "beginner",
-      "sourceType": "编辑补充",
+      "sourceType": "编辑补充，用户确认保留",
       "reason": "零基础；建议边看边运行示例",
       "sourceProvenance": "创作者本人账号",
       "id": "BV1c4411e77t",
@@ -791,221 +2228,6 @@
       "selection": "editorial"
     },
     {
-      "bvid": "BV1XY411J7aG",
-      "tags": [
-        "英语语法",
-        "英语基础",
-        "系列课程"
-      ],
-      "summary": "按语法结构梳理英语句子，补齐阅读与表达时容易混淆的基础。",
-      "audience": "适合希望系统补基础的学习者",
-      "category": "english",
-      "topic": "",
-      "collection": "language",
-      "kind": "course",
-      "level": "beginner",
-      "sourceType": "编辑补充",
-      "reason": "适合希望系统补基础的学习者",
-      "sourceProvenance": "创作者本人账号",
-      "id": "BV1XY411J7aG",
-      "title": "英语语法精讲合集 (全面, 通俗, 有趣 | 从零打造系统语法体系)",
-      "creator": "英语兔",
-      "aid": 255311341,
-      "cid": 564348808,
-      "creatorMid": 483162496,
-      "creatorAvatar": "https://i1.hdslb.com/bfs/face/1dd70a5905e9715b261d36d3f403eb477adbfe59.jpg",
-      "pages": [
-        {
-          "page": 1,
-          "cid": 564348808,
-          "title": "请先看这里",
-          "duration": 412
-        },
-        {
-          "page": 2,
-          "cid": 564356171,
-          "title": "英语语法综述",
-          "duration": 1604
-        },
-        {
-          "page": 3,
-          "cid": 564357279,
-          "title": "动词分类",
-          "duration": 259
-        },
-        {
-          "page": 4,
-          "cid": 569640353,
-          "title": "动词时态",
-          "duration": 3568
-        },
-        {
-          "page": 5,
-          "cid": 564359877,
-          "title": "动词语气(虚拟语气)",
-          "duration": 1477
-        },
-        {
-          "page": 6,
-          "cid": 586135037,
-          "title": "非谓语动词",
-          "duration": 2265
-        },
-        {
-          "page": 7,
-          "cid": 564360936,
-          "title": "独立主格",
-          "duration": 515
-        },
-        {
-          "page": 8,
-          "cid": 564361112,
-          "title": "助动词&情态动词",
-          "duration": 1393
-        },
-        {
-          "page": 9,
-          "cid": 564361521,
-          "title": "系动词",
-          "duration": 182
-        },
-        {
-          "page": 10,
-          "cid": 564361625,
-          "title": "使役动词",
-          "duration": 530
-        },
-        {
-          "page": 11,
-          "cid": 564362023,
-          "title": "从句",
-          "duration": 4808
-        },
-        {
-          "page": 12,
-          "cid": 564363245,
-          "title": "冠词",
-          "duration": 1101
-        },
-        {
-          "page": 13,
-          "cid": 573640195,
-          "title": "介词",
-          "duration": 2751
-        },
-        {
-          "page": 14,
-          "cid": 564364506,
-          "title": "名词",
-          "duration": 854
-        },
-        {
-          "page": 15,
-          "cid": 564364639,
-          "title": "代词",
-          "duration": 1207
-        },
-        {
-          "page": 16,
-          "cid": 564365044,
-          "title": "数词",
-          "duration": 947
-        },
-        {
-          "page": 17,
-          "cid": 564365330,
-          "title": "形容词",
-          "duration": 1069
-        },
-        {
-          "page": 18,
-          "cid": 564365629,
-          "title": "副词",
-          "duration": 785
-        },
-        {
-          "page": 19,
-          "cid": 719093062,
-          "title": "连词",
-          "duration": 465
-        },
-        {
-          "page": 20,
-          "cid": 564365940,
-          "title": "叹词",
-          "duration": 231
-        },
-        {
-          "page": 21,
-          "cid": 564366201,
-          "title": "限定词",
-          "duration": 149
-        },
-        {
-          "page": 22,
-          "cid": 564366221,
-          "title": "构词法",
-          "duration": 1234
-        },
-        {
-          "page": 23,
-          "cid": 564366440,
-          "title": "句子成分&分类",
-          "duration": 273
-        },
-        {
-          "page": 24,
-          "cid": 564366713,
-          "title": "被动",
-          "duration": 535
-        },
-        {
-          "page": 25,
-          "cid": 564367020,
-          "title": "倒装",
-          "duration": 572
-        },
-        {
-          "page": 26,
-          "cid": 564367126,
-          "title": "强调",
-          "duration": 680
-        },
-        {
-          "page": 27,
-          "cid": 564367352,
-          "title": "省略",
-          "duration": 556
-        },
-        {
-          "page": 28,
-          "cid": 564367440,
-          "title": "主谓一致",
-          "duration": 843
-        },
-        {
-          "page": 29,
-          "cid": 564367680,
-          "title": "英文标点",
-          "duration": 644
-        }
-      ],
-      "creatorUrl": "https://space.bilibili.com/483162496",
-      "cover": "https://i2.hdslb.com/bfs/archive/2f68c61bb7c4a05dc707e41c1c97560594a5a53a.jpg",
-      "duration": 31909,
-      "publishedAt": "2022-04-01",
-      "url": "https://www.bilibili.com/video/BV1XY411J7aG/",
-      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
-      "metadataStale": false,
-      "evidence": {
-        "accounts": 0,
-        "months": 0,
-        "qualified": false,
-        "records": []
-      },
-      "selection": "editorial"
-    },
-    {
       "bvid": "BV1jk4y117eK",
       "tags": [
         "热身",
@@ -1205,7 +2427,7 @@
       "collection": "code-start",
       "kind": "course",
       "level": "beginner",
-      "sourceType": "编辑补充",
+      "sourceType": "编辑补充，用户确认保留",
       "reason": "零基础；可按主题分集观看",
       "sourceProvenance": "社区字幕组翻译；未核实授权声明",
       "originalSource": "https://github.com/1c7/crash-course-computer-science-chinese",
@@ -1840,329 +3062,6 @@
       "duration": 10829,
       "publishedAt": "2018-06-03",
       "url": "https://www.bilibili.com/video/BV1qW411N7FU/",
-      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
-      "metadataStale": false,
-      "evidence": {
-        "accounts": 0,
-        "months": 0,
-        "qualified": false,
-        "records": []
-      },
-      "selection": "editorial"
-    },
-    {
-      "bvid": "BV1iV411z7Nj",
-      "tags": [
-        "音标",
-        "发音",
-        "英语基础"
-      ],
-      "summary": "从发音位置和音标体系入手，为查词、听辨与跟读打底。",
-      "audience": "零基础；按需要挑选音素练习",
-      "category": "english",
-      "topic": "",
-      "collection": "language",
-      "kind": "course",
-      "level": "beginner",
-      "sourceType": "编辑补充",
-      "reason": "零基础；按需要挑选音素练习",
-      "sourceProvenance": "创作者本人账号",
-      "id": "BV1iV411z7Nj",
-      "title": "全网最适合中国人的免费音标课(纯干货, 超详细!)",
-      "creator": "英语兔",
-      "aid": 414096645,
-      "cid": 546437486,
-      "creatorMid": 483162496,
-      "creatorAvatar": "https://i1.hdslb.com/bfs/face/1dd70a5905e9715b261d36d3f403eb477adbfe59.jpg",
-      "pages": [
-        {
-          "page": 1,
-          "cid": 546437486,
-          "title": "请先看这里",
-          "duration": 531
-        },
-        {
-          "page": 2,
-          "cid": 546437559,
-          "title": "主要音标体系",
-          "duration": 528
-        },
-        {
-          "page": 3,
-          "cid": 547486551,
-          "title": "极简版(全部音标)",
-          "duration": 959
-        },
-        {
-          "page": 4,
-          "cid": 546438009,
-          "title": "人类发音过程",
-          "duration": 305
-        },
-        {
-          "page": 5,
-          "cid": 546438050,
-          "title": "元音三要素",
-          "duration": 285
-        },
-        {
-          "page": 6,
-          "cid": 546438223,
-          "title": "元音图",
-          "duration": 207
-        },
-        {
-          "page": 7,
-          "cid": 546425104,
-          "title": "iː 和 i",
-          "duration": 236
-        },
-        {
-          "page": 8,
-          "cid": 546425077,
-          "title": "ɪ",
-          "duration": 235
-        },
-        {
-          "page": 9,
-          "cid": 546425226,
-          "title": "uː 和 u",
-          "duration": 260
-        },
-        {
-          "page": 10,
-          "cid": 546425336,
-          "title": "ʊ",
-          "duration": 217
-        },
-        {
-          "page": 11,
-          "cid": 546425401,
-          "title": "e",
-          "duration": 201
-        },
-        {
-          "page": 12,
-          "cid": 546425533,
-          "title": "ɜː",
-          "duration": 212
-        },
-        {
-          "page": 13,
-          "cid": 546425447,
-          "title": "ə",
-          "duration": 320
-        },
-        {
-          "page": 14,
-          "cid": 569627260,
-          "title": "ʌ",
-          "duration": 209
-        },
-        {
-          "page": 15,
-          "cid": 546425599,
-          "title": "ɔː",
-          "duration": 271
-        },
-        {
-          "page": 16,
-          "cid": 546425732,
-          "title": "æ",
-          "duration": 286
-        },
-        {
-          "page": 17,
-          "cid": 546426795,
-          "title": "ɑː",
-          "duration": 272
-        },
-        {
-          "page": 18,
-          "cid": 546426943,
-          "title": "ɒ",
-          "duration": 292
-        },
-        {
-          "page": 19,
-          "cid": 546426987,
-          "title": "eɪ",
-          "duration": 260
-        },
-        {
-          "page": 20,
-          "cid": 546427301,
-          "title": "ɔɪ",
-          "duration": 136
-        },
-        {
-          "page": 21,
-          "cid": 546427248,
-          "title": "aɪ",
-          "duration": 215
-        },
-        {
-          "page": 22,
-          "cid": 546427278,
-          "title": "aʊ",
-          "duration": 196
-        },
-        {
-          "page": 23,
-          "cid": 546427342,
-          "title": "əʊ 和 oʊ",
-          "duration": 225
-        },
-        {
-          "page": 24,
-          "cid": 546427387,
-          "title": "ʊə",
-          "duration": 246
-        },
-        {
-          "page": 25,
-          "cid": 546427479,
-          "title": "eə",
-          "duration": 160
-        },
-        {
-          "page": 26,
-          "cid": 546427499,
-          "title": "ɪə",
-          "duration": 191
-        },
-        {
-          "page": 27,
-          "cid": 546439897,
-          "title": "辅音三要素",
-          "duration": 368
-        },
-        {
-          "page": 28,
-          "cid": 569627465,
-          "title": "p b",
-          "duration": 686
-        },
-        {
-          "page": 29,
-          "cid": 546427781,
-          "title": "t d",
-          "duration": 497
-        },
-        {
-          "page": 30,
-          "cid": 546427986,
-          "title": "k g",
-          "duration": 240
-        },
-        {
-          "page": 31,
-          "cid": 546427222,
-          "title": "m n ŋ",
-          "duration": 465
-        },
-        {
-          "page": 32,
-          "cid": 546428272,
-          "title": "f v",
-          "duration": 150
-        },
-        {
-          "page": 33,
-          "cid": 546428449,
-          "title": "s z",
-          "duration": 297
-        },
-        {
-          "page": 34,
-          "cid": 546428391,
-          "title": "θ ð",
-          "duration": 185
-        },
-        {
-          "page": 35,
-          "cid": 548088770,
-          "title": "ʃ ʒ",
-          "duration": 260
-        },
-        {
-          "page": 36,
-          "cid": 573068041,
-          "title": "tʃ dʒ",
-          "duration": 244
-        },
-        {
-          "page": 37,
-          "cid": 546428691,
-          "title": "h",
-          "duration": 112
-        },
-        {
-          "page": 38,
-          "cid": 546857506,
-          "title": "w",
-          "duration": 198
-        },
-        {
-          "page": 39,
-          "cid": 569627762,
-          "title": "r",
-          "duration": 359
-        },
-        {
-          "page": 40,
-          "cid": 546429023,
-          "title": "j",
-          "duration": 282
-        },
-        {
-          "page": 41,
-          "cid": 546429153,
-          "title": "l",
-          "duration": 446
-        },
-        {
-          "page": 42,
-          "cid": 546429310,
-          "title": "ts dz",
-          "duration": 263
-        },
-        {
-          "page": 43,
-          "cid": 569627916,
-          "title": "tr dr",
-          "duration": 214
-        },
-        {
-          "page": 44,
-          "cid": 546438259,
-          "title": "DJ音标示范",
-          "duration": 309
-        },
-        {
-          "page": 45,
-          "cid": 546438412,
-          "title": "KK音标示范",
-          "duration": 321
-        },
-        {
-          "page": 46,
-          "cid": 546438705,
-          "title": "国际音标IPA示范",
-          "duration": 324
-        },
-        {
-          "page": 47,
-          "cid": 546438905,
-          "title": "完结撒花",
-          "duration": 20
-        }
-      ],
-      "creatorUrl": "https://space.bilibili.com/483162496",
-      "cover": "https://i2.hdslb.com/bfs/archive/580ac5793b817e07114492e909261653df5645c7.jpg",
-      "duration": 13695,
-      "publishedAt": "2020-07-29",
-      "url": "https://www.bilibili.com/video/BV1iV411z7Nj/",
       "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
       "metadataStale": false,
       "evidence": {
@@ -3076,6 +3975,548 @@
       "selection": "editorial"
     }
   ],
+  "unlistedVideos": [
+    {
+      "bvid": "BV1XY411J7aG",
+      "unlisted": true,
+      "tags": [
+        "英语语法",
+        "英语基础",
+        "系列课程"
+      ],
+      "summary": "按语法结构梳理英语句子，补齐阅读与表达时容易混淆的基础。",
+      "audience": "适合希望系统补基础的学习者",
+      "category": "english",
+      "topic": "",
+      "collection": "language",
+      "kind": "course",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "适合希望系统补基础的学习者",
+      "sourceProvenance": "创作者本人账号",
+      "id": "BV1XY411J7aG",
+      "title": "英语语法精讲合集 (全面, 通俗, 有趣 | 从零打造系统语法体系)",
+      "creator": "英语兔",
+      "aid": 255311341,
+      "cid": 564348808,
+      "creatorMid": 483162496,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/1dd70a5905e9715b261d36d3f403eb477adbfe59.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 564348808,
+          "title": "请先看这里",
+          "duration": 412
+        },
+        {
+          "page": 2,
+          "cid": 564356171,
+          "title": "英语语法综述",
+          "duration": 1604
+        },
+        {
+          "page": 3,
+          "cid": 564357279,
+          "title": "动词分类",
+          "duration": 259
+        },
+        {
+          "page": 4,
+          "cid": 569640353,
+          "title": "动词时态",
+          "duration": 3568
+        },
+        {
+          "page": 5,
+          "cid": 564359877,
+          "title": "动词语气(虚拟语气)",
+          "duration": 1477
+        },
+        {
+          "page": 6,
+          "cid": 586135037,
+          "title": "非谓语动词",
+          "duration": 2265
+        },
+        {
+          "page": 7,
+          "cid": 564360936,
+          "title": "独立主格",
+          "duration": 515
+        },
+        {
+          "page": 8,
+          "cid": 564361112,
+          "title": "助动词&情态动词",
+          "duration": 1393
+        },
+        {
+          "page": 9,
+          "cid": 564361521,
+          "title": "系动词",
+          "duration": 182
+        },
+        {
+          "page": 10,
+          "cid": 564361625,
+          "title": "使役动词",
+          "duration": 530
+        },
+        {
+          "page": 11,
+          "cid": 564362023,
+          "title": "从句",
+          "duration": 4808
+        },
+        {
+          "page": 12,
+          "cid": 564363245,
+          "title": "冠词",
+          "duration": 1101
+        },
+        {
+          "page": 13,
+          "cid": 573640195,
+          "title": "介词",
+          "duration": 2751
+        },
+        {
+          "page": 14,
+          "cid": 564364506,
+          "title": "名词",
+          "duration": 854
+        },
+        {
+          "page": 15,
+          "cid": 564364639,
+          "title": "代词",
+          "duration": 1207
+        },
+        {
+          "page": 16,
+          "cid": 564365044,
+          "title": "数词",
+          "duration": 947
+        },
+        {
+          "page": 17,
+          "cid": 564365330,
+          "title": "形容词",
+          "duration": 1069
+        },
+        {
+          "page": 18,
+          "cid": 564365629,
+          "title": "副词",
+          "duration": 785
+        },
+        {
+          "page": 19,
+          "cid": 719093062,
+          "title": "连词",
+          "duration": 465
+        },
+        {
+          "page": 20,
+          "cid": 564365940,
+          "title": "叹词",
+          "duration": 231
+        },
+        {
+          "page": 21,
+          "cid": 564366201,
+          "title": "限定词",
+          "duration": 149
+        },
+        {
+          "page": 22,
+          "cid": 564366221,
+          "title": "构词法",
+          "duration": 1234
+        },
+        {
+          "page": 23,
+          "cid": 564366440,
+          "title": "句子成分&分类",
+          "duration": 273
+        },
+        {
+          "page": 24,
+          "cid": 564366713,
+          "title": "被动",
+          "duration": 535
+        },
+        {
+          "page": 25,
+          "cid": 564367020,
+          "title": "倒装",
+          "duration": 572
+        },
+        {
+          "page": 26,
+          "cid": 564367126,
+          "title": "强调",
+          "duration": 680
+        },
+        {
+          "page": 27,
+          "cid": 564367352,
+          "title": "省略",
+          "duration": 556
+        },
+        {
+          "page": 28,
+          "cid": 564367440,
+          "title": "主谓一致",
+          "duration": 843
+        },
+        {
+          "page": 29,
+          "cid": 564367680,
+          "title": "英文标点",
+          "duration": 644
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/483162496",
+      "cover": "https://i2.hdslb.com/bfs/archive/2f68c61bb7c4a05dc707e41c1c97560594a5a53a.jpg",
+      "duration": 31909,
+      "publishedAt": "2022-04-01",
+      "url": "https://www.bilibili.com/video/BV1XY411J7aG/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    },
+    {
+      "bvid": "BV1iV411z7Nj",
+      "unlisted": true,
+      "tags": [
+        "音标",
+        "发音",
+        "英语基础"
+      ],
+      "summary": "从发音位置和音标体系入手，为查词、听辨与跟读打底。",
+      "audience": "零基础；按需要挑选音素练习",
+      "category": "english",
+      "topic": "",
+      "collection": "language",
+      "kind": "course",
+      "level": "beginner",
+      "sourceType": "编辑补充",
+      "reason": "零基础；按需要挑选音素练习",
+      "sourceProvenance": "创作者本人账号",
+      "id": "BV1iV411z7Nj",
+      "title": "全网最适合中国人的免费音标课(纯干货, 超详细!)",
+      "creator": "英语兔",
+      "aid": 414096645,
+      "cid": 546437486,
+      "creatorMid": 483162496,
+      "creatorAvatar": "https://i1.hdslb.com/bfs/face/1dd70a5905e9715b261d36d3f403eb477adbfe59.jpg",
+      "pages": [
+        {
+          "page": 1,
+          "cid": 546437486,
+          "title": "请先看这里",
+          "duration": 531
+        },
+        {
+          "page": 2,
+          "cid": 546437559,
+          "title": "主要音标体系",
+          "duration": 528
+        },
+        {
+          "page": 3,
+          "cid": 547486551,
+          "title": "极简版(全部音标)",
+          "duration": 959
+        },
+        {
+          "page": 4,
+          "cid": 546438009,
+          "title": "人类发音过程",
+          "duration": 305
+        },
+        {
+          "page": 5,
+          "cid": 546438050,
+          "title": "元音三要素",
+          "duration": 285
+        },
+        {
+          "page": 6,
+          "cid": 546438223,
+          "title": "元音图",
+          "duration": 207
+        },
+        {
+          "page": 7,
+          "cid": 546425104,
+          "title": "iː 和 i",
+          "duration": 236
+        },
+        {
+          "page": 8,
+          "cid": 546425077,
+          "title": "ɪ",
+          "duration": 235
+        },
+        {
+          "page": 9,
+          "cid": 546425226,
+          "title": "uː 和 u",
+          "duration": 260
+        },
+        {
+          "page": 10,
+          "cid": 546425336,
+          "title": "ʊ",
+          "duration": 217
+        },
+        {
+          "page": 11,
+          "cid": 546425401,
+          "title": "e",
+          "duration": 201
+        },
+        {
+          "page": 12,
+          "cid": 546425533,
+          "title": "ɜː",
+          "duration": 212
+        },
+        {
+          "page": 13,
+          "cid": 546425447,
+          "title": "ə",
+          "duration": 320
+        },
+        {
+          "page": 14,
+          "cid": 569627260,
+          "title": "ʌ",
+          "duration": 209
+        },
+        {
+          "page": 15,
+          "cid": 546425599,
+          "title": "ɔː",
+          "duration": 271
+        },
+        {
+          "page": 16,
+          "cid": 546425732,
+          "title": "æ",
+          "duration": 286
+        },
+        {
+          "page": 17,
+          "cid": 546426795,
+          "title": "ɑː",
+          "duration": 272
+        },
+        {
+          "page": 18,
+          "cid": 546426943,
+          "title": "ɒ",
+          "duration": 292
+        },
+        {
+          "page": 19,
+          "cid": 546426987,
+          "title": "eɪ",
+          "duration": 260
+        },
+        {
+          "page": 20,
+          "cid": 546427301,
+          "title": "ɔɪ",
+          "duration": 136
+        },
+        {
+          "page": 21,
+          "cid": 546427248,
+          "title": "aɪ",
+          "duration": 215
+        },
+        {
+          "page": 22,
+          "cid": 546427278,
+          "title": "aʊ",
+          "duration": 196
+        },
+        {
+          "page": 23,
+          "cid": 546427342,
+          "title": "əʊ 和 oʊ",
+          "duration": 225
+        },
+        {
+          "page": 24,
+          "cid": 546427387,
+          "title": "ʊə",
+          "duration": 246
+        },
+        {
+          "page": 25,
+          "cid": 546427479,
+          "title": "eə",
+          "duration": 160
+        },
+        {
+          "page": 26,
+          "cid": 546427499,
+          "title": "ɪə",
+          "duration": 191
+        },
+        {
+          "page": 27,
+          "cid": 546439897,
+          "title": "辅音三要素",
+          "duration": 368
+        },
+        {
+          "page": 28,
+          "cid": 569627465,
+          "title": "p b",
+          "duration": 686
+        },
+        {
+          "page": 29,
+          "cid": 546427781,
+          "title": "t d",
+          "duration": 497
+        },
+        {
+          "page": 30,
+          "cid": 546427986,
+          "title": "k g",
+          "duration": 240
+        },
+        {
+          "page": 31,
+          "cid": 546427222,
+          "title": "m n ŋ",
+          "duration": 465
+        },
+        {
+          "page": 32,
+          "cid": 546428272,
+          "title": "f v",
+          "duration": 150
+        },
+        {
+          "page": 33,
+          "cid": 546428449,
+          "title": "s z",
+          "duration": 297
+        },
+        {
+          "page": 34,
+          "cid": 546428391,
+          "title": "θ ð",
+          "duration": 185
+        },
+        {
+          "page": 35,
+          "cid": 548088770,
+          "title": "ʃ ʒ",
+          "duration": 260
+        },
+        {
+          "page": 36,
+          "cid": 573068041,
+          "title": "tʃ dʒ",
+          "duration": 244
+        },
+        {
+          "page": 37,
+          "cid": 546428691,
+          "title": "h",
+          "duration": 112
+        },
+        {
+          "page": 38,
+          "cid": 546857506,
+          "title": "w",
+          "duration": 198
+        },
+        {
+          "page": 39,
+          "cid": 569627762,
+          "title": "r",
+          "duration": 359
+        },
+        {
+          "page": 40,
+          "cid": 546429023,
+          "title": "j",
+          "duration": 282
+        },
+        {
+          "page": 41,
+          "cid": 546429153,
+          "title": "l",
+          "duration": 446
+        },
+        {
+          "page": 42,
+          "cid": 546429310,
+          "title": "ts dz",
+          "duration": 263
+        },
+        {
+          "page": 43,
+          "cid": 569627916,
+          "title": "tr dr",
+          "duration": 214
+        },
+        {
+          "page": 44,
+          "cid": 546438259,
+          "title": "DJ音标示范",
+          "duration": 309
+        },
+        {
+          "page": 45,
+          "cid": 546438412,
+          "title": "KK音标示范",
+          "duration": 321
+        },
+        {
+          "page": 46,
+          "cid": 546438705,
+          "title": "国际音标IPA示范",
+          "duration": 324
+        },
+        {
+          "page": 47,
+          "cid": 546438905,
+          "title": "完结撒花",
+          "duration": 20
+        }
+      ],
+      "creatorUrl": "https://space.bilibili.com/483162496",
+      "cover": "https://i2.hdslb.com/bfs/archive/580ac5793b817e07114492e909261653df5645c7.jpg",
+      "duration": 13695,
+      "publishedAt": "2020-07-29",
+      "url": "https://www.bilibili.com/video/BV1iV411z7Nj/",
+      "verifiedAt": "2026-11-04T01:59:45.530403+00:00",
+      "metadataStale": false,
+      "evidence": {
+        "accounts": 0,
+        "months": 0,
+        "qualified": false,
+        "records": []
+      },
+      "selection": "editorial"
+    }
+  ],
   "refreshFailures": 0,
   "collections": [
     {
@@ -3105,11 +4546,12 @@
     {
       "id": "code-start",
       "title": "编程的第一门课",
-      "description": "计算机科学建立全景，Python 带你动手。课程之间可以交替学习。",
+      "description": "用计算机科学了解全貌，用 Python 写出第一个程序，再用 SQL 查询自己的数据。",
       "category": "code",
       "videos": [
         "BV1EW411u7th",
-        "BV1c4411e77t"
+        "BV1c4411e77t",
+        "BV1Kr4y1i7ru"
       ]
     },
     {
@@ -3126,12 +4568,10 @@
     },
     {
       "id": "language",
-      "title": "英语，从声音到表达",
-      "description": "音标、语法与考试导览。按自己的薄弱环节选一门开始。",
+      "title": "第一次准备雅思",
+      "description": "跟薛麦Max认识听、说、读、写四种题型，再决定先练哪一项。",
       "category": "english",
       "videos": [
-        "BV1iV411z7Nj",
-        "BV1XY411J7aG",
         "BV1ww41177kU"
       ]
     },

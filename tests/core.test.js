@@ -33,6 +33,15 @@ test('each course part opens its own public URL and official player CID',()=>{
   assert.equal(videoUrl(linear,999),videoUrl(linear,1));
   assert.throws(()=>videoUrl({...linear,bvid:'javascript:alert(1)'}));
 });
+test('a chapter with a separate BVID opens its own archive at p=1', () => {
+  const episode = { page: 23, bvid: 'BV1uK411x7cp', aid: 495863559, cid: 1393925618 };
+  const series = { bvid: 'BV1Q34y1E72s', aid: 811846121, pages: [episode] };
+  assert.equal(videoUrl(series, 23), 'https://www.bilibili.com/video/BV1uK411x7cp/?p=1');
+  const params = new URL(videoUrl(series, 23, true)).searchParams;
+  for (const key of ['bvid', 'aid', 'cid']) assert.equal(params.get(key), String(episode[key]));
+  assert.equal(params.get('p'), '1');
+  assert.throws(() => videoUrl({ ...series, pages: [{ ...episode, bvid: '../wrong' }] }, 23));
+});
 test('old library migrates, deduplicates and drops unknown IDs without losing valid records',()=>{
   const raw={version:1,favorites:[linear.id,linear.id,'unknown'],later:[],history:[{id:linear.id,at:'2026-10-01T00:00:00Z'},{id:linear.id,at:'2026-10-02T00:00:00Z'}]};
   const state=normalizeLibrary(raw,videos);

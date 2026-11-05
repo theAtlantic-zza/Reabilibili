@@ -4,7 +4,7 @@
 
 - 站点：[ReaBili](https://theatlantic-zza.github.io/Reabilibili/)
 - 源码：[theAtlantic-zza/Reabilibili](https://github.com/theAtlantic-zza/Reabilibili)
-- 当前片单：38 条内容、8 个学习片单。系列课程按一个条目收录，分集单独展示。
+- 当前公开片单：38 条内容、8 个学习片单。课程和纪录片系列各占一个条目，分集单独展示。英语目前收录薛麦Max，编程收录鱼C-小甲鱼、CrashCourse 字幕组和黑马程序员。
 
 ## 内容与交互
 
@@ -36,7 +36,7 @@ python3 -m http.server 8876 --bind 127.0.0.1 --directory dist
 
 ## 更新片单
 
-1. 在 `data/seeds.json` 增加真实 BVID（或 AID）、分类、内容形式、标签和原创导读。分类为 `ai/code/world/english/health/sports`；世界通识子主题为 `math/finance/humanities`。形式为 `course/explainer/interview/practice/documentary`。
+1. 在 `data/seeds.json` 增加真实 BVID（或 AID）、分类、内容形式、标签和原创导读。分类为 `ai/code/world/english/health/sports`；世界通识子主题为 `math/finance/humanities`。形式为 `course/explainer/interview/practice/documentary`。跨独立单 P 稿件的作者合集使用第一集 BVID 和 B 站 `seasonId`，按作者目录生成各集原稿链接。
 2. 执行 `python3 scripts/refresh-catalog.py`，顺序请求公开元数据，核验标题、作者、分集、时长、发布时间和封面。只刷新已选择的视频，不无限抓取。
 3. 检查失败记录。请求失败时保留已核验缓存并标记；没有可用视频时不会覆盖片单。元数据可用不保证每个地区均能播放。
 4. 如需更新学习顺序，修改 `data/guide.json`。离线重建用 `python3 scripts/refresh-catalog.py --offline`。
@@ -59,6 +59,7 @@ python3 -m unittest discover -s tests -v
 ## 出处与边界
 
 - 用户提供的视频截图、主题偏好与博主提名是选题来源；截图中的第三方宣传数字未作为本站数据。
+- 英语和编程的新作者按维护者提名收录。明确点名整部作品时标记“用户提名系列”，只点名作者时注明具体课程由编辑选取。个人观看经历需由当事人确认。播放量和点赞量目前不参与收录或排序。收起已发布条目时设置 `unlisted: true` 并移除片单引用，已有收藏和分集链接仍可使用。
 - 标题、作者、时长、封面、日期和分集通过 B 站公开元数据核验。导读依据标题、目录和发布者简介整理，不是逐字稿摘要，也不代表对视频全部观点的认可。
 - 巫师后期为独立账号；其他提名对应陈石-营养-运动、徐远征Oliver、马拉松吴向东、薛麦Max、张小珺商业访谈录。保留作者真实名称与主页。
 - 发现思路参考 [HackerTube](https://hackertube.org/)，浏览与片单交互参考 [AnliBili](https://anlibili-site-bxlxh4ai.teamily.run/)。使用 [REA](https://github.com/morluto/rea) 6.8.0 对参考站公开脚本做静态分析。本站页面独立实现，未复制社区推荐数据。
