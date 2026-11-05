@@ -89,6 +89,18 @@ class SeasonTests(unittest.TestCase):
 
 
 class PublishedCatalogTests(unittest.TestCase):
+    def test_featured_creators_have_unique_bilibili_profiles(self):
+        guide = json.loads((ROOT/'data/guide.json').read_text())
+        published = json.loads((ROOT/'dist/catalog.json').read_text())
+        profiles = published['featuredCreators']
+        self.assertEqual(profiles, guide['featuredCreators'])
+        self.assertEqual(len({p['mid'] for p in profiles}), len(profiles))
+        for profile in profiles:
+            self.assertTrue(profile['name'].strip())
+            self.assertGreater(profile['mid'], 0)
+            self.assertEqual(profile['url'], f"https://space.bilibili.com/{profile['mid']}")
+            self.assertEqual(profile['category'], 'explore')
+
     def test_all_seeds_have_consistent_verified_public_metadata(self):
         published = json.loads((ROOT/'dist/catalog.json').read_text())
         seeds = json.loads((ROOT/'data/seeds.json').read_text())
@@ -111,7 +123,7 @@ class PublishedCatalogTests(unittest.TestCase):
                 self.assertEqual(urlsplit(video['creatorUrl']).hostname, 'space.bilibili.com')
                 self.assertEqual(urlsplit(video['cover']).scheme, 'https')
                 self.assertGreater(video['duration'], 0)
-                self.assertIn(video['category'], ['ai','code','world','english','health','sports'])
+                self.assertIn(video['category'], ['ai','code','world','english','health','sports','explore'])
                 self.assertTrue(video['pages'])
                 self.assertEqual([p['page'] for p in video['pages']], list(range(1,len(video['pages'])+1)))
                 self.assertTrue(all(p['cid'] and p['duration'] > 0 for p in video['pages']))

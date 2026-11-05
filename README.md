@@ -4,11 +4,11 @@
 
 - 站点：[ReaBili](https://theatlantic-zza.github.io/Reabilibili/)
 - 源码：[theAtlantic-zza/Reabilibili](https://github.com/theAtlantic-zza/Reabilibili)
-- 当前公开片单：38 条内容、8 个学习片单。课程和纪录片系列各占一个条目，分集单独展示。英语目前收录薛麦Max，编程收录鱼C-小甲鱼、CrashCourse 字幕组和黑马程序员。
+- 当前公开片单：34 条内容、8 个学习片单。课程和纪录片系列各占一个条目，分集单独展示。英语目前收录薛麦Max，编程收录鱼C-小甲鱼、CrashCourse 字幕组和黑马程序员。
 
 ## 内容与交互
 
-六个入口：**AI、编程、世界通识、英语、健康、运动**。世界通识可继续筛选数理基础、财经、人文与社会。
+七个入口：**AI、编程、世界通识、英语、健康、运动、看世界**。「看世界」可单独收录作者主页。世界通识可继续筛选数理基础、财经、人文与社会。
 
 首页直接展示视频网格，支持关键词搜索、形式和总时长筛选、排序。学习片单提供建议顺序；UP 主页面可浏览本站已收录的作品。课程详情有完整分集目录，例如 3Blue1Brown 的线性代数共 16 集。
 
@@ -26,7 +26,7 @@ python3 -m http.server 8876 --bind 127.0.0.1 --directory dist
 
 - `dist/`：唯一的公开站点目录，入口为 `index.html`；`app.js` 管理页面与交互，`core.js` 维护筛选、片单校验和分集链接，`style.css` 提供响应式布局。
 - `data/seeds.json`：选题、分类、标签、原创导读和来源性质。
-- `data/guide.json`：学习片单顺序与延伸阅读链接。
+- `data/guide.json`：学习片单顺序、按栏目展示的博主主页（`featuredCreators`）与延伸阅读链接。
 - `data/metadata.json`：最近核验成功的 B 站元数据，支持离线重建与请求失败回退。
 - `data/recommendations.json`：经维护者审核的社区推荐证据；当前为空。
 - `scripts/refresh-catalog.py`：核验元数据并生成 `dist/catalog.json`。
@@ -36,7 +36,7 @@ python3 -m http.server 8876 --bind 127.0.0.1 --directory dist
 
 ## 更新片单
 
-1. 在 `data/seeds.json` 增加真实 BVID（或 AID）、分类、内容形式、标签和原创导读。分类为 `ai/code/world/english/health/sports`；世界通识子主题为 `math/finance/humanities`。形式为 `course/explainer/interview/practice/documentary`。跨独立单 P 稿件的作者合集使用第一集 BVID 和 B 站 `seasonId`，按作者目录生成各集原稿链接。
+1. 在 `data/seeds.json` 增加真实 BVID（或 AID）、分类、内容形式、标签和原创导读。分类为 `ai/code/world/english/health/sports/explore`；世界通识子主题为 `math/finance/humanities`。形式为 `course/explainer/interview/practice/documentary`。跨独立单 P 稿件的作者合集使用第一集 BVID 和 B 站 `seasonId`，按作者目录生成各集原稿链接。
 2. 执行 `python3 scripts/refresh-catalog.py`，顺序请求公开元数据，核验标题、作者、分集、时长、发布时间和封面。只刷新已选择的视频，不无限抓取。
 3. 检查失败记录。请求失败时保留已核验缓存并标记；没有可用视频时不会覆盖片单。元数据可用不保证每个地区均能播放。
 4. 如需更新学习顺序，修改 `data/guide.json`。离线重建用 `python3 scripts/refresh-catalog.py --offline`。
@@ -59,7 +59,7 @@ python3 -m unittest discover -s tests -v
 ## 出处与边界
 
 - 用户提供的视频截图、主题偏好与博主提名是选题来源；截图中的第三方宣传数字未作为本站数据。
-- 英语和编程的新作者按维护者提名收录。明确点名整部作品时标记“用户提名系列”，只点名作者时注明具体课程由编辑选取。个人观看经历需由当事人确认。播放量和点赞量目前不参与收录或排序。收起已发布条目时设置 `unlisted: true` 并移除片单引用，已有收藏和分集链接仍可使用。
+- 新增博主和新增作品均由站点维护者决定。提名博主只授权展示该账号，具体视频逐条或按明确指定的系列确认。向维护者推荐的候选留在讨论中，确认后才写入公开片单。早期由编辑补充或代选的作品以详情页来源说明为准。个人观看经历需由当事人确认。播放量和点赞量目前不参与收录或排序。收起已发布条目时设置 `unlisted: true` 并移除片单引用，已有收藏和分集链接仍可使用。
 - 标题、作者、时长、封面、日期和分集通过 B 站公开元数据核验。导读依据标题、目录和发布者简介整理，不是逐字稿摘要，也不代表对视频全部观点的认可。
 - 巫师后期为独立账号；其他提名对应陈石-营养-运动、徐远征Oliver、马拉松吴向东、薛麦Max、张小珺商业访谈录。保留作者真实名称与主页。
 - 发现思路参考 [HackerTube](https://hackertube.org/)，浏览与片单交互参考 [AnliBili](https://anlibili-site-bxlxh4ai.teamily.run/)。使用 [REA](https://github.com/morluto/rea) 6.8.0 对参考站公开脚本做静态分析。本站页面独立实现，未复制社区推荐数据。

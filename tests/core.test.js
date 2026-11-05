@@ -14,12 +14,16 @@ test('world knowledge separates mathematics and finance; compound search interse
   assert.equal(filterVideos(videos,{q:'这个视频不存在92832'}).length,0);
 });
 test('duration and format filters compose and do not mutate curated order',()=>{
-  const ids=videos.map(v=>v.id);
-  const selected=filterVideos(videos,{category:'sports',time:'short',kind:'practice',sort:'short'});
-  assert.ok(selected.length>=3);
-  assert.ok(selected.every(v=>v.duration<600));
-  assert.ok(selected.every((v,i)=>i===0||selected[i-1].duration<=v.duration));
-  assert.deepEqual(videos.map(v=>v.id),ids);
+  const practice = { category:'sports', kind:'practice', tags:[] };
+  const sample = [
+    { ...practice, duration:450 }, { ...practice, duration:80 },
+    { ...practice, duration:600 }, { ...practice, duration:100, kind:'documentary' },
+    { ...practice, duration:90, category:'health' },
+  ];
+  const originalOrder = sample.slice();
+  const selected = filterVideos(sample,{category:'sports',time:'short',kind:'practice',sort:'short'});
+  assert.deepEqual(selected.map(v=>v.duration),[80,450]);
+  assert.deepEqual(sample,originalOrder);
 });
 test('each course part opens its own public URL and official player CID',()=>{
   assert.equal(linear.pages.length,16);

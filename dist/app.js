@@ -67,7 +67,7 @@ function renderSidebar() {
   const r = currentRoute || getRoute(), cat = r.params.get('category');
   $('#sidebar').innerHTML = `<nav>
     <div class="nav-section">${navItem('首页','home','#/',r.view==='home')}${navItem('学习片单','list','#/collections',['collections','collection'].includes(r.view))}${navItem('UP 主','users','#/creators',['creators','creator'].includes(r.view))}</div>
-    <div class="nav-section"><p class="nav-title">学习方向</p>${Object.entries(CATEGORIES).map(([key,label])=>navItem(label,key,categoryLink(key),r.view==='browse'&&cat===key)).join('')}</div>
+    <div class="nav-section"><p class="nav-title">学习方向</p>${Object.entries(CATEGORIES).map(([key,label])=>navItem(label,key==='explore'?'world':key,categoryLink(key),r.view==='browse'&&cat===key)).join('')}</div>
     <div class="nav-section"><p class="nav-title">我的片单</p>${[['later','clock'],['favorites','heart'],['history','history'],['completed','check']].map(([key,symbol])=>navItem(libraryTitles[key],symbol,href(key),r.view===key,library[key].length||'')).join('')}</div>
     <div class="nav-section">${navItem('延伸阅读','book','#/readings',r.view==='readings')}<button class="nav-item" data-action="settings">${icon('settings')}<span>片单备份</span></button>${navItem('关于 ReaBili','info','#/about',r.view==='about')}</div>
   </nav><div class="nav-footer">给大学生的学习片单<br>公开浏览 · 无需登录<br><a href="https://github.com/theAtlantic-zza/Reabilibili" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>`;
@@ -89,7 +89,7 @@ function emptyState(title, text, reset = false) {
   return `<div class="empty"><h2>${esc(title)}</h2><p>${esc(text)}</p>${reset?'<button class="button" data-action="reset-filters">清除筛选</button>':'<a class="button" href="#/">去首页看看</a>'}</div>`;
 }
 function footer() {
-  return `<footer class="browse-footer"><span>编辑精选 · ${videos.length} 条内容 · 保留原始出处</span><a href="#/about">了解收录方式 ↗</a></footer>`;
+  return `<footer class="browse-footer"><span>公开片单 · ${videos.length} 条内容 · 保留原始出处</span><a href="#/about">了解收录方式 ↗</a></footer>`;
 }
 function chips() {
   const p = currentRoute.params, cat=p.get('category')||'';
@@ -108,7 +108,24 @@ function renderBrowse() {
   const filters = Object.fromEntries(p);
   const result = filterVideos(videos,filters);
   const title = currentRoute.view==='search' ? `“${p.get('q')||''}”的搜索结果` : TOPICS[p.get('topic')]||CATEGORIES[p.get('category')]||'推荐浏览';
-  $('#content').innerHTML = chips()+toolbar(title,result.length)+`<div class="video-grid">${result.map(videoCard).join('')}</div>`+(result.length?'':emptyState('没有找到符合条件的视频','试试更短的关键词，或放宽形式与时长筛选。',true))+footer();
+  const isExplore = filters.category === 'explore' && currentRoute.view === 'browse';
+  const terms = (filters.q || '').trim().toLowerCase().split(/\s+/).filter(Boolean);
+  const profiles = creatorList().filter(c => {
+    if (!c.category || (filters.category && filters.category !== c.category)) return false;
+    const text = [c.name, CATEGORIES[c.category]].join(' ').toLowerCase();
+    return terms.every(term => text.includes(term));
+  });
+  const showProfiles = isExplore || (currentRoute.view === 'search' && terms.length && profiles.length);
+  const content = [chips()];
+  if (showProfiles) {
+    content.push(`<div class="page-head"><div><h1>${esc(title)}</h1>${isExplore ? '<p>从作者主页浏览他们在 B 站发布的作品。</p>' : ''}</div><span class="muted">${profiles.length} 位 UP 主</span></div>`);
+    content.push(creatorGrid(profiles));
+  }
+  if (!showProfiles || result.length || (isExplore && videos.some(v => v.category === 'explore'))) {
+    content.push(toolbar(showProfiles ? '收录视频' : title, result.length));
+    content.push(result.length ? `<div class="video-grid">${result.map(videoCard).join('')}</div>` : emptyState('没有找到符合条件的视频','试试更短的关键词，或放宽形式与时长筛选。',true));
+  }
+  $('#content').innerHTML = content.join('') + footer();
 }
 function renderLibrary() {
   const key=currentRoute.view;
@@ -132,20 +149,42 @@ function renderCollection() {
   $('#content').innerHTML=`<div class="breadcrumbs"><a href="#/collections">学习片单</a><span>/</span><span>${CATEGORIES[c.category]}</span></div><div class="collection-detail">${collectionCover(c)}<div><div class="eyebrow">${list.length} 条内容 · 建议按顺序浏览</div><h1>${esc(c.title)}</h1><p>${esc(c.description)}</p><a class="button primary" href="${href('video',list[0].id)}">${icon('play')}从第一条开始</a></div></div><ol class="ordered-videos">${list.map((v,i)=>`<li><span class="order-number">${String(i+1).padStart(2,'0')}</span>${thumbnail(v,href('video',v.id))}<div class="ordered-info"><h2><a href="${href('video',v.id)}">${esc(v.title)}</a></h2><p>${esc(v.summary)}</p><div class="card-meta"><a href="${v.unlisted ? esc(v.creatorUrl) : href('creator', v.creatorMid)}">${esc(v.creator)}</a> · ${KINDS[v.kind]}${v.pages.length>1?` · ${v.pages.length} 集`:''}</div></div><button class="icon-button" data-action="toggle" data-key="later" data-id="${v.id}" aria-label="${toggleLabel('later',library.later.includes(v.id))}：${esc(v.title)}" aria-pressed="${library.later.includes(v.id)}">${icon(library.later.includes(v.id)?'check':'clock')}</button></li>`).join('')}</ol>`+footer();
 }
 function creatorList() {
-  const map=new Map();
-  for(const v of videos){if(!map.has(v.creatorMid))map.set(v.creatorMid,{mid:v.creatorMid,name:v.creator,avatar:v.creatorAvatar,url:v.creatorUrl,videos:[]});map.get(v.creatorMid).videos.push(v);}
+  const map = new Map((catalog.featuredCreators || []).map(c => [String(c.mid), { ...c, videos: [] }]));
+  for (const v of videos) {
+    const key = String(v.creatorMid);
+    if (!map.has(key)) {
+      map.set(key, { mid: v.creatorMid, name: v.creator, avatar: v.creatorAvatar, url: v.creatorUrl, videos: [] });
+    }
+    map.get(key).videos.push(v);
+  }
   return [...map.values()].sort((a,b)=>b.videos.length-a.videos.length);
 }
 function avatar(c) { return c.avatar?`<img class="avatar" src="${esc(c.avatar)}" alt="" loading="lazy" referrerpolicy="no-referrer">`:`<span class="avatar" aria-hidden="true"></span>`; }
+function creatorGrid(creators) {
+  const cards = creators.map(c => {
+    const detail = href('creator', c.mid);
+    const categories = new Set([c.category, ...c.videos.map(v => v.category)].filter(Boolean));
+    const subtitle = [...categories].map(key => esc(CATEGORIES[key])).join(' · ');
+    const action = c.videos.length ? `<a href="${detail}">已收录 ${c.videos.length} 条</a>` : `<a href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">B 站主页 ↗</a>`;
+    return `<article class="creator-tile"><a href="${detail}" tabindex="-1" aria-label="${esc(c.name)}">${avatar(c)}</a><div><h2><a href="${detail}">${esc(c.name)}</a></h2><p>${subtitle}</p><small>${action}</small></div></article>`;
+  });
+  return `<div class="creator-grid">${cards.join('')}</div>`;
+}
 function renderCreators() {
-  const creators=creatorList();
-  $('#content').innerHTML=`<div class="page-head"><div><h1>UP 主</h1><p>从喜欢的讲述者出发。这里展示已收录的视频，不等于作者的全部作品。</p></div><span class="muted">${creators.length} 位</span></div><div class="creator-grid">${creators.map(c=>`<article class="creator-tile"><a href="${href('creator',c.mid)}" tabindex="-1">${avatar(c)}</a><div><h2><a href="${href('creator',c.mid)}">${esc(c.name)}</a></h2><p>${[...new Set(c.videos.map(v=>CATEGORIES[v.category]))].join(' · ')}</p><small><a href="${href('creator',c.mid)}">已收录 ${c.videos.length} 条</a></small></div></article>`).join('')}</div>`+footer();
+  const creators = creatorList();
+  $('#content').innerHTML = `<div class="page-head"><div><h1>UP 主</h1></div><span class="muted">${creators.length} 位</span></div>` + creatorGrid(creators) + footer();
 }
 function renderCreator() {
-  const c=creatorList().find(c=>String(c.mid)===currentRoute.id);
-  if(!c){renderNotFound();return;}
-  const result=filterVideos(c.videos,Object.fromEntries(currentRoute.params));
-  $('#content').innerHTML=`<div class="page-head"><div class="creator-head">${avatar(c)}<div><h1>${esc(c.name)}</h1><p>ReaBili 已收录 ${c.videos.length} 条内容</p></div></div><a class="button" href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">B 站主页 ${icon('external')}</a></div>`+toolbar('收录视频',result.length)+`<div class="video-grid">${result.map(videoCard).join('')}</div>`+(result.length?'':emptyState('没有符合筛选的视频','放宽时长或内容形式再试试。',true))+footer();
+  const c = creatorList().find(c => String(c.mid) === currentRoute.id);
+  if (!c) { renderNotFound(); return; }
+  const note = c.videos.length ? `已收录 ${c.videos.length} 条视频` : `${esc(CATEGORIES[c.category])} · 目前收录作者主页`;
+  const content = [`<div class="page-head"><div class="creator-head">${avatar(c)}<div><h1>${esc(c.name)}</h1><p>${note}</p></div></div><a class="button" href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">B 站主页 ${icon('external')}</a></div>`];
+  if (c.videos.length) {
+    const result = filterVideos(c.videos, Object.fromEntries(currentRoute.params));
+    content.push(toolbar('收录视频',result.length));
+    content.push(result.length ? `<div class="video-grid">${result.map(videoCard).join('')}</div>` : emptyState('没有符合筛选的视频','放宽时长或内容形式再试试。',true));
+  }
+  $('#content').innerHTML = content.join('') + footer();
 }
 function selectedPage(v) {
   const requested=Number(currentRoute.params.get('p'))||library.parts[v.id]||1;
@@ -176,7 +215,7 @@ function renderReadings() {
   $('#content').innerHTML=`<div class="page-head"><div><h1>延伸阅读</h1><p>把视频里产生的问题，带到更完整的资料中。</p></div></div><div class="readings">${catalog.readings.map(r=>`<article class="reading"><span class="reading-label">${esc(r.label)}</span><div><h2><a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${esc(r.title)} ↗</a></h2><p>${esc(r.description)}</p><small>${esc(r.source)}</small></div></article>`).join('')}<div class="prose"><p>这里借鉴 HowToLiveBetter 的主题组织方式，保留原始链接。介绍为本站整理，未转载正文；原项目的证据评级不自动适用于本站视频。</p></div></div>`+footer();
 }
 function renderAbout() {
-  $('#content').innerHTML=`<div class="page-head"><div><h1>关于 ReaBili</h1><p>一个面向大学生的 B 站学习入口。</p></div></div><article class="prose"><p>从你愿意完整看完的视频开始。ReaBili 把 AI、编程、世界通识、英语、健康与运动放在一个可搜索的片单里。数理基础、财经和人文归在“世界通识”中，也可以分别筛选。</p><h2>片单从哪里来</h2><p>目前收录 ${videos.length} 条内容，来自 ${creatorList().length} 位 UP 主。片单里有直接点名的作品，也有从提名的作者中挑选的单集和编辑补充的课程。每条作品的「出处与收录说明」标明选题来源。</p><p>每条视频均核验 B 站标题、作者、链接与分集信息。编辑导读根据标题、目录和发布者简介整理，不等于逐字稿摘要或对全部观点的认可。健康内容分清科普、训练经验与职业运动纪录；财经内容以理解概念和机制为主。</p><h2>“反复推荐”需要真实依据</h2><p>只有同一平台至少 3 个可区分账号、跨至少 3 个不同年月的正向推荐，经来源审核后，才会标记为“社区验证”。目前这份片单均为编辑精选，不显示未经核验的推荐人数或跨月记录。</p><h2>你自己的片单</h2><p>收藏、稍后看、最近打开、已看标记与上次选择的分集，均保存在当前浏览器。无需注册，也没有跨设备同步。更换设备或清理浏览器前，可在“片单备份”中导出 JSON，再在新浏览器导入。</p><p>“最近打开”记录打开播放器或原站的动作；“已看完”由你手动标记，系列课程按整个合集计算。本站不获取 B 站观看进度。</p><h2>参考与出处</h2><ul><li>发现思路：<a href="https://hackertube.org/" target="_blank" rel="noopener noreferrer">HackerTube</a>；浏览与片单交互参考：<a href="https://anlibili-site-bxlxh4ai.teamily.run/" target="_blank" rel="noopener noreferrer">AnliBili</a>。</li><li>使用 <a href="https://github.com/morluto/rea" target="_blank" rel="noopener noreferrer">REA</a> 分析参考站的公开结构与交互，本站页面独立实现。</li><li>生活主题参考 <a href="https://github.com/eternity4719/HowToLiveBetter" target="_blank" rel="noopener noreferrer">HowToLiveBetter</a>，正文许可为 CC BY 4.0。本站提供原始链接与原创介绍，未转载正文。</li><li>视频、封面与作者信息来自 B 站，版权归各自权利人。本站仅索引与嵌入，不搬运视频。</li></ul><h2>公开维护</h2><p>站点使用 GitHub Pages 静态托管。<a href="https://github.com/theAtlantic-zza/Reabilibili" target="_blank" rel="noopener noreferrer">源码与片单公开在 GitHub ↗</a>。更新通过维护选题与核验元数据完成；首版尚未运行自动抓取或无人值守推荐。</p><p>片单更新：${catalog.updatedAt.slice(0,10)}。外部视频的播放、账号要求和清晰度由 B 站决定，详情页始终提供原站入口。</p></article>`;
+  $('#content').innerHTML=`<div class="page-head"><div><h1>关于 ReaBili</h1><p>一个面向大学生的 B 站学习入口。</p></div></div><article class="prose"><p>「世界通识」收录数理基础、财经和人文内容。「看世界」单列博主主页，可以直接去 B 站看他们的作品。</p><h2>片单从哪里来</h2><p>目前公开 ${videos.length} 条视频与系列。新博主和具体作品分别由站点维护者确认后收录。早期片单包含编辑补选的内容，每条作品的「出处与收录说明」保留其来源。</p><p>每条视频均核验 B 站标题、作者、链接与分集信息。编辑导读根据标题、目录和发布者简介整理，不等于逐字稿摘要或对全部观点的认可。健康内容分清科普、训练经验与职业运动纪录；财经内容以理解概念和机制为主。</p><h2>“反复推荐”需要真实依据</h2><p>只有同一平台至少 3 个可区分账号、跨至少 3 个不同年月的正向推荐，经来源审核后，才会标记为“社区验证”。目前这份片单均为编辑精选，不显示未经核验的推荐人数或跨月记录。</p><h2>你自己的片单</h2><p>收藏、稍后看、最近打开、已看标记与上次选择的分集，均保存在当前浏览器。无需注册，也没有跨设备同步。更换设备或清理浏览器前，可在“片单备份”中导出 JSON，再在新浏览器导入。</p><p>“最近打开”记录打开播放器或原站的动作；“已看完”由你手动标记，系列课程按整个合集计算。本站不获取 B 站观看进度。</p><h2>参考与出处</h2><ul><li>发现思路：<a href="https://hackertube.org/" target="_blank" rel="noopener noreferrer">HackerTube</a>；浏览与片单交互参考：<a href="https://anlibili-site-bxlxh4ai.teamily.run/" target="_blank" rel="noopener noreferrer">AnliBili</a>。</li><li>使用 <a href="https://github.com/morluto/rea" target="_blank" rel="noopener noreferrer">REA</a> 分析参考站的公开结构与交互，本站页面独立实现。</li><li>生活主题参考 <a href="https://github.com/eternity4719/HowToLiveBetter" target="_blank" rel="noopener noreferrer">HowToLiveBetter</a>，正文许可为 CC BY 4.0。本站提供原始链接与原创介绍，未转载正文。</li><li>视频、封面与作者信息来自 B 站，版权归各自权利人。本站仅索引与嵌入，不搬运视频。</li></ul><h2>公开维护</h2><p>站点使用 GitHub Pages 静态托管。<a href="https://github.com/theAtlantic-zza/Reabilibili" target="_blank" rel="noopener noreferrer">源码与片单公开在 GitHub ↗</a>。更新通过维护选题与核验元数据完成；首版尚未运行自动抓取或无人值守推荐。</p><p>片单更新：${catalog.updatedAt.slice(0,10)}。外部视频的播放、账号要求和清晰度由 B 站决定，详情页始终提供原站入口。</p></article>`;
 }
 function renderNotFound() { $('#content').innerHTML=emptyState('这个页面还没有内容','可能是链接已变更，回到首页重新找找。'); }
 function closeNav() {

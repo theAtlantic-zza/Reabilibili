@@ -93,7 +93,7 @@
     "kind": "explainer",
     "level": "beginner",
     "topic": "finance",
-    "sourceType": "用户选题"
+    "sourceType": "用户提名博主，编辑选集"
   },
   {
     "bvid": "BV1XY411J7aG",
@@ -116,6 +116,7 @@
   },
   {
     "bvid": "BV1jk4y117eK",
+    "unlisted": true,
     "tags": [
       "热身",
       "无器械",
@@ -134,6 +135,7 @@
   },
   {
     "bvid": "BV1iZXcYqEYt",
+    "unlisted": true,
     "tags": [
       "睡眠",
       "健康科普",
@@ -163,7 +165,7 @@
     "reason": "适合想理解模型背后工程体系的人，保留完整访谈的上下文。",
     "kind": "interview",
     "level": "curious",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1bx411M7Zx",
@@ -216,7 +218,7 @@
     "collection": "world",
     "kind": "explainer",
     "level": "beginner",
-    "sourceType": "用户提名",
+    "sourceType": "用户提名博主，编辑选集",
     "note": ""
   },
   {
@@ -232,7 +234,7 @@
     "collection": "language",
     "kind": "explainer",
     "level": "beginner",
-    "sourceType": "用户提名",
+    "sourceType": "用户提名博主，编辑选集",
     "note": "先了解题型与备考框架；考试安排与现行规则以官方说明为准。"
   },
   {
@@ -249,7 +251,7 @@
     "kind": "explainer",
     "level": "beginner",
     "topic": "finance",
-    "sourceType": "用户选题"
+    "sourceType": "用户提名博主，编辑选集"
   },
   {
     "bvid": "BV1CzjY6kE4x",
@@ -264,7 +266,7 @@
     "collection": "body",
     "kind": "explainer",
     "level": "beginner",
-    "sourceType": "用户提名",
+    "sourceType": "用户提名博主，编辑选集",
     "note": "运动营养概念科普，适合用来识别补剂宣传中的问题。"
   },
   {
@@ -280,7 +282,7 @@
     "collection": "body",
     "kind": "practice",
     "level": "beginner",
-    "sourceType": "用户提名",
+    "sourceType": "用户提名博主，编辑选集",
     "note": ""
   },
   {
@@ -296,7 +298,7 @@
     "reason": "适合关心 Agent 如何影响模型研发与组织方式的观众。",
     "kind": "interview",
     "level": "curious",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1qW411N7FU",
@@ -338,6 +340,7 @@
   },
   {
     "bvid": "BV1hE411V77S",
+    "unlisted": true,
     "tags": [
       "跑步",
       "拉伸",
@@ -367,7 +370,7 @@
     "collection": "body",
     "kind": "documentary",
     "level": "curious",
-    "sourceType": "用户提名",
+    "sourceType": "用户提名博主，编辑选集",
     "note": "职业运动员的参赛纪录，用于了解赛事经历与运动生活。"
   },
   {
@@ -383,7 +386,7 @@
     "reason": "用一场深入对话，理解具身智能中的数据问题。",
     "kind": "interview",
     "level": "curious",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1fmgj66EtD",
@@ -398,7 +401,7 @@
     "reason": "把模型研究与团队实践放在一起看，适合完整收听。",
     "kind": "interview",
     "level": "curious",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1YR5E6EE9o",
@@ -413,7 +416,7 @@
     "reason": "一手访谈提供研究经历与判断的背景，不只留下结论。",
     "kind": "interview",
     "level": "curious",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1XmtyzKEzQ",
@@ -428,7 +431,7 @@
     "reason": "连接研究、工程和商业化三个视角。",
     "kind": "interview",
     "level": "curious",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1uC4y1q79G",
@@ -444,7 +447,7 @@
     "kind": "explainer",
     "level": "beginner",
     "topic": "finance",
-    "sourceType": "用户选题"
+    "sourceType": "用户提名博主，编辑选集"
   },
   {
     "aid": 114505220624919,
@@ -460,7 +463,7 @@
     "kind": "interview",
     "level": "curious",
     "topic": "finance",
-    "sourceType": "用户选题"
+    "sourceType": "用户提名博主，编辑选集"
   },
   {
     "bvid": "BV1cQYYzYEDX",
@@ -476,7 +479,7 @@
     "kind": "interview",
     "level": "curious",
     "topic": "humanities",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1zNoVB1EWb",
@@ -492,7 +495,7 @@
     "kind": "interview",
     "level": "curious",
     "topic": "humanities",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1dd7r6oEpf",
@@ -508,7 +511,7 @@
     "kind": "interview",
     "level": "curious",
     "topic": "humanities",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1jCpizuEPg",
@@ -524,7 +527,7 @@
     "kind": "interview",
     "level": "curious",
     "topic": "humanities",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV12gmuBWEJY",
@@ -540,7 +543,7 @@
     "kind": "interview",
     "level": "curious",
     "topic": "humanities",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1wZJD6NEku",
@@ -556,7 +559,7 @@
     "kind": "interview",
     "level": "curious",
     "topic": "humanities",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1CAHV6PEPM",
@@ -571,7 +574,7 @@
     "reason": "适合正在选择研究方向、读博路径与产业机会的人。",
     "kind": "interview",
     "level": "curious",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV18j411S7ST",
@@ -587,7 +590,7 @@
     "kind": "explainer",
     "level": "beginner",
     "topic": "finance",
-    "sourceType": "用户选题"
+    "sourceType": "用户提名博主，编辑选集"
   },
   {
     "bvid": "BV16s7b68EwG",
@@ -603,7 +606,7 @@
     "kind": "interview",
     "level": "curious",
     "topic": "humanities",
-    "sourceType": "用户选题"
+    "sourceType": "用户提供的片单截图"
   },
   {
     "bvid": "BV1W5411V7No",
@@ -618,7 +621,7 @@
     "collection": "body",
     "kind": "practice",
     "level": "beginner",
-    "sourceType": "用户提名",
+    "sourceType": "用户提名博主，编辑选集",
     "note": "作者训练计划中的公开片段；此处不是完整训练课程。"
   },
   {
@@ -642,6 +645,7 @@
   },
   {
     "bvid": "BV1LHev6yEs8",
+    "unlisted": true,
     "tags": [
       "口腔健康",
       "健康科普",

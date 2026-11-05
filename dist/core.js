@@ -1,5 +1,5 @@
 export const CATEGORIES = {
-  ai: 'AI', code: '编程', world: '世界通识', english: '英语', health: '健康', sports: '运动',
+  ai: 'AI', code: '编程', world: '世界通识', english: '英语', health: '健康', sports: '运动', explore: '看世界',
 };
 export const TOPICS = { math: '数理基础', finance: '财经', humanities: '人文与社会' };
 export const KINDS = { course: '系列课程', explainer: '知识讲解', interview: '访谈', practice: '运动练习', documentary: '纪录' };
