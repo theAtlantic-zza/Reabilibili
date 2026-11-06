@@ -2,7 +2,7 @@
 
 **从朋友推荐的 B 站视频，发现下一部想看的作品。**
 
-ReaBili 是一个由用户共同整理视频推荐的小型社区。视频来自 Bilibili，推荐来自真实分享者。你可以看到谁推荐了什么，也可以沿着一个人的公开片单继续逛。
+ReaBili 是一个由用户共同整理视频推荐的小型社区。视频来自 Bilibili，推荐由社区使用者主动发布。你可以看到谁推荐了什么，也可以沿着一个人的公开片单继续逛。
 
 [打开 ReaBili 片单](https://theatlantic-zza.github.io/Reabilibili/) · [试用社区推荐](https://theatlantic-zza.github.io/Reabilibili/community.html) · [查看代码](https://github.com/theAtlantic-zza/Reabilibili)
 
