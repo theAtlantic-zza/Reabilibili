@@ -12,7 +12,7 @@
 - 初次使用会在本浏览器生成随机身份凭据。公开信息包括昵称、视频、推荐时间和自愿填写的理由。清除站点数据或换设备会失去原身份的编辑能力。本版没有跨设备账号、关注或评论。昵称可重名，人数按不同浏览器身份统计。
 - 「首页」最多 10 部。「近 7 天多人推荐」5 席、「首次在社区出现不满 48 小时」3 席、「较早出现且推荐者少」2 席，候选不足时互补。同一视频只占一席，同一 UP 主通常不超过两席。计数不看推荐理由长度。同分候选每 6 小时轮换；首版用推荐者人数近似冷门程度，没有收集曝光量。
 - 「最新」可看本次试用库的全部推荐。站主维护的[原片单](https://theatlantic-zza.github.io/Reabilibili/index.html#/browse)可作分享入口。私人收藏、历史和观看进度仍只保存在浏览器。
-- 界面在 `dist/community.html`、`dist/community.js` 和 `dist/community.css`，排序在 `dist/community-rank.js`。GitHub Pages 提供页面，`dist/community-config.js` 指定公开 API。共享推荐存储在 `community-api/worker.js` 背后的 D1 数据库。后端操作按浏览器身份鉴权，数据库按身份和 BVID 去重。
+- 界面在 `dist/community.html`、`dist/community.js` 和 `dist/community.css`，排序在 `dist/community-rank.js`。GitHub Pages 提供页面，站主的 Cloudflare Worker 接收推荐并写入 D1。生产接口由 `dist/community-config.js` 中的 `PRODUCTION_API` 指定，发布时的双身份读写检查也使用这个地址。后端按浏览器身份鉴权，数据库按身份和 BVID 去重。
 
 ### 在本机试用社区
 
@@ -73,7 +73,7 @@ python3 -m unittest discover -s tests -v
 
 在仓库的 **Settings → Pages → Source** 选择 **GitHub Actions**。工作流使用官方 `configure-pages`、`upload-pages-artifact` 与 `deploy-pages`，只上传 `dist/`，以 hash 路由支持项目子路径和直接进入分集。
 
-发布不需要业务后端、模型 API 密钥或 B 站 Cookie。元数据刷新在维护者本地进行，CI 使用已经核验的公开片单，避免因 B 站请求限制导致部署失败。
+原片单可从 GitHub Pages 独立发布。共享推荐需要部署上文的 Worker 和 D1。元数据刷新在维护者本地进行，CI 使用已经核验的公开片单。
 
 ## 出处与边界
 

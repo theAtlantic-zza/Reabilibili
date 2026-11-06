@@ -32,7 +32,9 @@ jobs:
           python3 -m unittest discover -s tests -v
       - name: Verify public community API from a second network
         if: inputs.check_community || contains(github.event.head_commit.message, '[pilot-smoke]')
-        run: node scripts/check-community.mjs https://reabili.zza1343538124.chatgpt.site --write
+        run: |
+          api_base=$(node --input-type=module -e "import { PRODUCTION_API } from './dist/community-config.js'; console.log(PRODUCTION_API)")
+          node scripts/check-community.mjs "$api_base" --write
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
